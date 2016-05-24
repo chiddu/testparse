@@ -1,0 +1,1970 @@
+
+<!DOCTYPE html>
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/favicon1.ico" />
+<link rel="stylesheet" async=true type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-Ua-Compatible" content="IE=edge" />
+
+
+
+<title>My Profile - Jeevansathi.com</title>
+
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/common/commonJspc_css_4.css,/css/jspc/common/fontsJspc_css_1.css,/css/jspc/common/headerFooterJspc_css_5.css,/css/helpWidget_css_4.css,/css/jspc/common/mCustomScrollBar_css_1.css,/css/rippleEffectCommon_css_2.css" />
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/utility/chosen/chosen_css_1.css,/css/jspc/profile/view/jspcViewProfile_css_2.css,/css/jspc/profile/edit/dpp/dppEdit_css_4.css,/css/jspc/profile/edit/profile/jspcEditProfile_css_2.css,/css/jspc/profile/edit/profile/jspcCoverPhoto_css_1.css,/css/jspc/profile/edit/profile/jspcEditProfileCompletion_css_1.css,/css/jspc/phone/phoneVerification_css_2.css" />
+
+<script type="text/javascript" language="Javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/tracking_js_6.js,/js/jspc/common/AjaxWrapper_3.js"></script>
+
+
+<script>
+var domainCode={};
+domainCode[".hindijeevansathi.in"]="UA-20942264-1";
+domainCode[".jeevansathi.co.in"]="UA-20941176-1";
+domainCode[".marathijeevansathi.in"]="UA-20941180-1";
+domainCode[".punjabijeevansathi.com"]="UA-20941670-1";
+domainCode[".punjabijeevansathi.in"]="UA-20941669-1";
+domainCode[".jeevansathi.com"]="UA-179986-1";
+var host_url="http://"+window.location.host;
+var j_domain=host_url.match(/:\/\/[\w]{0,10}(.[^/]+)/)[1];
+j_domain=j_domain.toLowerCase();
+var ucode=domainCode[j_domain];
+if(ucode)
+{
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', ucode]);
+_gaq.push(['_setDomainName', j_domain]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+}
+function trackJsEventGA(category, action, label){
+if(ucode){
+_gaq.push(['_trackEvent', category, action, label]);
+} else {
+return false;
+}
+}
+var loggedInJspcUser="13341375";
+</script>
+</head>
+
+        <script>
+    jsb9init_first();
+    </script>
+<noscript>
+<div class="bg_pink lh46 f18 txtc colrw fontreg boxshadow" style="font-weight: 300;">
+You have not enabled Javascript on your browser, please enable it to use the website
+</div>
+</noscript>
+<body >
+<div id="clickHolderCE" onclick="javascript:updateClickHolderCE(false,event)" style="height:0px;width:0px">&nbsp;</div>
+<div id="clickHolder" onclick="javascript:updateClickHolder(false,event)" style="height:0px;width:0px" >&nbsp;</div><div id="commonOverlay" class="jspcOverlay js-overlay overlayZ disp-none"></div>
+<!--start:error layer-->
+<div class="pos_fix fullwid z6" style="background-color:#fdfdfd; display:none;" id="commonError">
+<div class="container errwid2 pt10 pb10">
+<div class="fl">
+<i class="sprite2 erric1"></i>
+</div>
+<div class="fl f20 fontlig color11 pt10 pl20" id="js-commonErrorMsg">
+Something went wrong. Please try again after some time.
+</div>
+</div>
+</div>
+<!--end:error layer-->
+<!--start:overlay-->
+
+<!--end:overlay-->
+<!--start:photo Layer-->
+<div id="photoLayerMain" class="disp-none">
+<!--start:photo container-->
+<div class="pos_fix srppos7 fullwid layersZ">
+<div class="pos-rel">
+<!--start:photo container-->
+<div class="mainwid hgt512 container txtc" id="photoContainer">
+
+</div>
+<div class="srpcolr6 f17 fontlig txtc"><div id="photoAlbumUsername"></div>  <div id="photoAlbumCaption">1 / 6</div></div>
+<!--end:photo container-->
+<!--start:prv/nxt-->
+<i class="pos-abs sprite2 photoprv srppos8 srppos9 cursp" id="photoAlbumPrev"></i>
+<i class="pos-abs sprite2 photonxt srppos8 srppos10 cursp" id="photoAlbumNext"></i>
+<i class="pos-abs sprite2 sprclose closepht cursp srppos11" id="photoAlbumClose"></i>
+<!--end:prv/nxt-->
+</div>
+
+
+
+</div>
+<!--end:photo container-->
+
+</div>
+<!--end:photo Layer-->
+
+
+
+
+<input id='hiddenPhoneMain' type='hidden' value='' phonetype='M'>
+<input id='hiddenIsd1' type='hidden' value=''>
+<input id='hiddenPhoneOther' type='hidden' value='' phonetype='A'>
+<input id='hiddenIsd2' type='hidden' value=''>
+<input id='hiddenLandline' type='hidden' value='' phonetype='L'>
+<input id='hiddenIsd3' type='hidden' value=''>
+
+<div class="pos-rel fullwid">
+<!--start:top part-->
+<div id="CPImage" class="prf-cover1" style="height:387px;">
+<div class="container mainwid pt35">
+<!--r_num is variable number whose value is fetched from Auth filter in case of JSPC and assigned to script to be accessed in commonExpiration_js.js-->
+<script type="text/javascript">
+var r_n_u_m = 10;
+//This fucntion returns the revision number and is called in commonExpiration_js.js
+function getR_N_U_M(){
+return(r_n_u_m);
+}
+</script>
+<script type="text/javascript">
+var initialPos=0;
+var zmt_mtag;
+var masterTag = 157126;
+function loadScript(src, callback)
+{
+var s,
+r,
+t;
+r = false;
+s = document.createElement('script');
+s.type = 'text/javascript';
+s.src = src;
+s.onload = s.onreadystatechange = function() {
+if ( !r && (!this.readyState || this.readyState == 'complete') )
+{
+r = true;
+callback();
+}
+};
+t = document.getElementsByTagName('script')[0];
+t.parentNode.insertBefore(s, t);
+}
+
+function renderBanners()
+{
+
+zmt_mtag = zmt_get_tag(2466,"157126");
+if($("#zd_async_frame_zt_157126_side").length)
+$("#zd_async_frame_zt_157126_side").remove();
+if($("#zt_157126_side").length)
+{
+p157126_side = zmt_mtag.zmt_get_placement("zt_157126_side", "157126", "1" , "3" , "7" , "1", "160","600");
+p157126_side.zmt_add_ct("d9:^A3:24^d10:6^d3:20^d1:3^d2:1^A2:M^A1:1^d4:242^d5:S^j1:marry59^j2:1^j3:31^d8:2^d6:C^d7:1^d11:4");
+}
+if($("#zd_async_frame_zt_157126_bottom").length)
+$("#zd_async_frame_zt_157126_bottom").remove();
+if($("#zt_157126_bottom").length)
+{
+p157126_bottom = zmt_mtag.zmt_get_placement("zt_157126_bottom", "157126", "2" , "3" , "64" , "1", "970","90");
+p157126_bottom.zmt_add_ct("d9:^A3:24^d10:6^d3:20^d1:3^d2:1^A2:M^A1:1^d4:242^d5:S^j1:marry59^j2:1^j3:31^d8:2^d6:C^d7:1^d11:4");
+}
+zmt_mtag.zmt_set_async();
+zmt_mtag.zmt_load(zmt_mtag);
+
+if($("#zt_157126_side").length)
+{
+var newScript = document.createElement('script');
+newScript.id="zt_157126_side";
+newScript.text="zmt_mtag.zmt_render_placement(p157126_side);";
+document.getElementById("zt_157126_side").appendChild(newScript);
+}
+if($("#zt_157126_bottom").length)
+{
+var newScript = document.createElement('script');
+newScript.id="zt_157126_bottom";
+newScript.text="zmt_mtag.zmt_render_placement(p157126_bottom);";
+document.getElementById("zt_157126_bottom").appendChild(newScript);
+}
+
+}
+
+var prev_handler = window.onload;
+window.onload=function(){
+
+if (prev_handler) {
+prev_handler();
+}
+setTimeout(function(){loadScript('http://xp1.zedo.com/client/xp1/fmos.js',renderBanners);},100);
+var zedoLoad = 1;
+}
+</script>
+
+<!--start:top nav-->
+<div id="topNavigationBar" class="pos_rel mainwid js-topnav navBarZ pos_rel">
+<div class="fullwid clearfix">
+<!--start:logo-->
+<div id="jeevansathiLogo" class="fl newLogoWidth logop1 hpwhite txtc disp-tbl">
+<p class="lgo" itemtype="http://schema.org/Organization" itemscope="">
+<a class="disp-cell vmid pl10" href="/myjs/jspcPerform" itemprop="url"> <img class="brdr-0 vmid" alt="Indian Matrimonials - We Match Better" src="http://static.jeevansathi.com/images/jspc/commonimg/logo1.png" itemprop="logo"> </a>
+</p>
+</div>
+<!--end:logo-->
+<!--start:middle-->
+<div class="fr topnavbg mnav-wid1 colrw f14 hgt63">
+<div class="fontreg f14">
+<div class=" pl27 clearfix">
+<!--start:left-->
+<ul class="topnavbar listnone fontlig f14 fl pt23">
+<li tabindex="1"><a id="homepageLink" href="/myjs/jspcPerform">HOME</a></li>
+<li tabindex="1" class="ml13"> <a class="drop" href="/search/index">MATCHES</a>
+<ul class="menushadowGNB">
+<li><a class="disp_b" href="/search/matchalerts"> Match Alerts</a></li>
+<li><a class="disp_b" href="/search/partnermatches">Desired Partner Matches</a></li>
+<li><a class="disp_b" href="/search/justjoined">Just Joined Matches</a></li>
+<li><a class="disp_b" href="/search/verifiedMatches">Matches verified by Visit</a></li>
+<li><a class="disp_b" href="/search/twoway">Mutual Matches</a></li>
+<li><a class="disp_b" href="/search/reverseDpp">People Looking for me</a></li>
+<li><a class="disp_b" href="/search/kundlialerts">Kundli Matches</a></li>
+<li><a class="disp_b" href="/search/shortlisted">Shortlisted members</a></li>
+<li><a class="disp_b" href="/search/visitors">Recent Profile Visitors</a></li>
+<li><a class="disp_b" href="/search/contactViewAttempts">Contact View Attempts<div class="fr"><div class="bg_pink mr15 mt10"><div style="line-height:10px;" class="colrw disp_b padall-6">New</div></div></div></a></li>
+</ul>
+</li>
+<li tabindex="1" class="ml37"> <a class="drop" href="/inbox/1/1">INBOX</a>
+<ul class="menushadowGNB">
+<li><a class="disp_b" href="/inbox/1/1"> Interests</a></li>
+<li><a class="disp_b" href="/inbox/3/1">Acceptances</a></li>
+<li><a class="disp_b" href="/inbox/4/1">Messages</a></li>
+<li><a class="disp_b" href="/inbox/9/1">Requests</a></li>
+<li><a class="disp_b" href="/inbox/11/1">Declined / Blocked members</a></li>
+<li><a class="disp_b" href="/inbox/17/1">Viewed Contacts</a></li>
+</ul>
+</li>
+<li id='js-searchTab' tabindex="1" class="ml37"><a class="drop cursp" href="/search/AdvancedSearch">SEARCH</a>
+<ul class="menushadowGNB">
+<li><a class="disp_b cursp" href="/search/AdvancedSearch"> Search</a></li>
+<li><a class="disp_b cursp"  href="/search/savedSearches">My Saved Searches</a></li>
+<li><a class="disp_b cursp js-srchbyid">Search by Profile ID</a></li>
+</ul>
+</li>
+<li id="upgrade" tabindex="1" class="ml37"><a class="disp_b cursp" onclick="javascript:logOutCheck('/profile/mem_comparison.php',1); return true;">UPGRADE</a></li>
+</ul>
+<!--end:left-->
+<!--start:right-->
+<ul class="fr hor_list righttopnav pt9 fontlig">
+<li id="viewBellCountHeader" class="pos-rel mt10 toplihg1 bellnot tnavwid2 mr30"> <i class="cursp sprite2 bellicon"></i>
+<!--start:number-->
+<div class="pos-abs tpos2 z2">
+<div id="totalBellCountParent" class="bg_pink f12 fontthin colrw disp-tbl noti1 txtc" style="display:none">
+<div id="totalBellCount" class="disp-cell vmid f11" >0</div>
+</div>
+</div>
+<!--end:number-->
+<!--start:submenu-->
+<ul class="submenu topnavbg pos-abs navbell menushadowGNB navBarZ">
+<li>
+<a href="/search/justjoined">
+<div class="clearfix topnavp1">
+<div class="fl">Just Joined Matches</div>
+<div class="fr">
+<div id="justJoinedCountParent" class="disp-tbl  txtc" style="display:none">
+<div id="justJoinedCount" class="disp-cell vmid colrw bg_pink f12 fontlig tdim2 count">0</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/inbox/4/1">
+<div class="clearfix topnavp1">
+<div class="fl">Messages</div>
+<div class="fr">
+<div id="messagesCountParent" class="disp-tbl  txtc" style="display:none">
+<div id="messagesCount" class="disp-cell vmid colrw f12 fontlig bg_pink tdim2 count">0</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/inbox/9/1">
+<div class="clearfix topnavp1">
+<div class="fl">Photo Requests</div>
+<div class="fr">
+<div id="photoRequestsCountParent" class="disp-tbl  txtc" style="display:none">
+<div id="photoRequestsCount" class="disp-cell vmid colrw f12 fontlig bg_pink tdim2 count">0</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/inbox/1/1">
+<div class="clearfix topnavp1">
+<div class="fl">Interests Received</div>
+<div class="fr">
+<div id="interestsReceivedCountParent" class="disp-tbl  txtc" style="display:none">
+<div id="interestsReceivedCount" class="disp-cell vmid colrw f12 fontlig bg_pink tdim2 count">0</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/inbox/2/1">
+<div class="clearfix topnavp1">
+<div class="fl">Members who Accepted me</div>
+<div class="fr">
+<div id="membersAcceptedMeCountParent" class="disp-tbl countBell txtc" style="display:none">
+<div id="membersAcceptedMeCount" class="disp-cell vmid colrw f12 fontlig bg_pink tdim2 count">0</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+<li>
+<a href="/search/matchalerts">
+<div class="clearfix topnavp1">
+<div class="fl">Match Alerts</div>
+<div class="fr">
+<div id="membersDailyMatchesCountParent" class="disp-tbl  txtc" style="display:none">
+<div id="membersDailyMatchesCount" class="disp-cell vmid colrw f12 fontlig bg_pink tdim2 count">0</div>
+</div>
+</div>
+</div>
+</a>
+</li>
+</ul>
+<!--end:submenu-->
+</li>
+<li class="toplihg2 mr30 pos-rel">
+<a href="/profile/viewprofile.php?ownview=1" alt=""><img id='js-profilePicIcon' class="cursp" src="http://static.jeevansathi.com/images/picture/120x120_m.png?noPhoto" style="height: 46px; width: 46px;border-radius: 23px;"></a>
+<!-- <img class="topimgdim1 topimgdim1" src="http://www.jeevansathi.com/images/jspc//searchImg/srch_image1.jpg"> -->
+<!--start:submenu-->
+<ul id="gnbPhotoMenu" class="topnavbg pos-abs submenu fontlig menushadowGNB navBarZ">
+<li><div class="topnavp1"><a class="disp_b" href="/profile/viewprofile.php?checksum=ad5bc3bf29f41637421cdd69eb6d2aaai13341375&profilechecksum=ad5bc3bf29f41637421cdd69eb6d2aaai13341375">My Profile (ZVUR1393)</a></div></li>
+<li><div class="topnavp1"><a class="disp_b" href="/profile/dpp"> My Desired Partner</a></div></li>
+<li><div class="topnavp1"><a class="disp_b" href="/settings/alertManager"> Alert Manager</a></div></li>
+<li><div class="topnavp1"><a class="disp_b" href="/settings/jspcSettings?visibility=1`">Privacy Settings</a></div></li>
+<li><div class="topnavp1"><a class="disp_b" href="/settings/jspcSettings?hideDelete=1">Hide/Delete profile</a></div></li>
+<li><div class="topnavp1"><a class="disp_b" href="/settings/jspcSettings?changePassword=1">Change Password</a></div></li>
+<li>
+<div class="clearfix topnavp1">
+<div class="fl pt5"><a class="disp_b" href="/profile/mem_comparison.php">You are Free Member  </a></div>
+<div class="fr">
+<div class="bg_pink navp2"><a class="colrw disp_b" href="/profile/mem_comparison.php">Upgrade</a></div>
+</div>
+</div>
+</li>
+<li><div class="topnavp1 txtc"><a class="disp_b cursp" onclick="javascript:logOutCheck('/static/logoutPage?fromSignout=1'); return true;">Sign out</a></div></li>
+</ul>
+<!--end:submenu-->
+</li>
+</ul>
+<!--end:right-->
+</div>
+</div>
+</div>
+<!--end:middle-->
+</div>
+</div>
+<!--end:top nav-->
+<!--search by profile id-->
+<!--start:srch by profile by id-->
+<div id="srcbyid-layer" class="pos_fix layersZ disp-none">
+<i id="cls-srcbyid" class="sprite2 close pos_fix closepos cursp"></i>
+<!--start:layer-->
+<div class="pos_fix fontlig setshare">
+<div class="mauto layerbg wid520">
+<div class="layerp1">
+<div class="f17 grey5" id="titleErr">Search by profile ID</div>
+<div class="mt20">
+<form action="">
+<div class="clearfix wid92p brderinp layerp2" id="SearchProIdBox">
+<input type="text" class="bgnone f15 grey6 brdr-0 fl fullwid" placeholder="Enter Profile ID" id="SearchProId" maxlength="15">
+</div>
+<div class="f15 colr2 pt10">e.g. ZXZ12345, YSW23456, etc.</div>
+<div class="mt30 scrollhid pos_rel">
+<button class="lh63 txtc colrw f18 fullwid brdr-0 bg5 cursp hoverBlue blueRipple" onClick="return false;" id="searchByIdBtn">Search</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<!--end:layer-->
+
+</div>
+<!--end:srch by profile by id-->
+
+
+
+</div>
+</div>
+<!--end:top part-->
+
+<!--start:second part-->
+<div class="bg-4">
+<div class="pos-rel container mainwid settop1">
+<div class="overlaywhite disp-none js-loaderShow"></div>
+<div class="overlayload js-loaderShow js-loaderDiv disp-none"><img src="http://static.jeevansathi.com/images/jspc/commonimg/loader.gif"></div>
+<div id="coverParent" class="ht50">
+<!--start:change cover photo div-->
+<div class="clearfix pb20" id="changeCP">
+<div class="fr color-blockfour lh40" id="changeCPBtn">
+<div class="colrw fontreg f15 vicons edpp1 edpic1 opa70 cursp">Change Cover Photo</div>
+</div>
+</div>
+<!--end:change cover photo div-->
+
+<!--start:change cover photo menu div-->
+<div class="pb20 disp-none" id="changeCPMenu">
+<div class="color-blockfour fullwid txtl">
+<div class="edpp11 clearfix">
+<ul id="coverPhotoCatul" class="changecover clearfix hor_list fontlig colrw f15 fl">
+<!--Dynamically added categories -->
+</ul>
+<div class="fr" id="toggleCPBtn">
+<div class="colrw fontreg f15 vicons edpic10 opa70 cursp edpdim1"></div>
+</div>
+</div>
+</div>
+</div>
+<!--end:change cover photo menu div-->
+</div>
+
+<!--start:overlay-->
+<!--    <div class="hpoverlay z3 disp-none" id="CPoverlay"></div> -->
+<!--end:overlay-->
+
+<!--start:cover layer-->
+<div id="changeCPLayer" class="pos_fix setCover z1001 disp-none">
+<div class="coverWidth edpbg2 pos-rel">
+<i id="closebtnedp" class="sprite2 edpcross1 pos-abs  CPclosepos cursp"></i>
+<div class="edpp12">
+<div>
+<ul id="changeCPLayerul" class="coversel hor_list clearfix">
+<!-- The <li> elements are generated dynamically -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--end:cover layer-->
+
+<!--start:photo div 1-->
+<div class="prfbg1 clearfix">
+<!--start:photo-->
+<!--start:photo-->
+<div class="fl pos-rel imgSize js-uploadPhoto cursp" data="0,ZVUR1393,ad5bc3bf29f41637421cdd69eb6d2aaai13341375">
+<div class="prfpos2 pos-abs">
+</div>
+<div class="imgSizeParent bgColorG scrollhid">
+<img src="http://static.jeevansathi.com/images/picture/450x450_m.png?noPhoto" class="brdr-0 vtop imgSize" oncontextmenu="return false;" onmousedown="return false;" alt=""/>
+</div>
+<div id="requestphoto"  class="pos-abs srppos4 propos6 fullwid js-noaction">
+<div class=" txtc colrw opa80 mauto fullwid pos-abs propos6"></div>
+</div>
+</div>
+<!--end:photo-->
+
+
+<!--end:photo-->
+<!--start:upload div-->
+<div class="fl color11 fontlig edpwid1 f15">
+<p class="txtc pt40">Upload Photos From</p>
+<ul class="hor_list clearfix pl60 pt20">
+<li><a href="/social/addPhotos?uploadType=C" class="sprite2 edpic2 disp_ib"></a></li>
+<li class="ml37"><a href="/social/addPhotos?uploadType=F" class="sprite2 edpic3 disp_ib"></a></li>
+</ul>
+<ul class="hor_list clearfix edpp2 pt15">
+<li class="edpbrd1 pr10"><a href="/social/addPhotos?uploadType=C" class="color11">Computer </a></li>
+<li class="pl10"><a href="/social/addPhotos?uploadType=F" class="color11">Facebook</a></li>
+</ul>
+<p class="f13 edpcolr1 txtc pt20">You can set Photo Privacy</p>
+</div>
+<!--end:upload div-->
+<!--start:make your profile-->
+<div class="fl" id="PCSBlock">
+<ul class="listnone fontlig f13 edplist1" id="PCSBlockul">
+<li class="fontreg">Add details to your profile</li>
+<li><a href="/social/addPhotos" class="color11 cursp">Upload Photos: +23%</a></li>
+<!--
+<li><a href="#" class="color11">+12%  Add Career Details</a></li>
+<li><a href="#" class="color11">+10%  Add Ethnicity Details</a></li>
+<li><a href="#" class="color11">+7%  Add Astro Details</a></li>
+-->
+<li><a myhref="family" class="color11 cursp editLink">Add Family Details: +25%</a></li>
+<!--
+<li><a href="#" class="color11">+12%  Add Career Details</a></li>
+<li><a href="#" class="color11">+10%  Add Ethnicity Details</a></li>
+<li><a href="#" class="color11">+7%  Add Astro Details</a></li>
+-->
+<li><a myhref="career" class="color11 cursp editLink">Add Career Details: +12%</a></li>
+<!--
+<li><a href="#" class="color11">+12%  Add Career Details</a></li>
+<li><a href="#" class="color11">+10%  Add Ethnicity Details</a></li>
+<li><a href="#" class="color11">+7%  Add Astro Details</a></li>
+-->
+<li><a myhref="horoscope" class="color11 cursp editLink">Add Horoscope Details: +10%</a></li>
+<!--
+<li><a href="#" class="color11">+12%  Add Career Details</a></li>
+<li><a href="#" class="color11">+10%  Add Ethnicity Details</a></li>
+<li><a href="#" class="color11">+7%  Add Astro Details</a></li>
+-->
+</ul>
+</div>
+<!--end:make your profile-->
+<!-- start:profile completion-->
+<div class="fr prfwid12 fontlig f13 edpcolr1 edpbrd2 pos-rel z1" style="height:220px;">
+<div class="txtc pt15 pb8 pt35">
+<div id="profileCompletionScore"></div>
+<p class="pt13 color11">Profile completion</p>
+<p id="lastModified" class="pt13">Last Edited on 23rd May, 2016</p>
+<p id="profileViews" class="pt5">Profile Views 0</p>
+</div>
+</div>
+<!--end:profile completion-->
+</div>
+<!--end:photo div 1-->
+
+<!--start:content edit part-->
+<div class="mt13">
+<div class="fullwid clearfix">
+<!--start:left div-->
+<div class="fl prfwid3">
+<div class="bg-white fullwid">
+<!--start:content section-->
+<div class="f15 fontlig color11">
+<!--start:Basic Details-->
+<div class="prfbr3">
+<div class="prfp5" id="section-basic">
+<div class="clearfix"> <i class="sprite2 fl edpic6"></i>
+<div class="fl colr5 pl8 f17 pt2" >Basic Details</div>
+<div class="fr pt4"><a class="cursp color5 fontreg f15 js-editBtn editableSections" data-section-id="basic">Edit</a> </div>
+</div>
+<div class="pl30 prflist1 fontlig js-basicView">
+<p class="f24 pt25 fontlig" id="nameLabelParent"><span class="edpcolr2" >Name</span> -
+<span class="color5" id='nameView'>
+Not filled in
+</span>
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span></span>
+</p>
+<ul class="clearfix fontreg">
+<li>
+<p class="color12 pt15 fontlig">Age, Height</p>
+<p class="pt2 fontlig">24, <span id='heightView'>6&#039; 0&quot; </span> </p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Highest Education</p>
+<p class="pt2 fontlig" id='educationView'>B.E/B.Tech</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Religion</p>
+<p class="pt2 fontlig" id='religionView'>Hindu</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Occupation</p>
+<p class="pt2 fontlig" id='occupationView'>Software Professional</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Mother Tongue</p>
+<p class="pt2 fontlig" id='mtongueView'>Tamil</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Annual Income, Location</p>
+<p class="pt2 fontlig"><span id='incomeView'>Rs. 4 - 5 Lakh</span>, <span id='locationView'> Bangalore</span> </p>
+</li>
+<li>
+<p class="color12 pt15 fontlig" id='caste_sect_labelView'>Caste, Sect</p>
+<p class="pt2 fontlig" >
+<span id="edit_casteView">Hindu: Others, </span>
+<span id="edit_sectView"                                 class="color5"     > Not filled in</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Profile managed by</p>
+<p class="pt2 fontlig" id='posted_byView'>His profile is managed by Relative/Friend</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Marital Status</p>
+<p class="pt2 fontlig" >
+<span id="m_statusView">Awaiting Divorce</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15 fontlig">Have Children?</p>
+<p class="pt2 fontlig" >
+<span id="have_childView"
+>
+No children
+</span>
+</p>
+</li>
+</ul>
+</div>
+<!--start:Edit Basic Details-->
+<div class="pl30 ceditform" id="basicEditForm"><!---Edit Form--></div>
+<!--end:Edit Basic Details-->
+</div>
+</div>
+<!--end:Basic Details-->
+<!--start:about us-->
+<!--start:about us-->
+<div class="prfp5 prfbr3" id="section-about">
+<div class="clearfix"> <i class="sprite2 fl edpic6"></i>
+<div class="fl colr5 pl10 f17 pt2" id="yourinfoLabelParent">About me
+<span class="js-aboutView">
+<span class="  disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</span>
+
+ </div>
+<div class="fr pt4"><a class="color5 fontreg f15 js-editBtn cursp editableSections" data-section-id="about">Edit</a> </div>
+</div>
+<div  class="pl30 pt30 prflist1 fontlig js-aboutView" >
+<!--start:about profile-->
+<p> <pre id="myinfoView" class="wordbreakwrap fontlig"> my friend is a simple easy going person. he is an introvert. he grew up in bangalore and has lived his life there.</pre> </p>
+<!--end:about profile-->
+<!--start:about family-->
+<p class="fontlig color12 pt15" id="familyinfoLabelParent" >About My Family
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2">
+<pre id="myfamilyView"   class="fontlig color5" >Not filled in</pre>
+</p>
+<!--end:about family-->
+<!--start:about Education-->
+<p class="fontlig color12 pt15" id="educationLabelParent">Education
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2">
+<pre id="myeduView"   class="fontlig color5" >Not filled in
+</pre>
+</p>
+<!--end:about Education-->
+<!--start:about Occupation-->
+<p class="fontlig color12 pt15" id="job_infoLabelParent">Occupation
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+</p>
+<p class="pt2">
+<pre id="mycareerView"   class="fontlig color5">
+Not filled in
+</pre>
+</p>
+<!--end:about Occupation-->
+</div>
+<!--start:Edit Education & Career Details-->
+<div class="pl30 ceditform" id="aboutEditForm"><!---Edit Form--></div>
+<!--end:Edit Education & Career Details-->
+</div>
+<!--end:about us-->
+
+<!--end:about us-->
+<!--start:Education-->
+<!--start:Education-->
+<div class="prfbr3">
+<div class="prfp5" id="section-career">
+<div class="clearfix"> <i class="sprite2 fl prfic12"></i>
+<div class="fl colr5 pl8 f17 pt2" >Education & Career</div>
+<!--unclock div-->
+<div class="fr pt4 disp-none">
+<a class="icons colr5 f15 disp_b pl20 prfic35" href="#">Unlock Details</a>
+</div>
+<div class="fr pt4"><a  class="color5 fontreg f15 js-editBtn cursp editableSections" data-section-id="career">Edit</a> </div>
+<!--unclock div-->
+</div>
+<div class="pl27 prflist1 js-careerView">
+<ul class="clearfix">
+<li>
+<p class="color12 pt15">Highest Education</p>
+<p class="pt2 pr20">
+<span id="educationView1"  >
+B.E/B.Tech
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15" id="schoolLabelParent">School Name <span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20">
+<span id="schoolView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15">UG Degree</p>
+<p class="pt2 pr20">
+<span id="under_grad_degView"  >
+B.E/B.Tech
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15">PG Degree</p>
+<p class="pt2 pr20">
+<span id="post_grad_degView"  >
+Not Applicable
+
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15" id="collegeLabelParent">UG College
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20"  >
+<span id="under_grad_collgView"   class="color5"  >
+Not filled in
+</span>
+
+</p>
+</li>
+<li>
+<p class="color12 pt15" id="pg_collegeLabelParent" >PG College <span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20" >
+<span id="post_grad_collgView"  >
+Not Applicable
+
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15" id="other_ug_degreeLabelParent">Other UG Degree <span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20" >
+<span id="edit_other_ug_degreeView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15" id="other_pg_degreeLabelParent">Other PG Degree
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20" >
+<span id="edit_other_pg_degreeView"  >
+Not Applicable
+
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15">Occupation</p>
+<p class="pt2 pr20">
+<span id="occupationView1"  >
+Software Professional
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15">Work Status</p>
+<p class="pt2 pr20">
+<span id="edit_work_statusView"  class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15" id="company_nameLabelParent">Organization Name
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20">
+<span id="edit_company_nameView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12 pt15">Annual Income</p>
+<p class="pt2 pr20">
+<span id="incomeView1"  >
+Rs. 4 - 5 Lakh
+</span>
+</p>
+</li>
+</ul>
+</div>
+<div class="txtr clearfix pt20 js-careerView">
+<ul class="listn">
+<li class="disp_ib"> <span class="disp_ib sprite2 prfic13"></span>
+<span class="disp_ib colr2" id="abroadView">
+Interested in settling abroad?
+</span>
+</li>
+</ul>
+</div>
+<!--start:Edit Education & Career Details-->
+<div class="pl30 ceditform" id="careerEditForm"><!---Edit Form--></div>
+<!--end:Edit Education & Career Details-->
+</div>
+</div>
+<!--end:Education-->
+
+<!--end:Education-->
+<!--start:Family Details-->
+<!--start:Family Details-->
+<div class="prfbr3">
+<div class="prfp6" id="section-family">
+<div class="clearfix"> <i class="sprite2 fl prfic14"></i>
+<div class="fl colr5 pl12 f17 pt2">Family Details</div>
+<div class="fr pt4"><a  class="color5 fontlig f15 js-editBtn cursp editableSections" data-section-id="family">Edit</a> </div>
+</div>
+<div class="pl31 prflist1 js-familyView">
+<p class="f24 pt25" id="profile_handler_nameLabelParent"><span class="edpcolr2" >Profile Handler Name</span> -
+<span class="color5" id='profile_handler_nameView'>
+Not filled in
+</span>
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span></span>
+</p>
+<ul class="clearfix">
+<li>
+<p class="fontlig color12 pt15">Mother is</p>
+<p class="pt2 pr20">
+<span id="mother_occView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Father is</p>
+<p class="pt2 pr20">
+<span id="father_occView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Sister(s)</p>
+<p class="pt2 pr20">
+<span id="sibling_sisterView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Brother(s)</p>
+<p class="pt2 pr20">
+<span id="sibling_brotherView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15" id="subcasteLabelParent">Sub-caste
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20" >
+<span id="sub_casteView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15" id="gothraLabelParent">Gothra
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20" >
+<span id="gothraView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15" id="gothra_maternalLabelParent">Gothra (maternal)
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20" >
+<span id="gothra_maternalView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Family Status</p>
+<p class="pt2 pr20">
+<span id="family_statusView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Family Income</p>
+<p class="pt2 pr20">
+<span id="family_incomeView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Family Type</p>
+<p class="pt2 pr20">
+<span id="family_typeView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Family Values</p>
+<p class="pt2 pr20">
+<span id="family_valuesView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+
+<li>
+<p class="fontlig color12 pt15" id="ancestral_originLabelParent">
+Family based out of
+<span class=" disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="pt2 pr20">
+<span id="native_placeView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+</ul>
+</div>
+<div class="txtr clearfix pt20 js-familyView">
+<ul class="listn">
+<li> <span class="disp_ib sprite2 prfic13"></span>
+<span class="disp_ib colr2" id="livingView"  >
+Living with parents?
+</span>
+</li>
+</ul>
+</div>
+<!--start:Edit Family -->
+<div class="pl30 ceditform" id="familyEditForm"><!---Edit Form--></div>
+<!--end:Edit LifeStyle -->
+</div>
+</div>
+<!--end:Family Details-->
+
+<!--end:Family Details-->
+<!--start:Lifestyle-->
+<!--start:Lifestyle-->
+<div class="prfbr3">
+<div class="prfp6" id="section-lifestyle">
+<div class="clearfix"> <i class="sprite2 fl prfic37"></i>
+<div class="fl colr5 pl12 f17 pt2">Lifestyle</div>
+<div class="fr pt4"><a class="color5 fontlig f15 js-editBtn cursp editableSections" data-section-id="lifestyle">Edit</a> </div>
+</div>
+<div class="pl31 prflist1 js-lifestyleView">
+<ul class="clearfix">
+<li>
+<p class="fontlig color12 pt15">Appearance</p>
+<p class="pt2 pr20">
+<span id="appearanceView">
+Body type?, Complexion?, Weight?
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Habits</p>
+<p class="pt2 pr20">
+<span id="habbitsView">
+Dietary Habits?, Drinking Habits?, Smoking Habits?
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Assets</p>
+<p class="pt2 pr20">
+<span id="assetsView">
+Own a house?, Own a car?
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Languages Known</p>
+<p class="pt2 pr20">
+<span id="languageView"  class="color5"   >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Blood Group</p>
+<p class="pt2 pr20">
+<span id="blood_groupView"  class="color5"   >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Residential Status</p>
+<p class="pt2 pr20">
+<span id="res_statusView"  class="color5"   >
+Not filled in</span>
+</p>
+</li>
+<li>
+<p class="fontlig color12 pt15">Special Cases</p>
+<p class="pt2 pr20">
+<span id="special_casesView">
+Challenged?, Thalassemia?, HIV+ve?
+</span>
+</p>
+</li>
+
+</ul>
+</div>
+<div class="txtr clearfix pt20 js-lifestyleView">
+<ul class="listn">
+<li> <span class="disp_ib sprite2 prfic13"></span> <span class="disp_ib colr2" id="open_to_petsView">Open to pets?</span> </li>
+</ul>
+</div>
+<!--start:Edit LifeStyle -->
+<div class="pl30 ceditform" id="lifestyleEditForm"><!---Edit Form--></div>
+<!--end:Edit LifeStyle -->
+</div>
+</div>
+<!--end:Lifestyle-->
+
+
+<!--end:Lifestyle-->
+<!--start:She Likes-->
+<!--start:She Likes-->
+<div class="prfbr3 js-hobbySection">
+<div class="prfp7"  id="section-likes">
+<div class="clearfix"> <i class="sprite2 fl prfic15"></i>
+<div class="fl colr5 pl8 f17 pt3">
+Your
+Likes
+</div>
+<div class="fr pt4"><a class="cursp color5 fontlig f15 js-editBtn editableSections" data-section-id="likes">Edit</a> </div>
+</div>
+<div class="prflist1 likelist pl32 color11 fontlig f15 js-hobbies js-likesView">
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel hobbyParent">
+<i class="sprite2 prfic16"></i>
+<!--start:tooltip-->
+<div class="hobby">
+<div class="boxtip1 colrw fontlig prfp8">
+Hobbies
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='hobbyView'   class="color5 more"  >Not filled in</span></div>
+</div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel interestParent">
+<i class="sprite2 prfic17"></i>
+<!--start:tooltip-->
+<div class="interest">
+<div class="boxtip1 colrw fontlig prfp8">
+Interests
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='interestView'    class="color5 more"  >Not filled in</span></div>
+</div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel musicParent">
+<i class="sprite2 prfic18"></i>
+<!--start:tooltip-->
+<div class="music">
+<div class="boxtip1 colrw fontlig prfp8">
+Music
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='musicView'   class="color5 more"  >Not filled in</span></div>
+</div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel bookParent">
+<i class="sprite2 prfic20"></i>
+<!--start:tooltip-->
+<div class="book">
+<div class="boxtip2 colrw fontlig prfp8 wd79">
+Favourite read
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7 ]"><span id='bookView'   class="color5 more"  >Not filled in</span></div>
+<div class="fl prfp14 prfwid7 color12 pdl112" id="fav_bookLabelParent" >Favourites : <span id='fav_bookView'   class="color5"    >Not filled in</span>
+<span class=" disp-none  js-undSecMsg"><span class="disp_ib color5 f13" > Under Screening</span></span>
+</div></div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel dressParent">
+<i class="sprite2 prfic19"></i>
+<!--start:tooltip-->
+<div class="dress">
+<div class="boxtip2 colrw fontlig prfp8 wd60">
+Dress style
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='dressView'   class="color5 more"  >Not filled in</span></div>
+</div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel tvParent">
+<i class="sprite2 prfic21"></i>
+<!--start:tooltip-->
+<div class="tv">
+<div class="boxtip2 colrw fontlig prfp8 wd107">
+Favourite TV shows
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7" id="fav_tvshowLabelParent" >
+<span id='fav_tvshowView'   class="color5 more"  >
+Not filled in
+</span>
+<span class=" disp-none  js-undSecMsg"><span class="disp_ib color5 f13" > Under Screening</span></span>
+</div>
+</div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel movieParent">
+<i class="sprite2 prfic22"></i>
+<!--start:tooltip-->
+<div class="movie">
+<div class="boxtip2 colrw fontlig prfp8 wd92">
+Preferred Movies
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='movieView'   class="color5 more"  >Not filled in</span></div>
+<div class="fl prfp14 prfwid7 color12 pdl112" id="fav_movieLabelParent">Favourites : <span id='fav_movieView'   class="color5"    >Not filled in</span>
+<span class=" disp-none  js-undSecMsg"><span class="disp_ib color5 f13" > Under Screening</span></span>
+</div></div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel sportsParent">
+<i class="sprite2 prfic23"></i>
+<!--start:tooltip-->
+<div class="sports">
+<div class="boxtip2 colrw fontlig prfp8 wd77">
+Sports Fitness
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='sportsView'   class="color5 more"  >Not filled in</span></div>
+</div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel foodParent">
+<i class="sprite2 prfic24"></i>
+<!--start:tooltip-->
+<div class="food">
+<div class="boxtip2 colrw fontlig prfp8 wd93">
+Favourite Cuisine
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7"><span id='cuisineView'   class="color5 more"  >Not filled in</span></div>
+<div class="fl prfp14 prfwid7 color12 pdl112" id="fav_foodLabelParent" >I Cook : <span id='fav_foodView'   class="color5"    >Not filled in</span>
+<span class=" disp-none  js-undSecMsg"><span class="disp_ib color5 f13" > Under Screening</span></span>
+</div></div>
+<!--end:div-->
+<!--start:div-->
+<div class="clearfix pt30">
+<div class="fl pos-rel vacationParent">
+<i class="sprite2 prfic25"></i>
+<!--start:tooltip-->
+<div class="vacation">
+<div class="boxtip2 colrw fontlig prfp8 wd162">
+Favourite Vacation destination
+</div>
+</div>
+</div>
+<div class="fl prfp14 prfwid7" id="fav_vac_destLabelParent">
+<span id='fav_vac_destView'    class="color5 more"  >
+Not filled in
+</span>
+<span class=" disp-none  js-undSecMsg"><span class="disp_ib color5 f13" > Under Screening</span></span>
+</div>
+</div>
+<!--end:div-->
+
+</div>
+<!--start:Edit Likes -->
+<div class="pl30 ceditform" id="likesEditForm"><!---Edit Form--></div>
+<!--end:Edit Likes -->
+</div>
+</div>
+<!--end:She Likes-->
+
+<!--end:She Likes-->
+</div>
+<!--end:content section-->
+</div>
+<div class="prfbg2 fullwid">
+<div class="prfp11">
+<div class="clearfix">
+<div class="fl fontlig f15 color11 pt5">Profile Page : <a href="#" class="color11">http://www.jeevansathi.com/profiles/ZVUR1393</a></div>
+<div class="fr btmicon">
+<ul class="clearfix">
+<li class="pos-rel">
+<i class="sprite2 prfic29 cursp share js-action"></i>
+<!--start:tooltip-->
+<div class="tooltip1">
+<div class="boxtip colrw fontlig prfp8 wd68">
+Share Profile
+</div>
+</div>
+<!--end:tooltip-->
+</li>
+</ul>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--end:left div-->
+<!-- start share profile-->
+<!--start:share this profile-->
+<div id="share-layer" class="pos_fix layersZ setshare disp-none">
+<div class="prfwid16 fontlig">
+<div class="prfbg6">
+<!--start:div-->
+<div class="">
+<div id="shareProfileTopSection" class="clearfix shrp1">
+<div class="prfrad prfdim8 prfbr6 fl">
+<img src="http://static.jeevansathi.com/images/picture/120x120_m.png?noPhoto" border="0" class="prfdim5 prfrad prfm2"/>
+</div>
+<div class="fl ml10 prfbr7 pb10 f13 color11 wid80p pt16">
+ZVUR1393    -    <span class="colr2"> Share his profile</span>
+</div>
+</div>
+<!--start:form-->
+<div id="shareProfileDiv" class="f13">
+<div id="share">
+<form>
+<div class="shrp3">
+<label>Email     <span id="errorText" class="color5 disp-ib pl10"></span></label>
+<input id="receiverEmail" type="text" placeholder="Enter receiver’s email" class="mt5 fullwid brdr-0 bgnone color11 fontlig"/>
+</div>
+<div class="shrp4">
+<label>Your name</label>
+<input id="senderName" type="text" placeholder="Enter name" class="mt5 fullwid brdr-0 bgnone color11 fontlig"/>
+</div>
+<div class="shrp4">
+<label>Say something</label>
+<textarea id="message" type="text" placeholder="Your message" class="mt5 fullwid brdr-0 bgnone color11 fontlig hgt102 outlineBorderBoxNone"></textarea>
+</div>
+<div class="pt30 clearfix">
+<div class="fl bg_pink wid50p shhgt1 txtc pos-rel cursp js-validateEmail" id="validateSenderEmail"><i class="sprite2 chkicon setshare pos-abs"></i></div>
+<div class="fl bg5 wid50p shhgt1 txtc pos-rel cursp undoShare js-undoAction"><i class="sprite2 shcross setshare pos-abs"></i></div>
+
+</div>
+</form>
+</div>
+</div>
+<!--end:form-->
+<div id="confirmationMessage" class="f15">
+<div class="clearfix shrp1">
+<div class="prfrad prfdim8 prfbr6 fl"> <img src="http://static.jeevansathi.com/images/picture/450x450_m.png?noPhoto" border="0" class="prfdim5 prfrad prfm2"/> </div>
+<div class="fl ml10 prfbr7 pb10 f15 color11 wid80p pt16"> ZVUR1393
+</div>
+</div>
+<div class="shrp3">
+<div id="addConfirmationMessage"class="mt5 fullwid brdr-0 bgnone color11 fontlig"></div>
+<div class="txtc pt40 pb20">
+<a id="close-layer" class="color5 f13 fontlig js-undoAction close cursp">Close</a>
+</div>
+</div>
+</div>
+</div>
+<!--end:div-->
+
+</div>
+</div>
+</div>
+<!--end:share this profile-->
+
+<!--end share profile-->
+<!--start:right div-->
+<div class="fr fontlig prfwid12">
+<!--start:contact details-->
+<div class="bg-white fullwid fontlig" id="section-contact">
+<div class="edpp3 prfbr2">
+<ul class="hor_list clearfix  fullwid">
+<li class="edpwid2 clearfix"> <i class="fl vicons edpic4"></i>
+<p class="fl color5 f17 pt3 pl5">Contact Details</p>
+</li>
+<li class="pt4 "> <a class="color5 fontlig f15 js-editBtn cursp" data-section-id="contact" >Edit</a> </li>
+</ul>
+</div>
+<div class="prfp12 f14 js-contactView">
+<ul class="listn gunna fontlig">
+<li>
+<p class="color12" id="emailLabelParent">
+Email id <span class="ml5  disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" > Under Screening</span>
+</span>
+</p>
+<p class="color11">
+<span id='my_emailView' >
+chiddu@gmail.com
+</span>
+</p>
+</li>
+<li>
+<p class="color12" >
+Mobile No.
+</p>
+<div class="clearfix pos-rel">
+<div class="fl wid74p">
+<p class="color11">
+<span id='mobileView' >
++91-9880763941
+</span>
+</p>
+<p class="color11" id="mobile_owner_nameLabelParent">
+<span id="mobile_descView">
+
+</span>
+<span  class="ml5  disp-none  js-undSecMsg">
+(<span class="color5 f13 wordWrapBreak" >Under Screening</span>)
+</span>
+</p>
+</div>
+<div class="fr wid25p pos-abs right0">
+<div  class="color12"  id="phone_mob_statusView" >Verified</div>
+</div>
+</div>
+</li>
+<li>
+<p class="color12">
+Alternate No.
+</p>
+<div class="clearfix pos-rel">
+<div class="fl wid74p">
+<p class="color11">
+<span id='alt_mobileView'  class="color5"  >
+Not filled in
+</span>
+</p>
+<p class="color11" id="alt_mobile_owner_nameLabelParent">
+<span id="alt_mobile_descView">
+
+</span>
+<span  class="ml5  disp-none  js-undSecMsg">
+(<span class="color5 f13 wordWrapBreak" >Under Screening</span>)
+</span>
+</p>
+</div>
+<div class="fr wid25p pos-abs right0">
+<div  class="color5 cursp"  id="alt_mob_statusView"></div>
+</div>
+</div>
+</li>
+<li>
+<p class="color12">
+Landline No.
+</p>
+<div class="clearfix pos-rel">
+<div class="fl wid74p">
+<p class="color11">
+<span id='landlineView'  class="color5"  >
+Not filled in
+</span>
+</p>
+<p class="color11" id="phone_owner_nameLabelParent">
+<span id="landline_descView">
+
+</span>
+<span class="ml5  disp-none  js-undSecMsg">
+(<span class="color5 f13 wordWrapBreak" >Under Screening</span>)
+</span>
+</p>
+</div>
+<div class="fr wid25p pos-abs right0">
+<div  class="color5 cursp"  id="phone_res_statusView"></div>
+</div>
+</div>
+</li>
+<li>
+<p class="color12">Suitable time to call</p>
+<p class="color11">
+<span id='time_to_callView'  class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12" id="contactLabelParent" >
+Contact Address <span class="ml10  disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" >Under Screening</span>
+</span>
+</p>
+
+
+<p class="color11">
+<span id='addressView'  class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12" id="parents_contactLabelParent" >
+Parent's Address <span class="ml10  disp-none  js-undSecMsg">
+<span class="disp_ib color5 f13" >Under Screening</span>
+</span>
+</p>
+<p class="color11">
+<span id='parent_addressView'  class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+</ul>
+</div>
+<!--start:Edit Basic Details-->
+<div class="prfp12 f14 fontlig">
+<div class="clearfix cntct" id="contactEditForm"><!---Edit Form--></div>
+</div>
+<!--end:Edit Basic Details-->
+</div>
+<!--end:contact details-->
+
+<!--start:Horoscope Details-->
+<div class="bg-white  fullwid fontlig mt15" id="section-horoscope">
+<div class="edpp3 prfbr2">
+<ul class="hor_list clearfix  fullwid">
+<li class="edpwid2 clearfix"> <i class="fl vicons edpic5"></i>
+<p class="fl color5 f17 pt3 pl5">Horoscope Details</p>
+</li>
+<li class="pt4">
+<div class="color5 fontreg f15 js-editBtn editableSections cursp" data-section-id="horoscope" id='horoscopeEdit'>Edit</div>
+</li>
+</ul>
+</div>
+<div class="prfp12 f14 fullHoroData">
+<div class="">
+<button id="crUpHoroBtn" class="fullwid bg_pink lh44 f14 colrw txtc brdr-0 cursp editableSections" data-section-id="uploadhoroscope">Create Horoscope</button>
+</div>
+<ul class="listn gunna">
+<li>
+<p class="color12">Place of Birth</p>
+<p class=" color5  pt6">Not filled in</p>
+</li>
+<li>
+<p class="color12">Date of Birth</p>
+<p class=" color11  pt6">Dec 08, 1991</p>
+</li>
+<li>
+<p class="color12">Time of Birth</p>
+<p class=" color5  pt6">Not filled in</p>
+</li>
+</ul>
+<div class="js-horoscopeView">
+<ul class="listn gunna">
+<li>
+<p  class="mt25 color11 f14" >
+<span id="horo_matchView"  >
+Horoscope match is must?
+</span>
+</p>
+</li>
+<li>
+<p class="color12">Sun sign</p>
+<p class="color11 pt6">
+<span id="astro_sunsignView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12">Rashi/Moon Sign</p>
+<p class="color11 pt6">
+<span id="rashiView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12">Nakshatra</p>
+<p class="color11 pt6">
+<span id="nakshatraView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12">Manglik</p>
+<p class="color11 pt6">
+<span id="astro_manglikView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+<li>
+<p class="color12">Horoscope Privacy</p>
+<p class="color11 pt6">
+<span id="astro_privacyView"   class="color5"  >
+Not filled in
+</span>
+</p>
+</li>
+</ul>
+</div>
+<div class="ceditform" id="horoscopeEditForm"><!---Edit Form--></div>
+<div id="viewHoroBlockParent" class="mt25">
+
+<!--start:overlay-->
+<div>
+<div id="kundli-layer" class="disp-none">
+<i id="cls-view-horo" class="sprite2 close pos_fix closepos cursp layersZ"></i>
+<div class="pos_fix layersZ setshare">
+<div class="content mCustomScrollbar">
+<div id="putHoroscope">
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--end:overlay-->
+
+
+</div>
+</div>
+<div class="prfp12 f14 noHoroData disp-none pdTop150 height300 txtAlignCenter">
+<i class="sprite2 puic13"></i>
+<p class="color11 f14 horoErrorCondition pdTop20"></p>
+<div class="colr5 okayClick cursp pdTop30">
+<span><u>OK</u></span>
+</div>
+</div>
+</div>
+
+
+<!--end:Horoscope Details-->
+<!--start:gunna layer-->
+<div class="pos_fix layerMidset layersZ disp-none" id="horoscopeLayer">
+<div class="edpwid18 upHoroClr pos-rel">
+<i id="closebtnHL" class="sprite2 edpcross1 pos-abs  CPclosepos cursp"></i>
+<!--start:layer add your horoscope-->
+<div>
+<!--start:heading-->
+<div class="upperCase f16 fontreg colrw lh61 bg5 pl30">ADD YOUR HOROSCOPE</div>
+<!--end:heading-->
+<div id="horoscopeDiv">
+<div class="txtc pt10">Horoscope match is must?</div>
+<div class="fontreg  txtc pt10 pb30">
+<button id="bt_yes" class="lh41 bg_pink txtc colrw brdr-0 wid33p_1 f15 cursp">Yes</button>
+<button id="bt_no" class="lh41 bg_pink txtc colrw brdr-0 wid33p_1 ml10 f15 cursp">No</button>
+</div>
+<!--start:buttons-->
+<!--<div class="fontreg  txtc pt30 pb30">
+<button id="createHoroBtn" class="lh41 bg_pink txtc colrw brdr-0 wid33p_1 f15 cursp">Create my Horoscope</button>
+<button id="uploadHoroBtn" class="lh41 bg_pink txtc colrw brdr-0 wid33p_1 ml10 f15 cursp">Upload a scanned copy</button>
+</div>    -->
+<!--end:buttons-->
+<!--start:div-->
+<div class="edpwid19 mauto disp-none" id="uploadHoroDiv">
+<div class="bg-white edpbrd5  clearfix lh30">
+<div class="fl pt8 pl20">
+<input id="uploadFileName" readonly class="color12 f15 fontlig w416" value="" >
+</div>
+<div class="fr edpbrd6 wid150 txtc">
+<div class="file-upload">
+<span class="fontlig f15 color11">Browse File</span>
+<input name="horoscope" id="horoFile" class="upload" type="file">
+</div>
+</div>
+</div>
+<p id="uploadError" class="pt10 f13 fontlig color12">.gif/.jpeg/.jpg files not more than 4MB  </p>
+<div class="txtc mt20 edpm2">
+<button id="uploadSubmit" disabled="true" class="bg_pink lh44 colrw f20 fontreg pl30 pr30 brdr-0 cursp">Upload</button>
+</div>
+</div>
+<!--end:div-->
+</div>
+<!--start:div-->
+<div id="horoscopeSuccess" class="txtc f17 color11 fontlig edpm3 disp-none">
+Horoscope uploaded successfully
+</div>
+<!--end:div-->
+<!--start:div-->
+<div id="createHoroDiv" class="edpwid19 mauto disp-none">
+<iframe class="brdr-0 fullwid hgt275" src="http://vendors.vedic-astrology.net/cgi-bin/JeevanSathi_DataEntry_Matchstro.dll?BirthPlace?js_UniqueID=13341375&js_year=1991&js_month=12&js_day=08"></iframe>
+</div>
+<!--end:div-->
+</div>
+<!--end:layer add your horoscope-->
+</div>
+</div>
+<!--end:gunna layer-->
+
+<!--end:Horoscope Details-->
+<!--start:verifcation id-->
+<div class="bg-white fullwid fontlig mt15" id="section-verification">
+<div class="edpp3 prfbr2">
+<ul class="hor_list clearfix  fullwid">
+<li class="edpwid2 clearfix"> <i class="fl vicons edpic4"></i>
+<p class="fl color5 f17 pt3 pl5">Verification ID </p>
+</li>
+<li class="pt4">
+<a  class="color5 fontreg f15 js-editBtn js-verificationView cursp" data-section-id="verification">
+Add
+</a>
+</li>
+</ul>
+</div>
+<div class="prfp12 f14 js-verificationView">
+<p class="color2 f11 txtc">* ID will not be visible to any member.</p>
+<p class="txtc color12 f14 pt40 pb48">
+<span id='my_verification_idView'  class="color5" >
+Not filled in
+</span>
+
+</p>
+</div>
+<!--start:Edit Basic Details-->
+<div class="prfp12 f14 fontlig">
+<div class="clearfix cntct" id="verificationEditForm"><!---Edit Form--></div>
+</div>
+<!--end:Edit Basic Details-->
+</div>
+<!--end:verifcation id-->
+</div>
+<!--end:right div-->
+
+</div>
+</div>
+<!--end:content edit part-->
+</div>
+<!--start:footer-->
+
+<!--start:help widget-->
+<!--start:overlay-->
+<div class="js-requestCallBackOverlay dspN fontlig">
+<div class="overlay"></div>
+<div class="modal fontlig">
+<!--start:close button-->
+<div class="posabs Widgicon Widicon4 js-requestCallBackClose"></div>
+<!--end:close button-->
+<div class="formpadt2 fontlig" id="requestForm">
+<form id="Widget" action="javascript:void(0)" novalidate>
+<div class="fontlig f15 txtc pb18">We will call you at the earliest after you submit the request</div>
+<!--start:name-->
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="email" tabindex="1" name="email" id="rq_email" placeholder="Email" value="chiddu@gmail.com" />
+</div>
+<span id="emailError" class="errorPad dspN fontlig"> </span>
+<!--end:name-->
+<!--start:mobile no-->
+<div class="formpadt1">
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="tel" tabindex="2" name="phone" id="rq_phone" placeholder="Mobile number" value="9880763941" />
+</div>
+</div>
+<span id="phoneError" class="errorPad dspN fontlig"> </span>
+<!--end:mobile no-->
+<!--start:product-->
+<div class="formpadt1 fontlig">
+<dl id="sample4" class="dropdown">
+<dt class="js-dt">
+<span  id="typeOfQuery" tabindex="3" >What type of query do you have?</span>
+<div class="posabs pos1 sideicon"></div>
+</dt>
+<dd class="js-dd">
+<ul>
+<li value="P">Questions or feedback regarding jeevansathi profile</li>
+<li value="M">Query regarding jeevansathi membership plans</li>
+</ul>
+</dd>
+</dl>
+<input id="rq_query" type="hidden" name="query_type"/>
+</div>
+<span id="querryError" class="errorPad dspN"> </span>
+<!--end:product-->
+<!--start:button-->
+<div class="formpadt1">
+<div style="overflow: hidden;position: relative;">
+<button type="submit" id="sidebarReqCallbackBtn" tabindex="4" class="cursp pinkRipple hoverPink bg_pink">Submit Request</button>
+</div>
+</div>
+<!--end:button-->
+</form>
+</div>
+<div id="requestLoader" class="formpadt3 dspN">
+<img src="http://static.jeevansathi.com/images/colorbox/loader_big.gif"> </img>
+</div>
+<div id="requestSuccessMsg" class="formpadt4 dspN"> </div>
+</div>
+</div>
+<!--end:overlay-->
+<!--start:helpwidget-->
+<div id="js-helpWidget" class="dspN pos_fix hlpwhite fontreg hlppos1 wid200" style="right: -171px;">
+<div class="pos-rel clearfix">
+<div class="Widposabs hlpcl1 js-helpCollapses l0">
+<div class="vertical-text f12">HELP</div>
+</div>
+<div class="fr js-helpWidgetContent" style="width:171px">
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20"> <i class="sprite2 helpic1 fl"></i>
+<div class="fl color11 f14 pl9">1-800-419-6299</div>
+</div>
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20 js-openRequestCallBack"> <a href="#"><i class="sprite2 helpic2 fl"></i>
+<div class="fl color11 f14 pl10">Request callback</div>
+</a> </div>
+</div>
+</div>
+</div>
+<!--end:helpwidget-->
+<script> var showExpandMode = "0"
+</script>
+
+
+<!--end:help widget-->
+
+<!--start:banner-->
+<div class="txtc bg-4 pt20 pb20" id="zt_157126_bottom"> </div>
+<!--end:banner-->
+
+<!--start:footer-->
+<footer>
+<!--pixelcode for register page-->
+<div id="js-footer">
+<div class="fotbg1">
+<div class="container mainwid">
+<div class="fullwidth clearfix pt20 fontlig">
+<!--start:column one-->
+<div class="fl wid265">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Explore</li>
+<li><a href="/">Home</a></li>
+<!--<li><a href="/profile/login.php?SHOW_LOGIN_WINDOW=1">Login</a></li>
+<li><a href="/profile/registration_pg1.php?source=js_footer">Register free</a></li>-->
+<li><a href="/search/AdvancedSearch">Advanced search</a></li>
+<li><a href="/successStory/story">Success stories</a></li>
+<li><a href="/profile/site_map.php">Sitemap</a></li>
+</ul>
+</div>
+<!--end:column one-->
+<!--start:column one-->
+<div class="fl wid265">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Services</li>
+<!--<li><a target="_blank" href="http://www.jeevansathimatchpoint.com">Jeevansathi offline</a></li>-->
+<li><a href="/membership/jspc">Membership Options</a></li>
+<li><a href="http://careers.jeevansathi.com">Jeevansathi Careers</a></li>
+</ul>
+</div>
+<!--end:column one-->
+<!--start:column three-->
+<div class="fl wid265">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Help</li>
+<li><a href="/contactus/index">Contact us</a></li>
+<!-- <li id="liveChatLinkFooter" class="cursp colorw">Live help</li> -->
+<li><a href="/faq/feedback?width=512&checksum=ad5bc3bf29f41637421cdd69eb6d2aaai13341375">Feedback / Queries</a></li>
+<li><a href="/contactus/index">Jeevansathi centers (32)</a></li>
+</ul>
+</div>
+<!--end:column three-->
+<!--start:column four-->
+<div class="fr wid177">
+<ul class="f14 listnone foot">
+<li class="f16 fontreg">Legal</li>
+<li><a href="http://www.infoedge.in/">About Us</a></li>
+<li><a href="/static/page/fraudalert">Fraud Alert</a></li>
+<li><a href="/profile/disclaimer.php">Terms of use</a></li>
+<li><a href="/profile/third_party_content.php">3rd party terms of use</a></li>
+<li><a href="/profile/privacy_policy.php">Privacy policy</a></li>
+<li><a href="/profile/conf_policy.php">Privacy Features</a></li>
+<li><a href="/static/grievance?summon=1">Summons/Notices</a></li>
+<li><a href="/static/grievance?grievance=1">Grievances</a></li>
+</ul>
+</div>
+<!--end:column four-->
+</div>
+<div class="pt10 pb30 fullwid clearfix color16">
+<!--start:app available-->
+<div class="fl wid265">
+<div class="f16 fontreg pb10"> App available on </div>
+<a itemprop="sameAs" href="https://play.google.com/store/apps/details?id=com.jeevansathi.android" target="_blank" class="footericon"><i class="headfootsprtie androidsmall"></i></a>
+<a itemprop="sameAs" href="https://itunes.apple.com/in/app/jeevansathi/id969994186" target="_blank" class="footericon"><i class="headfootsprtie idsmall"></i></a>
+</div>
+<!--end:app available-->
+<!--start:follow us-->
+<div class="fl wid265">
+<div class="f16 fontreg pb10">Follow us </div>
+<a itemprop="sameAs" href="http://www.facebook.com/jeevansathi" target="_blank" class="footericon"><i class="headfootsprtie facebooksmall"></i></a>
+<a itemprop="sameAs" href="http://www.twitter.com/jeevansathi_com" target="_blank" class="footericon"><i class="headfootsprtie twittersmall"></i></a>
+<a itemprop="sameAs" href="https://www.linkedin.com/company/info-edge-india-ltd" target="_blank" class="footericon"><i class="headfootsprtie linkedinsmall"></i></a>
+<a itemprop="sameAs" href="https://plus.google.com/117800057348280296221" target="_blank" class="footericon"><i class="headfootsprtie gplussmall"></i></a>
+</div>
+<!--end:follow us-->
+<!--start:toll free-->
+<div class="fl wid265">
+<div class="f16 fontreg padb10">Customer Service (Toll free)</div>
+<div class="f22 fontlig pt15">1-800-419-6299</div>
+</div>
+<!--end:toll free-->
+
+</div>
+</div>
+</div>
+<!--start:partner site-->
+<div class="bg-white">
+<div class="container mainwid">
+<div class="pb10 pt10 wid800 clearfix txtc pl128">
+<div class="f12 color6 fl pt30 pr36 fontreg">Partner Sites</div>
+<!--start:slider-->
+<div class="fl" style="width:600px;height:80px">
+<div id="slider">
+<div id="images">
+<div class="basic">
+<ul>
+<li class="pl17"><a href="http://www.99acres.com" target="_blank" title="99acres.com"><i class="headfootsprtie acre"></i></a></li>
+<li class="pl17"><a href="http://www.naukri.com" target="_blank" title="naukri.com"><i class="headfootsprtie nc"></i></a></li>
+<li class="pl17"><a href="http://www.naukrigulf.com" target="_blank" title="naukrigulf"><i class="headfootsprtie ng"></i></a></li>
+<li class="pl30"><a href="http://www.shiksha.com" target="_blank" title="shiksha"><i class="headfootsprtie shiksha"></i></a></li>
+</ul>
+</div>
+<div class="basic">
+<div>
+<ul>
+<li class="pl17"><a href="http://www.mydala.com" target="_blank" title="mydala"><i class="headfootsprtie mydala"></i></a></li>
+<li class="pl30"><a href="http://www.policybazar.com" target="_blank" title="policybazar"><i class="headfootsprtie pb"></i></a></li>
+<li class="pl40"><a href="http://www.zomato.com" target="_blank" title="zomato"><i class="headfootsprtie zomato"></i></a></li>
+<li class="pl20"><a href="http://www.meritnation.com" target="_blank" title="meritnation"><i class="headfootsprtie meritn"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+<a id="prev" href="javascript:void(0);"> <i class="headfootsprtie leftslide"></i> </a> <a id="next" href="javascript:void(0);"> <i class="headfootsprtie rightsmall"></i> </a> </div>
+</div>
+<!--endt:slider-->
+</div>
+<div class="txtc pb15">
+<ul class="hor_list clearfix f13 fontlig disp_ib">
+<li class="pl5"><a href="/?mobile_view=Y" class="color11">View Mobile Version</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--end:partner site-->
+<div class="bg_3">
+<div class="padall-10 txtc f12 fontreg colr2"> All rights reserved © 2016 Jeevansathi Internet Services. </div>
+</div>
+</div>
+</footer>
+<!--end:footer-->
+<script type="text/javascript">
+$(window).load(function(){
+slider();
+initializeTopNavBar("1","13341375","profile","view");
+});
+</script>
+
+
+<!--end:footer-->
+</div>
+<!--end:second part-->
+</div>
+<script type="text/javascript">
+var senderEmail = "chiddu@gmail.com";
+var ProCheckSum = "ad5bc3bf29f41637421cdd69eb6d2aaai13341375";
+var profileGender = "Male";
+var username = "ZVUR1393";
+var id = "13341375";
+var dd = "08";
+var mm = "12";
+var yy = "1991";
+var EditWhatNew = "";
+//var _e_api = "{\"Album\":{\"\":\"\"},\"Details\":{\"YOURINFO\":{\"key\":\"YOURINFO\",\"label\":\"About Me\",\"label_val\":\"my friend is a simple easy going person. he is an introvert. he grew up in bangalore and has lived his life there.\",\"value\":\"my friend is a simple easy going person. he is an introvert. he grew up in bangalore and has lived his life there.\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"NAME\":{\"key\":\"NAME\",\"label\":\"Name\",\"label_val\":null,\"value\":null,\"screenBit\":\"0\",\"edit\":\"Y\"},\"GENDER\":{\"key\":\"GENDER\",\"label\":\"Gender\",\"label_val\":\"Male\",\"value\":\"M\",\"screenBit\":\"2\",\"edit\":\"N\"},\"DTOFBIRTH\":{\"key\":\"DTOFBIRTH\",\"label\":\"Date of Birth\",\"label_val\":\"8th Dec 1991\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"N\"},\"MSTATUS\":{\"key\":\"MSTATUS\",\"label\":\"Marital Status\",\"label_val\":\"Awaiting Divorce\",\"value\":\"S\",\"screenBit\":\"2\",\"edit\":\"N\"},\"COUNTRY_RES\":{\"key\":\"COUNTRY_RES\",\"label\":\"Country Living in\",\"label_val\":\"India\",\"value\":\"51\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"CITY_RES\":{\"key\":\"CITY_RES\",\"label\":\"City Living in\",\"label_val\":\"Bangalore\",\"value\":\"KA02\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"RELIGION\":{\"key\":\"RELIGION\",\"label\":\"Religion\",\"label_val\":\"Hindu\",\"value\":\"1\",\"screenBit\":\"2\",\"edit\":\"N\"},\"CASTE\":{\"key\":\"CASTE\",\"label\":\"Caste\",\"label_val\":\"Hindu: Others\",\"value\":\"242\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SUBCASTE\":{\"key\":\"SUBCASTE\",\"label\":\"Subcaste\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"MTONGUE\":{\"key\":\"MTONGUE\",\"label\":\"Mother Tongue\",\"label_val\":\"Tamil\",\"value\":\"31\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ANCESTRAL_ORIGIN\":{\"key\":\"ANCESTRAL_ORIGIN\",\"label\":\" Please specify\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"GOTHRA\":{\"key\":\"GOTHRA\",\"label\":\"Gothra\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"HEIGHT\":{\"key\":\"HEIGHT\",\"label\":\"Height\",\"label_val\":\"6' 0\" \",\"value\":\"25\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"COMPLEXION\":{\"key\":\"COMPLEXION\",\"label\":\"Complexion\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"BTYPE\":{\"key\":\"BTYPE\",\"label\":\"Body Type\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"WEIGHT\":{\"key\":\"WEIGHT\",\"label\":\"Weight(kgs)\",\"label_val\":\"\",\"value\":\"0\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"HANDICAPPED\":{\"key\":\"HANDICAPPED\",\"label\":\"Challenged\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"NATURE_HANDICAP\":{\"key\":\"NATURE_HANDICAP\",\"label\":\"Nature of Handicap\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"THALASSEMIA\":{\"key\":\"THALASSEMIA\",\"label\":\"Thalassemia\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HIV\":{\"key\":\"HIV\",\"label\":\"HIV+?\",\"label_val\":null,\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"RELATION\":{\"key\":\"RELATION\",\"label\":\"Profile Managed by\",\"label_val\":\"Relative\\\/Friend\",\"value\":\"4\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"NATIVE_STATE\":{\"key\":\"NATIVE_STATE\",\"label\":\"Family based out of\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"NATIVE_CITY\":{\"key\":\"NATIVE_CITY\",\"label\":\"Select City\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"NATIVE_COUNTRY\":{\"key\":\"NATIVE_COUNTRY\",\"label\":\"Family based out of\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"SECT\":{\"key\":\"SECT\",\"label\":\"Sect\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"GOTHRA_MATERNAL\":{\"key\":\"GOTHRA_MATERNAL\",\"label\":\"Gothra (maternal)\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"COVER\":{\"key\":\"COVER\",\"label\":\"Cover Photo\",\"label_val\":\"\\\/images\\\/jspc\\\/viewProfileImg\\\/cover1.jpg\",\"value\":\"\\\/images\\\/jspc\\\/viewProfileImg\\\/cover1.jpg\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"HAVECHILD\":{\"key\":\"HAVECHILD\",\"label\":\"Have Children?\",\"label_val\":\"No\",\"value\":\"N\",\"screenBit\":\"2\",\"edit\":\"Y\"}},\"Kundli\":{\"HOROSCOPE_MATCH\":{\"key\":\"HOROSCOPE_MATCH\",\"label\":\"Horoscope match is must?\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SUNSIGN\":{\"key\":\"SUNSIGN\",\"label\":\"Sun Sign\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"RASHI\":{\"key\":\"RASHI\",\"label\":\"Rashi\\\/Moon Sign\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"NAKSHATRA\":{\"key\":\"NAKSHATRA\",\"label\":\"Nakshatra\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"MANGLIK\":{\"key\":\"MANGLIK\",\"label\":\"Manglik\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ASTRO_DOB\":{\"key\":\"ASTRO_DOB\",\"label\":\"Date of Birth\",\"label_val\":\"Dec 08, 1991\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ASTRO_BTIME\":{\"key\":\"ASTRO_BTIME\",\"label\":\"Time of Birth\",\"label_val\":\"Not Available\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ASTRO_COUNTRY_BIRTH\":{\"key\":\"ASTRO_COUNTRY_BIRTH\",\"label\":\"Country\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ASTRO_PLACE_BIRTH\":{\"key\":\"ASTRO_PLACE_BIRTH\",\"label\":\"City\\\/Town\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ASTRO_PRIVACY\":{\"key\":\"ASTRO_PRIVACY\",\"label\":\"Horoscope Privacy\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"}},\"Education\":{\"EDUCATION\":{\"key\":\"EDUCATION\",\"label\":\"About My Education\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"EDU_LEVEL_NEW\":{\"key\":\"EDU_LEVEL_NEW\",\"label\":\"Highest Education\",\"label_val\":\"B.E\\\/B.Tech\",\"value\":\"3\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"DEGREE_PG\":{\"key\":\"DEGREE_PG\",\"label\":\"PG Degree\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"PG_COLLEGE\":{\"key\":\"PG_COLLEGE\",\"label\":\"PG College\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"OTHER_PG_DEGREE\":{\"key\":\"OTHER_PG_DEGREE\",\"label\":\"Other PG Degree\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"DEGREE_UG\":{\"key\":\"DEGREE_UG\",\"label\":\"UG Degree\",\"label_val\":\"B.E\\\/B.Tech\",\"value\":\"3\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"COLLEGE\":{\"key\":\"COLLEGE\",\"label\":\"UG College\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"OTHER_UG_DEGREE\":{\"key\":\"OTHER_UG_DEGREE\",\"label\":\"Other UG Degree\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"SCHOOL\":{\"key\":\"SCHOOL\",\"label\":\"School Name\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"}},\"Career\":{\"JOB_INFO\":{\"key\":\"JOB_INFO\",\"label\":\"About My Career\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"COMPANY_NAME\":{\"key\":\"COMPANY_NAME\",\"label\":\"Organization Name\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"OCCUPATION\":{\"key\":\"OCCUPATION\",\"label\":\"Occupation\",\"label_val\":\"Software Professional\",\"value\":\"20\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"INCOME\":{\"key\":\"INCOME\",\"label\":\"Annual Income\",\"label_val\":\"Rs. 4 - 5 Lakh\",\"value\":\"6\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"GOING_ABROAD\":{\"key\":\"GOING_ABROAD\",\"label\":\"Interested in settling abroad?\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"WORK_STATUS\":{\"key\":\"WORK_STATUS\",\"label\":\"Work Status\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"}},\"Family\":{\"FAMILYINFO\":{\"key\":\"FAMILYINFO\",\"label\":\"About My Family\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"FAMILY_VALUES\":{\"key\":\"FAMILY_VALUES\",\"label\":\"Family Values\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAMILY_TYPE\":{\"key\":\"FAMILY_TYPE\",\"label\":\"Family Type\",\"label_val\":\"\",\"value\":\"0\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAMILY_STATUS\":{\"key\":\"FAMILY_STATUS\",\"label\":\"Family Status\",\"label_val\":\"\",\"value\":\"0\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"PARENT_CITY_SAME\":{\"key\":\"PARENT_CITY_SAME\",\"label\":\"Living with parents?\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAMILY_BACK\":{\"key\":\"FAMILY_BACK\",\"label\":\"Father is\",\"label_val\":\"\",\"value\":\"0\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"MOTHER_OCC\":{\"key\":\"MOTHER_OCC\",\"label\":\"Mother is\",\"label_val\":\"\",\"value\":\"0\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAMILY_INCOME\":{\"key\":\"FAMILY_INCOME\",\"label\":\"Family Income\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"T_BROTHER\":{\"key\":\"T_BROTHER\",\"label\":\"Brother(s)\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"T_SISTER\":{\"key\":\"T_SISTER\",\"label\":\"Sister(s)\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"}},\"Lifestyle\":{\"DIET\":{\"key\":\"DIET\",\"label\":\"Dietary Habits\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SMOKE\":{\"key\":\"SMOKE\",\"label\":\"Smoking Habits\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"DRINK\":{\"key\":\"DRINK\",\"label\":\"Drinking Habits\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"OPEN_TO_PET\":{\"key\":\"OPEN_TO_PET\",\"label\":\"Open to Pets?\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"OWN_HOUSE\":{\"key\":\"OWN_HOUSE\",\"label\":\"Own a House?\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HAVE_CAR\":{\"key\":\"HAVE_CAR\",\"label\":\"Own a Car?\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_LANGUAGE\":{\"key\":\"HOBBIES_LANGUAGE\",\"label\":\"Languages I Speak\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAV_FOOD\":{\"key\":\"FAV_FOOD\",\"label\":\"Food I Cook\",\"label_val\":null,\"value\":null,\"screenBit\":\"0\",\"edit\":\"Y\"},\"HOBBIES_HOBBY\":{\"key\":\"HOBBIES_HOBBY\",\"label\":\"Hobbies\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_INTEREST\":{\"key\":\"HOBBIES_INTEREST\",\"label\":\"Interests\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_MUSIC\":{\"key\":\"HOBBIES_MUSIC\",\"label\":\"Favourite Music\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_BOOK\":{\"key\":\"HOBBIES_BOOK\",\"label\":\"Favourite Book\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_DRESS\":{\"key\":\"HOBBIES_DRESS\",\"label\":\"Dress Style\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAV_MOVIE\":{\"key\":\"FAV_MOVIE\",\"label\":\"Movies\",\"label_val\":null,\"value\":null,\"screenBit\":\"0\",\"edit\":\"Y\"},\"HOBBIES_SPORTS\":{\"key\":\"HOBBIES_SPORTS\",\"label\":\"Sports\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_CUISINE\":{\"key\":\"HOBBIES_CUISINE\",\"label\":\"Cuisine\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"FAV_BOOK\":{\"key\":\"FAV_BOOK\",\"label\":\"Favourite Read\",\"label_val\":null,\"value\":null,\"screenBit\":\"0\",\"edit\":\"Y\"},\"FAV_TVSHOW\":{\"key\":\"FAV_TVSHOW\",\"label\":\"TV Shows\",\"label_val\":null,\"value\":null,\"screenBit\":\"0\",\"edit\":\"Y\"},\"FAV_VAC_DEST\":{\"key\":\"FAV_VAC_DEST\",\"label\":\"Vacation Destination\",\"label_val\":null,\"value\":null,\"screenBit\":\"0\",\"edit\":\"Y\"},\"RES_STATUS\":{\"key\":\"RES_STATUS\",\"label\":\"Residential Status\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"BLOOD_GROUP\":{\"key\":\"BLOOD_GROUP\",\"label\":\"Blood Group\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"HOBBIES_MOVIE\":{\"key\":\"HOBBIES_MOVIE\",\"label\":\"Favourite Movies\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"}},\"Contact\":{\"PROFILE_HANDLER_NAME\":{\"key\":\"PROFILE_HANDLER_NAME\",\"label\":\"Profile Handler Name\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"EMAIL\":{\"key\":\"EMAIL\",\"label\":\"Email Id\",\"label_val\":\"chiddu@gmail.com\",\"value\":\"chiddu@gmail.com\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"PHONE_MOB\":{\"key\":\"PHONE_MOB\",\"label\":\"Mobile No.\",\"label_val\":\"+91-9880763941\",\"value\":\"91,9880763941\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"ALT_MOBILE\":{\"key\":\"ALT_MOBILE\",\"label\":\"Alternate No.\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"PHONE_RES\":{\"key\":\"PHONE_RES\",\"label\":\"Landline No.\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"TIME_TO_CALL_START\":{\"key\":\"TIME_TO_CALL_START\",\"label\":\"Suitable Time to Call\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"MOBILE_OWNER_NAME\":{\"key\":\"MOBILE_OWNER_NAME\",\"label\":\"Name of owner\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"PHONE_OWNER_NAME\":{\"key\":\"PHONE_OWNER_NAME\",\"label\":\"Name of owner\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"ALT_MOBILE_OWNER_NAME\":{\"key\":\"ALT_MOBILE_OWNER_NAME\",\"label\":\"Name of owner\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"MOBILE_NUMBER_OWNER\":{\"key\":\"MOBILE_NUMBER_OWNER\",\"label\":\"Relationship\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"PHONE_NUMBER_OWNER\":{\"key\":\"PHONE_NUMBER_OWNER\",\"label\":\"Relationship\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"ALT_MOBILE_NUMBER_OWNER\":{\"key\":\"ALT_MOBILE_NUMBER_OWNER\",\"label\":\"Relationship\",\"label_val\":null,\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SHOWPHONE_MOB\":{\"key\":\"SHOWPHONE_MOB\",\"label\":\"\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SHOWPHONE_RES\":{\"key\":\"SHOWPHONE_RES\",\"label\":\"\",\"label_val\":\"Y\",\"value\":\"Y\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SHOWALT_MOBILE\":{\"key\":\"SHOWALT_MOBILE\",\"label\":\"\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"CONTACT\":{\"key\":\"CONTACT\",\"label\":\"Contact Address\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"PARENTS_CONTACT\":{\"key\":\"PARENTS_CONTACT\",\"label\":\"Parent's Address\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"SHOWADDRESS\":{\"key\":\"SHOWADDRESS\",\"label\":\"Contact Address\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"SHOW_PARENTS_CONTACT\":{\"key\":\"SHOW_PARENTS_CONTACT\",\"label\":\"\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"PINCODE\":{\"key\":\"PINCODE\",\"label\":\"Pin Code\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"PARENT_PINCODE\":{\"key\":\"PARENT_PINCODE\",\"label\":\"Pin Code\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"ID_PROOF_TYP\":{\"key\":\"ID_PROOF_TYP\",\"label\":\"ID type\",\"label_val\":\"\",\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"},\"ID_PROOF_NO\":{\"key\":\"ID_PROOF_NO\",\"label\":\"ID Number\",\"label_val\":null,\"value\":null,\"screenBit\":\"2\",\"edit\":\"Y\"}},\"Dpp\":{\"SPOUSE\":{\"key\":\"SPOUSE\",\"label\":\"About My Partner\",\"label_val\":\"\",\"value\":\"\",\"screenBit\":\"0\",\"edit\":\"Y\"},\"P_HEIGHT\":{\"key\":\"P_HEIGHT\",\"label\":\"Height\",\"label_val\":\"5' 0\" - 5' 6\"\",\"value\":\"13,19\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_AGE\":{\"key\":\"P_AGE\",\"label\":\"Age\",\"label_val\":\"21 - 24 years of age\",\"value\":\"21,24\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_MSTATUS\":{\"key\":\"P_MSTATUS\",\"label\":\"Marital Status\",\"label_val\":\"Awaiting Divorce, Divorced, Widowed, Annulled\",\"value\":\"S,D,W,A\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_COUNTRY\":{\"key\":\"P_COUNTRY\",\"label\":\"Country\",\"label_val\":\"Doesn't Matter\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_CITY\":{\"key\":\"P_CITY\",\"label\":\"City\",\"label_val\":\"Doesn't Matter\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_HAVECHILD\":{\"key\":\"P_HAVECHILD\",\"label\":\"Have Children\",\"label_val\":\"Doesn't Matter\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_RELIGION\":{\"key\":\"P_RELIGION\",\"label\":\"Religion\",\"label_val\":\"Hindu\",\"value\":\"1\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_CASTE\":{\"key\":\"P_CASTE\",\"label\":\"Caste\",\"label_val\":\"Hindu: Others\",\"value\":\"242\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_MTONGUE\":{\"key\":\"P_MTONGUE\",\"label\":\"Mother Tongue\",\"label_val\":\"Tamil, Hindi\\\/ Delhi, Malayalam, Kannada, Telugu\",\"value\":\"31,10,17,16,3\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_MANGLIK\":{\"key\":\"P_MANGLIK\",\"label\":\"Manglik\",\"label_val\":\"Doesn't Matter\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_EDUCATION\":{\"key\":\"P_EDUCATION\",\"label\":\"Highest Degree\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_OCCUPATION\":{\"key\":\"P_OCCUPATION\",\"label\":\"Occupation\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_INCOME\":{\"key\":\"P_INCOME\",\"label\":\"Income\",\"label_val\":\"-\",\"value\":\"DM,DM,DM,DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_DIET\":{\"key\":\"P_DIET\",\"label\":\"Diet\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_SMOKE\":{\"key\":\"P_SMOKE\",\"label\":\"Smoke\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_DRINK\":{\"key\":\"P_DRINK\",\"label\":\"Drink\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_COMPLEXION\":{\"key\":\"P_COMPLEXION\",\"label\":\"Complexion\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_BTYPE\":{\"key\":\"P_BTYPE\",\"label\":\"Body Type\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"},\"P_CHALLENGED\":{\"key\":\"P_CHALLENGED\",\"label\":\"Challenged\",\"label_val\":\"-\",\"value\":\"DM\",\"screenBit\":\"2\",\"edit\":\"Y\"}},\"profileCompletion\":{\"\":{\"PHOTO\":\"\\\/social\\\/addPhotos\",\"FAMILY\":\"family\",\"CAREER\":\"career\",\"ASTRO\":\"horoscope\"}},\"responseStatusCode\":[],\"responseMessage\":[],\"AUTHCHECKSUM\":[],\"hamburgerDetails\":[],\"phoneDetails\":[]}";
+var $profileScore = null;
+var profileCompletionValue = "15";
+var coverPhotoUrl = "/images/jspc/viewProfileImg/cover1.jpg";
+</script>
+
+
+        <script>
+        //alert("setting JSLoad 1");
+        jsLoadFlag = 1;
+	var jsLogin_layer=1;
+        </script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/helpWidget_js_7.js,/js/jspc/common/commonJspc_js_9.js,/js/jspc/login/loginLayer_js_10.js,/js/jspc/common/urlHandling_1.js,/js/jspc/common/jquery_mCustomScrollbar_1.js,/js/jspc/common/jquery_mousewheel_1.js,/js/commonExpiration_js_2.js,/js/rippleEffectCommon_js_3.js,/js/common_comscore_js_2.js"></script>
+
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/jspc/search/hslider_1.js,/js/jspc/utility/chosen/chosen_jquery_1.js,/js/jspc/utility/chosen/docsupport/prism_1.js,/js/jsms/utility/sessionStorage_js_3.js,/js/jspc/profile/edit/profile/jspcEditProfile_js_8.js,/js/jspc/profile/edit/profile/jspcCoverPhoto_js_1.js,/js/jspc/profile/edit/profile/jspcEditProfileCompletion_js_1.js,/js/jspc/profile/edit/profile/jspcPhoneVerifyBinding_js_2.js,/js/jspc/common/phoneVeriLayers_js_3.js,/js/jspc/common/nano_1.js"></script>
+
+<!--Google Analytics Code-->
+</body>
+
+    <script>
+    jsb9init_fourth(0.18197178840637,1,2,"http://track.99acres.com/images/zero.gif","JSMYPROFILEPAGEURL");
+    </script>
+</html>
+<script>var SSL_SITE_URL='https://www.jeevansathi.com';
+if (window.location.protocol == "https:")
+window.location.href = "http:" + window.location.href.substring(window.location.protocol.length);
+
+</script>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '569447716516417']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=569447716516417&amp;ev=PixelInitialized" /></noscript>
+
+

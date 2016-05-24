@@ -1,0 +1,710 @@
+
+<!DOCTYPE html>
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/favicon1.ico" />
+<link rel="stylesheet" async=true type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="canonical" href="http://www.jeevansathi.com/register/page4" />
+
+<title>Profile Registration - Register Free - Jeevansathi.com</title>
+
+<meta name="description" content="Register Free at Jeevansathi.com and choose from lakhs of genuine profiles from your community, profession, location   etc." />
+<meta name="keywords" content="Jeevansathi Registration, Matrimony Registration, Matrimonial Registration, Jeevansathi.com Registration, Register    free Jeevansathi.com, Jeevansathi matrimony Registration, jeevansathi matrimonial Registration, Free matrimonial, add profile, search profiles" />
+<meta name="google" content="notranslate" />
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/common/commonJspc_css_4.css,/css/jspc/common/fontsJspc_css_1.css,/css/jspc/common/headerFooterJspc_css_5.css,/css/helpWidget_css_4.css,/css/jspc/common/mCustomScrollBar_css_1.css,/css/rippleEffectCommon_css_2.css" />
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/registration/registrationJspc_css_1.css" />
+
+<script type="text/javascript" language="Javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/tracking_js_6.js,/js/jspc/common/AjaxWrapper_3.js"></script>
+
+
+<script>
+var domainCode={};
+domainCode[".hindijeevansathi.in"]="UA-20942264-1";
+domainCode[".jeevansathi.co.in"]="UA-20941176-1";
+domainCode[".marathijeevansathi.in"]="UA-20941180-1";
+domainCode[".punjabijeevansathi.com"]="UA-20941670-1";
+domainCode[".punjabijeevansathi.in"]="UA-20941669-1";
+domainCode[".jeevansathi.com"]="UA-179986-1";
+var host_url="http://"+window.location.host;
+var j_domain=host_url.match(/:\/\/[\w]{0,10}(.[^/]+)/)[1];
+j_domain=j_domain.toLowerCase();
+var ucode=domainCode[j_domain];
+if(ucode)
+{
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', ucode]);
+_gaq.push(['_setDomainName', j_domain]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+}
+function trackJsEventGA(category, action, label){
+if(ucode){
+_gaq.push(['_trackEvent', category, action, label]);
+} else {
+return false;
+}
+}
+var loggedInJspcUser="13344083";
+</script>
+</head>
+
+        <script>
+    jsb9init_first();
+    </script>
+<noscript>
+<div class="bg_pink lh46 f18 txtc colrw fontreg boxshadow" style="font-weight: 300;">
+You have not enabled Javascript on your browser, please enable it to use the website
+</div>
+</noscript>
+<body >
+<div id="clickHolderCE" onclick="javascript:updateClickHolderCE(false,event)" style="height:0px;width:0px">&nbsp;</div>
+<div id="clickHolder" onclick="javascript:updateClickHolder(false,event)" style="height:0px;width:0px" >&nbsp;</div><div id="commonOverlay" class="jspcOverlay js-overlay overlayZ disp-none"></div>
+<!--start:error layer-->
+<div class="pos_fix fullwid z6" style="background-color:#fdfdfd; display:none;" id="commonError">
+<div class="container errwid2 pt10 pb10">
+<div class="fl">
+<i class="sprite2 erric1"></i>
+</div>
+<div class="fl f20 fontlig color11 pt10 pl20" id="js-commonErrorMsg">
+Something went wrong. Please try again after some time.
+</div>
+</div>
+</div>
+<!--end:error layer-->
+<input type="hidden" name="leadid" id ="leadid" value="">
+<input type="hidden" name="groupname" id="groupname" value="jeevansathi">
+<div class="fullwid bg_1" id="mainRegContent">
+<!--start:overlay-->
+<div class="pos_fix fullwid layersZ reg1pos1 js-regOverlayMsg disp-none">
+<div class="wid36p mauto reg1bg1" >
+<div class="padall-10">
+<div class="txtr fontreg">
+<i class="sprite2 reg1close cursp js-regOverlayClose"></i>
+<p class="txtc color2 f15 regMsgPad">You may access and update previous information after registration is complete</p>
+</div>
+</div>
+</div>
+</div>
+<!--end:overlay-->
+<!--start:header-->
+
+
+
+<!--r_num is variable number whose value is fetched from Auth filter in case of JSPC and assigned to script to be accessed in commonExpiration_js.js-->
+<!--start:header-->
+<header>
+<div class="mem-coverimg pt35">
+<div class="container mainwid mem-pad1 fontreg">
+<!--start:top navigation bar-->
+<div id="topNavigationBar" class="pos_rel fullwid color-block clearfix">
+<!--start:logo-->
+<div id="jeevansathiLogo" class="fl hpwid1 logop1 hpwhite txtc disp-tbl">
+<p class="lgo" itemtype="http://schema.org/Organization" itemscope="">
+<a class="disp-cell vmid pl10" href="/myjs/jspcPerform" itemprop="url"> <img class="brdr-0 vmid" alt="Indian Matrimonials - We Match Better" src="http://www.jeevansathi.com/images/jspc/commonimg/logo1.png" itemprop="logo"> </a>
+</p>
+</div>
+<!--end:logo-->
+<!--start:nav-->
+<div class="fr mr20 mt23 toplink f14">
+<nav>
+<span id="liveChatLinkHeader" class="cursp ml30">LIVE CHAT</span>
+<span id="helplineNoHeader" style="color:#fff" class="ml30">1-800-419-6299 (Toll Free)</span>
+</nav>
+</div>
+<!--end:nav-->
+<!--start:image-->
+<!--end:image-->
+</div>
+<!--end:top navigation bar-->
+<div class="reg_pad1 fontreg">
+<div class="brdrb_1">
+<div class="fullwid txtc f15 tabone clearfix">
+<a style="cursor:default" class="fl">Profile details</a>
+<a style="cursor:default" class="fl">Education & Profession</a>
+<a style="cursor:default" class="fl reg_active">Lifestyle & Family</a>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</header>
+<script type="text/javascript">
+var r_n_u_m = 10;
+if(typeof(bindEscapeKey) != 'function'){
+$(document).keyup(function(e) {
+if (e.keyCode == 27) {
+if ($(".overlay1").length) {
+$(".overlay1").remove();
+$("#topNavigationBar").removeClass('pos-rel').removeClass('z999');
+$("#headerRequestCallback").removeClass('js-reqcallbck').removeClass('opa50');
+$("#headerRequestCallbackLogout").hide();
+$("#headerRequestCallbackLogin").hide();
+}
+}
+});
+}
+if($('#topNavigationBar').hasClass('stickyTopNavBar')){
+var stickyTopNavBar = 1;
+} else {
+var stickyTopNavBar = 0;
+}
+var stickyHeader = $("#topNavigationBar").offset().top;
+$(window).load(function() {
+if(stickyTopNavBar){
+$(window).scroll(function () {
+if ($(this).scrollTop() > stickyHeader) {
+$("#topNavigationBar").addClass("pos_fix");
+$("#topNavigationBar").removeClass("pos_rel");
+} else {
+$("#topNavigationBar").addClass("pos_rel");
+$("#topNavigationBar").removeClass("pos_fix");
+}
+});
+}
+else{
+$("#topNavigationBar").removeClass("pos_fix");
+}
+});
+
+//This fucntion returns the revision number and is called in commonExpiration_js.js
+function getR_N_U_M(){
+return(r_n_u_m);
+}
+</script>
+<!--end:header-->
+
+
+
+<!--end:header-->
+<!--start:body-->
+<div>
+<div class="container reg_wid1" >
+<!--start: registration Forms-->
+<!--start:text-->
+<div class="fontlig f22 txtc colr1 pt30">We would love to know about your family.</div>
+<!--end:text-->
+<!--start:div.1-->
+<div class="clearfix pt30">
+<div class="fl wid80p">
+<!--start:form-->
+<div class="fr clearfix pt5 fontlig f15 fullwid formreg">
+<!--start:family type-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="familyType_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="familyType_box">
+<label class="lblreg pos_abs js-familyType js-list pos1_lbl2" id="familyType_label" data-attr="familyType">Family type</label>
+<div class="js-tBox reg-mainlist showdd" id="familyType_value" data-validate=false data-required=false data-fieldtype="familyType" data-number="3" data-type="radio" data-toSave="family_type">
+<div id="familyType-inputBox_set"></div>
+<ul id="familyType-list_set" class="rlist familyTypeopt">
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--end:family type-->
+<!--start:Father's occupation-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="fatherOccupation_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="fatherOccupation_box">
+<label class="lblreg pos_abs js-fatherOccupation pos1_lbl2" id="fatherOccupation_label" data-attr="fatherOccupation">Father's Occupation</label>
+<div class="js-tBox" id="fatherOccupation_value" data-type="gridDropdown" data-columns="3" data-validate=false data-required=false data-fieldtype="fatherOccupation" data-toSave="family_back">
+<div id="fatherOccupation-inputBox_set"></div>
+<div id="fatherOccupation-gridDropdown_set"></div>
+</div>
+</div>
+</div>
+</div>
+<!--end:father's occupation-->
+
+
+
+<!--start:Mother's occupation-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="motherOccupation_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="motherOccupation_box">
+<label class="lblreg pos_abs js-motherOccupation pos1_lbl2" id="motherOccupation_label" data-attr="motherOccupation">Mother's Occupation</label>
+<div class="js-tBox" id="motherOccupation_value" data-type="gridDropdown" data-columns="3" data-validate=false data-required=false data-fieldtype="motherOccupation" data-toSave="mother_occ">
+<div id="motherOccupation-inputBox_set"></div>
+<div id="motherOccupation-gridDropdown_set"></div>
+</div>
+</div>
+</div>
+</div>
+<!--end:mother's occupation-->
+
+<!--start:brother-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="brother_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="brother_box">
+<label class="lblreg pos_abs js-brother js-list pos1_lbl2" id="brother_label" data-attr="brother">Brother</label>
+<div class="js-tBox reg-mainlist showdd" id="brother_value" data-validate=false data-required=false data-fieldtype="brother" data-number="5" data-type="radio" data-sublist=true data-show-sections=true data-no-of-sections="2" data-toSave="t_brother">
+<div id="brother-inputBox_set">
+</div>
+<ul id="brother-list_set" class="rlist brotheropt">
+</ul>
+</div>
+<!--start:other drop down-->
+<div class="js-other sub-mainlist pos_abs reg-pos4 reg-zi1 regdropbox boxshadow">
+<ul class="rlist brother-otheropt" id="brother-other-list_set">
+</ul>
+</div>
+<!--end:other drop down-->
+</div>
+</div>
+</div>
+<!--end:brother-->
+<!--start:sister-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="sister_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="sister_box">
+<label class="lblreg pos_abs js-sister js-list pos1_lbl2" id="sister_label" data-attr="sister">Sister</label>
+<div class="js-tBox reg-mainlist showdd" id="sister_value" data-validate=false data-required=false data-fieldtype="sister" data-number="5" data-type="radio" data-sublist=true data-show-sections=true data-no-of-sections="2" data-toSave="t_sister">
+<div id="sister-inputBox_set">
+</div>
+<ul id="sister-list_set" class="rlist sisteropt">
+</ul>
+</div>
+<!--start:other drop down-->
+<div class="js-other sub-mainlist pos_abs reg-pos4 reg-zi1 regdropbox boxshadow">
+<ul class="rlist sister-otheropt" id="sister-other-list_set">
+</ul>
+</div>
+<!--end:other drop down-->
+</div>
+</div>
+</div>
+<!--end:sister-->
+
+<!--start:familyState-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="familyState_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" data-attr="cityliv" tabindex="0" id="familyState_box">
+<label class="lblreg pos_abs js-familyState js-list pos1_lbl2" id="familyState_label" data-attr="cityliv">Family living in</label>
+<div class="js-tBox" id="familyState_value" data-type="gridDropdown" data-columns="3" data-validate=false data-required=false data-fieldtype="state" data-search="true" data-toSave="native_state">
+<input autocomplete="off" class="reg_wid2 fr brdr-0 f15 fontlig" id="familyState-inputBox_set"/>
+<div id="familyState-gridDropdown_set"></div>
+</div>
+<div class="pos_abs fontreg f11 color8 reg-pos9 txtu" style="cursor:pointer;" id="NfiLink">Not from India?</div>
+</div>
+</div>
+</div>
+<!--end:familyState-->
+<!--start:familyCity-->
+<div class="mt7 disp-none" id="familyCity_selector">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="familyCity_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white  outl-none toValidate" data-attr="cityliv" tabindex="0" id="familyCity_box">
+<label class="lblreg pos_abs js-familyCity js-list pos1_lbl2" id="familyCity_label" data-attr="cityliv">Native City</label>
+<div class="js-tBox" id="familyCity_value" data-type="gridDropdown" data-columns="3" data-validate=false data-required=false data-fieldtype="familyCity" data-toSave="native_city" data-search="true">
+<input autocomplete="off" class="reg_wid2 fr brdr-0 f15 fontlig" id="familyCity-inputBox_set"/>
+<div id="familyCity-gridDropdown_set"></div>
+</div>
+</div>
+</div>
+</div>
+<!--end:familyCity-->
+<!--start:city other-->
+<div class="mt7 disp-none" id="familyCityOther_selector">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="familyCityOther_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none" tabindex="0" id="familyCityOther_box">
+<label class="lblreg pos_abs js-familyCityOther js-list pos1_lbl2" id="familyCityOther_label" data-attr="familyCityOther">Specify City/Town</label>
+<input autocomplete="off" class="js-tBox reg_wid2 fr brdr-0 f15 fontlig toValidate" id="familyCityOther" data-type="text" type="familyCityOther" tabindex="-1" data-toSave ="ancestral_origin" data-required=false data-validate=false data-fieldtype="familyCityOther" maxlength=40/>
+</div>
+</div>
+</div>
+<!--end:Password-->
+<!--start:address-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="address_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none" tabindex="0" id="address_box">
+<label class="lblreg pos_abs js-address js-list pos1_lbl2" id="address_label" data-attr="address">Contact address</label>
+<input autocomplete="off" class="js-tBox reg_wid2 fr brdr-0 f15 fontlig toValidate" id="address_value" maxlength="500" data-type="text" type="address" maxlength="500" tabindex="-1" data-required=false data-validate=false data-fieldtype="address" data-toSave="contact" maxlength=500/>
+
+</div>
+</div>
+</div>
+<!--end:address-->
+<!--start:about family-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid" id="aboutfamily_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr bg-white outl-none aboutme-h" tabindex="0" id="aboutfamily_box">
+<label class="lblreg pos_abs js-aboutfamily js-list pos1_lbl1" id="aboutfamily_label" data-attr="aboutfamily">About My Family</label>
+<textarea autocomplete="off" class="js-tBox reg_wid3 aboutme-t fr brdr-0 f14 fontlig outl-none toValidate disp-none" style="color: #353e4f;" id="aboutfamily_value" data-type="text" type="text" data-validate=true tabindex="-1" data-fieldtype="aboutfamily" data-toSave="familyinfo" maxlength="1000"></textarea>
+</div>
+</div>
+</div>
+<!--end:about family-->
+<!--start:registration button-->
+<div class="fullwid mt30">
+<div class="reg-marl1">
+<!--start:button-->
+<div class="reg-btn">
+<div class="scrollhid pos_rel wid200 disp_ib">
+<button class="padalla fontreg f20 colrw wid200 buttonSub pinkRipple hoverPink" id="regPage1Submit">Add to my profile</button>
+</div>
+&nbsp;&nbsp;&nbsp;
+<div class="disp_ib vtop pt20">
+<a href="/register/page5?fromReg=1&groupname=jeevansathi" id="skipPage4" class="colrb">I will add this later</a>
+</div>
+<!--end:button-->
+</div>
+</div>
+</div>
+<!--end:registration button-->
+</div>
+<!--end:form-->
+</div>
+<!--end:form div-->
+<input type="hidden" name="_csrf_token" value="9be2bb7d7764889c2d0bf19d93d1a848" id="registrationData__csrf_token" />
+
+
+<!--end: registration Forms-->
+</div>
+</div>
+<!--end:body-->
+<!--start:gapping div-->
+<div class="clr hgt200"></div>
+<!--end:gapping div-->
+<!--start:footer-->
+
+<!--start:help widget-->
+<!--start:overlay-->
+<div class="js-requestCallBackOverlay dspN fontlig">
+<div class="overlay"></div>
+<div class="modal fontlig">
+<!--start:close button-->
+<div class="posabs Widgicon Widicon4 js-requestCallBackClose"></div>
+<!--end:close button-->
+<div class="formpadt2 fontlig" id="requestForm">
+<form id="Widget" action="javascript:void(0)" novalidate>
+<div class="fontlig f15 txtc pb18">We will call you at the earliest after you submit the request</div>
+<!--start:name-->
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="email" tabindex="1" name="email" id="rq_email" placeholder="Email" value="deepak.madhyastha@reverieinc.com" />
+</div>
+<span id="emailError" class="errorPad dspN fontlig"> </span>
+<!--end:name-->
+<!--start:mobile no-->
+<div class="formpadt1">
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="tel" tabindex="2" name="phone" id="rq_phone" placeholder="Mobile number" value="" />
+</div>
+</div>
+<span id="phoneError" class="errorPad dspN fontlig"> </span>
+<!--end:mobile no-->
+<!--start:product-->
+<div class="formpadt1 fontlig">
+<dl id="sample4" class="dropdown">
+<dt class="js-dt">
+<span  id="typeOfQuery" tabindex="3" >What type of query do you have?</span>
+<div class="posabs pos1 sideicon"></div>
+</dt>
+<dd class="js-dd">
+<ul>
+<li value="P">Questions or feedback regarding jeevansathi profile</li>
+<li value="M">Query regarding jeevansathi membership plans</li>
+</ul>
+</dd>
+</dl>
+<input id="rq_query" type="hidden" name="query_type"/>
+</div>
+<span id="querryError" class="errorPad dspN"> </span>
+<!--end:product-->
+<!--start:button-->
+<div class="formpadt1">
+<div style="overflow: hidden;position: relative;">
+<button type="submit" id="sidebarReqCallbackBtn" tabindex="4" class="cursp pinkRipple hoverPink bg_pink">Submit Request</button>
+</div>
+</div>
+<!--end:button-->
+</form>
+</div>
+<div id="requestLoader" class="formpadt3 dspN">
+<img src="http://static.jeevansathi.com/images/colorbox/loader_big.gif"> </img>
+</div>
+<div id="requestSuccessMsg" class="formpadt4 dspN"> </div>
+</div>
+</div>
+<!--end:overlay-->
+<!--start:helpwidget-->
+<div id="js-helpWidget" class="dspN pos_fix hlpwhite fontreg hlppos1 wid200" style="right: -171px;">
+<div class="pos-rel clearfix">
+<div class="Widposabs hlpcl1 js-helpCollapses l0">
+<div class="vertical-text f12">HELP</div>
+</div>
+<div class="fr js-helpWidgetContent" style="width:171px">
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20"> <i class="sprite2 helpic1 fl"></i>
+<div class="fl color11 f14 pl9">1-800-419-6299</div>
+</div>
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20 js-openRequestCallBack"> <a href="#"><i class="sprite2 helpic2 fl"></i>
+<div class="fl color11 f14 pl10">Request callback</div>
+</a> </div>
+</div>
+</div>
+</div>
+<!--end:helpwidget-->
+<script> var showExpandMode = "0"
+</script>
+
+
+<!--end:help widget-->
+
+<!--start:banner-->
+<div class="txtc bg-4 pt20 pb20" id="zt_616105_bottom"> </div>
+<!--end:banner-->
+
+<!--start:footer-->
+<footer>
+<!--pixelcode for register page-->
+<div id="js-footer">
+<div class="bg_2">
+<div class="container mainwid clearfix fontreg f15">
+<div class="fl link wid500">
+<ul class="lh50">
+<li id="helplineNoFooter">1-800-419-6299 (Toll Free)</li>
+<li>|</li>
+<li id="liveChatLinkFooter" class="cursp">Live Chat</li>
+</ul>
+</div>
+<div class="fl cards mt3">
+<ul class="mt8">
+<li><i class="headfootsprtie visa"></i></li>
+<li><i class="headfootsprtie mcard"></i></li>
+</ul>
+</div>
+<div class="fr socialicons">
+<ul class="mt8">
+<li><a itemprop="sameAs" href="http://www.facebook.com/jeevansathi" target="_blank" class="disp_b headfootsprtie facebooksmall"></a></li>
+<li><a itemprop="sameAs" href="http://www.twitter.com/jeevansathi_com" target="_blank" class="disp_b headfootsprtie twittersmall"></a></li>
+<li><a itemprop="sameAs" href="https://www.linkedin.com/company/info-edge-india-ltd" target="_blank" class="disp_b headfootsprtie linkedinsmall"></a></li>
+<li><a itemprop="sameAs" href="https://plus.google.com/117800057348280296221" target="_blank" class="disp_b headfootsprtie gplussmall"></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--start:partner site-->
+<div class="bg-white">
+<div class="container mainwid">
+<div class="pb10 pt10 wid800 clearfix txtc pl128">
+<div class="f12 color6 fl pt30 pr36 fontreg">Partner Sites</div>
+<!--start:slider-->
+<div class="fl" style="width:600px;height:80px">
+<div id="slider">
+<div id="images">
+<div class="basic">
+<ul>
+<li class="pl17"><a href="http://www.99acres.com" target="_blank" title="99acres.com"><i class="headfootsprtie acre"></i></a></li>
+<li class="pl17"><a href="http://www.naukri.com" target="_blank" title="naukri.com"><i class="headfootsprtie nc"></i></a></li>
+<li class="pl17"><a href="http://www.naukrigulf.com" target="_blank" title="naukrigulf"><i class="headfootsprtie ng"></i></a></li>
+<li class="pl30"><a href="http://www.shiksha.com" target="_blank" title="shiksha"><i class="headfootsprtie shiksha"></i></a></li>
+</ul>
+</div>
+<div class="basic">
+<div>
+<ul>
+<li class="pl17"><a href="http://www.mydala.com" target="_blank" title="mydala"><i class="headfootsprtie mydala"></i></a></li>
+<li class="pl30"><a href="http://www.policybazar.com" target="_blank" title="policybazar"><i class="headfootsprtie pb"></i></a></li>
+<li class="pl40"><a href="http://www.zomato.com" target="_blank" title="zomato"><i class="headfootsprtie zomato"></i></a></li>
+<li class="pl20"><a href="http://www.meritnation.com" target="_blank" title="meritnation"><i class="headfootsprtie meritn"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+<a id="prev" href="javascript:void(0);"> <i class="headfootsprtie leftslide"></i> </a> <a id="next" href="javascript:void(0);"> <i class="headfootsprtie rightsmall"></i> </a> </div>
+</div>
+<!--endt:slider-->
+</div>
+<div class="txtc pb15">
+<ul class="hor_list clearfix f13 fontlig disp_ib">
+<li class="pl5"><a href="/?mobile_view=Y" class="color11">View Mobile Version</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--end:partner site-->
+<div class="bg_3">
+<div class="padall-10 txtc f12 fontreg colr2"> All rights reserved © 2016 Jeevansathi Internet Services. </div>
+</div>
+</div>
+</footer>
+<!--end:footer-->
+<script type="text/javascript">
+$(window).load(function(){
+var udObj = '{"username":"ZVUR4103","email":"deepak.madhyastha@reverieinc.com"}';
+var userDetails = $.parseJSON(udObj);
+populateFreshDeskGlobal(userDetails['username'], userDetails['email']);
+slider();
+});
+</script>
+<script type = 'text/javascript'>
+$(window).load(function(){
+setTimeout(function(){
+var len = $('script[src*="js/visitor.js"]').length;
+if(len === 0) {
+var isSecured = (window.location && window.location.protocol == 'https:');
+var fc_CSS = document.createElement('link');
+fc_CSS.setAttribute('rel', 'stylesheet');
+var rtlSuffix = ((document.getElementsByTagName('html')[0].getAttribute('lang')) === 'ar') ? '-rtl' : '';
+fc_CSS.setAttribute('type', 'text/css');
+fc_CSS.setAttribute('href', ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets1.chat.freshdesk.com') + '/css/visitor' + rtlSuffix + '.css');
+document.getElementsByTagName('head')[0].appendChild(fc_CSS);
+var fc_JS = document.createElement('script');
+fc_JS.type = 'text/javascript';
+fc_JS.src = ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets.chat.freshdesk.com') + '/js/visitor.js';
+nativeReduce = undefined;
+(document.body ? document.body : document.getElementsByTagName('head')[0]).appendChild(fc_JS);
+window.freshchat_setting = 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJqZWV2YW5zYXRoaS5mcmVzaGRlc2suY29tIiwicHJvZHVjdF9pZCI6bnVsbCwibmFtZSI6IkluZm8gRWRnZSBJbmRpYSBMdGQuIiwid2lkZ2V0X2V4dGVybmFsX2lkIjpudWxsLCJ3aWRnZXRfaWQiOiIwYmJiNTU3OS1hYzQ0LTQ5ZTktOTQ1OS03NWZjY2JkOWQ3MjYiLCJzaG93X29uX3BvcnRhbCI6dHJ1ZSwicG9ydGFsX2xvZ2luX3JlcXVpcmVkIjpmYWxzZSwiaWQiOjUwMDAwNTM1NzYsIm1haW5fd2lkZ2V0Ijp0cnVlLCJmY19pZCI6ImE3MDI5YTQ5N2MzN2E4YzUwZGRiODVjZTM5OWIxM2JjIiwic2hvdyI6MSwicmVxdWlyZWQiOjIsImhlbHBkZXNrbmFtZSI6IkluZm8gRWRnZSBJbmRpYSBMdGQuIiwibmFtZV9sYWJlbCI6Ik5hbWUiLCJtYWlsX2xhYmVsIjoiRW1haWwiLCJtZXNzYWdlX2xhYmVsIjoiTWVzc2FnZSIsInBob25lX2xhYmVsIjoiUGhvbmUgTnVtYmVyIiwidGV4dGZpZWxkX2xhYmVsIjoiVGV4dGZpZWxkIiwiZHJvcGRvd25fbGFiZWwiOiJEcm9wZG93biIsIndlYnVybCI6ImplZXZhbnNhdGhpLmZyZXNoZGVzay5jb20iLCJub2RldXJsIjoiY2hhdC5mcmVzaGRlc2suY29tIiwiZGVidWciOjEsIm1lIjoiTWUiLCJleHBpcnkiOjE0NDU4NTIwNjEwMDAsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImRlZmF1bHRfd2luZG93X29mZnNldCI6MzAsImRlZmF1bHRfbWF4aW1pemVkX3RpdGxlIjoiQ2hhdCBpbiBwcm9ncmVzcyIsImRlZmF1bHRfbWluaW1pemVkX3RpdGxlIjoiTGV0J3MgdGFsayEiLCJkZWZhdWx0X3RleHRfcGxhY2UiOiJZb3VyIE1lc3NhZ2UiLCJkZWZhdWx0X2Nvbm5lY3RpbmdfbXNnIjoiV2FpdGluZyBmb3IgYW4gYWdlbnQiLCJkZWZhdWx0X3dlbGNvbWVfbWVzc2FnZSI6IkhpISBIb3cgY2FuIHdlIGhlbHAgeW91IHRvZGF5PyIsImRlZmF1bHRfd2FpdF9tZXNzYWdlIjoiT25lIG9mIHVzIHdpbGwgYmUgd2l0aCB5b3UgcmlnaHQgYXdheSwgcGxlYXNlIHdhaXQuIiwiZGVmYXVsdF9hZ2VudF9qb2luZWRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGpvaW5lZCB0aGUgY2hhdCIsImRlZmF1bHRfYWdlbnRfbGVmdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgbGVmdCB0aGUgY2hhdCIsImRlZmF1bHRfYWdlbnRfdHJhbnNmZXJfbXNnX3RvX3Zpc2l0b3IiOiJZb3VyIGNoYXQgaGFzIGJlZW4gdHJhbnNmZXJyZWQgdG8ge3thZ2VudF9uYW1lfX0iLCJkZWZhdWx0X3RoYW5rX21lc3NhZ2UiOiJUaGFuayB5b3UgZm9yIGNoYXR0aW5nIHdpdGggdXMuIElmIHlvdSBoYXZlIGFkZGl0aW9uYWwgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcGluZyB1cyEiLCJkZWZhdWx0X25vbl9hdmFpbGFiaWxpdHlfbWVzc2FnZSI6Ik91ciBhZ2VudHMgYXJlIHVuYXZhaWxhYmxlIHJpZ2h0IG5vdy4gU29ycnkgYWJvdXQgdGhhdCwgYnV0IHBsZWFzZSBsZWF2ZSB1cyBhIG1lc3NhZ2UgYW5kIHdlJ2xsIGdldCByaWdodCBiYWNrLiIsImRlZmF1bHRfcHJlY2hhdF9tZXNzYWdlIjoiV2UgY2FuJ3Qgd2FpdCB0byB0YWxrIHRvIHlvdS4gQnV0IGZpcnN0LCBwbGVhc2UgdGVsbCB1cyBhIGJpdCBhYm91dCB5b3Vyc2VsZi4iLCJhZ2VudF90cmFuc2ZlcmVkX21zZyI6IllvdXIgY2hhdCBoYXMgYmVlbiB0cmFuc2ZlcnJlZCB0byB7e2FnZW50X25hbWV9fSIsImFnZW50X3Jlb3Blbl9jaGF0X21zZyI6Int7YWdlbnRfbmFtZX19IHJlb3BlbmVkIHRoZSBjaGF0IiwidmlzaXRvcl9zaWRlX2luYWN0aXZlX21zZyI6IlRoaXMgY2hhdCBoYXMgYmVlbiBpbmFjdGl2ZSBmb3IgdGhlIHBhc3QgMjAgbWludXRlcy4iLCJhZ2VudF9kaXNjb25uZWN0X21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBiZWVuIGRpc2Nvbm5lY3RlZCIsInNpdGVfaWQiOiJhNzAyOWE0OTdjMzdhOGM1MGRkYjg1Y2UzOTliMTNiYyIsImFjdGl2ZSI6dHJ1ZSwid2lkZ2V0X3ByZWZlcmVuY2VzIjp7IndpbmRvd19jb2xvciI6IiM3Nzc3NzciLCJ3aW5kb3dfcG9zaXRpb24iOiJCb3R0b20gUmlnaHQiLCJ3aW5kb3dfb2Zmc2V0IjoiMzAiLCJtaW5pbWl6ZWRfdGl0bGUiOiJMZXQncyB0YWxrISIsIm1heGltaXplZF90aXRsZSI6IkNoYXQgaW4gcHJvZ3Jlc3MiLCJ0ZXh0X3BsYWNlIjoiWW91ciB0ZXh0IGdvZXMgaGVyZSIsIndlbGNvbWVfbWVzc2FnZSI6IkhpISBIb3cgY2FuIHdlIGhlbHAgeW91IHRvZGF5PyIsInRoYW5rX21lc3NhZ2UiOiJUaGFuayB5b3UgZm9yIGNoYXR0aW5nIHdpdGggdXMuIElmIHlvdSBoYXZlIGFkZGl0aW9uYWwgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcGluZyB1cyEiLCJ3YWl0X21lc3NhZ2UiOiJPbmUgb2YgdXMgd2lsbCBiZSB3aXRoIHlvdSByaWdodCBhd2F5LCBwbGVhc2Ugd2FpdC4iLCJjb25uZWN0aW5nX21zZyI6IndhaXRpbmcgZm9yIGFnZW50IiwiYWdlbnRfbGVmdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgbGVmdCB0aGUgY2hhdCAiLCJhZ2VudF9qb2luZWRfbXNnIjoie3thZ2VudF9uYW1lfX0gb2Yge3toZWxwZGVza19uYW1lfX0gaGFzIGpvaW5lZCB0aGUgY2hhdCJ9LCJyb3V0aW5nIjp7ImRyb3Bkb3duX2Jhc2VkIjoiZmFsc2UiLCJjaG9pY2VzIjp7Imxpc3QxIjpbIjAiXSwibGlzdDIiOlsiMCJdLCJsaXN0MyI6WyIwIl0sImRlZmF1bHQiOlsiMCJdfX0sInByZWNoYXRfZm9ybSI6dHJ1ZSwicHJlY2hhdF9tZXNzYWdlIjoiV2UgY2FuJ3Qgd2FpdCB0byB0YWxrIHRvIHlvdS4gQnV0IGZpcnN0LCBwbGVhc2UgdGFrZSBhIGNvdXBsZSBvZiBtb21lbnRzIHRvIHRlbGwgdXMgYSBiaXQgYWJvdXQgeW91cnNlbGYuIiwicHJlY2hhdF9maWVsZHMiOnsibmFtZSI6eyJ0aXRsZSI6Ik5hbWUiLCJzaG93IjoiMiJ9LCJlbWFpbCI6eyJ0aXRsZSI6IkVtYWlsIEFkZHJlc3MiLCJzaG93IjoiMSJ9LCJwaG9uZSI6eyJ0aXRsZSI6IlBob25lIE51bWJlciIsInNob3ciOiIxIn0sInRleHRmaWVsZCI6eyJ0aXRsZSI6Ik1lc3NhZ2UiLCJzaG93IjoiMCJ9LCJkcm9wZG93biI6eyJ0aXRsZSI6IkRyb3BEb3duIiwic2hvdyI6IjAiLCJvcHRpb25zIjpbImxpc3QxIiwibGlzdDIiLCJsaXN0MyJdfX0sImJ1c2luZXNzX2NhbGVuZGFyIjpudWxsLCJub25fYXZhaWxhYmlsaXR5X21lc3NhZ2UiOm51bGwsInByb2FjdGl2ZV9jaGF0Ijp0cnVlLCJwcm9hY3RpdmVfdGltZSI6MTUsInNpdGVfdXJsIjoiamVldmFuc2F0aGkuZnJlc2hkZXNrLmNvbSIsImV4dGVybmFsX2lkIjpudWxsLCJkZWxldGVkIjpmYWxzZSwib2ZmbGluZV9jaGF0Ijp7InNob3ciOiIxIiwiZm9ybSI6eyJuYW1lIjoiTmFtZSIsImVtYWlsIjoiRW1haWwiLCJtZXNzYWdlIjoiTWVzc2FnZSJ9LCJtZXNzYWdlcyI6eyJ0aXRsZSI6IkxlYXZlIHVzIGEgbWVzc2FnZSEiLCJ0aGFuayI6IlRoYW5rIHlvdSBmb3Igd3JpdGluZyB0byB1cy4gV2Ugd2lsbCBnZXQgYmFjayB0byB5b3Ugc2hvcnRseS4iLCJ0aGFua19oZWFkZXIiOiJUaGFuayB5b3UhIn19LCJtb2JpbGUiOnRydWUsImNyZWF0ZWRfYXQiOiIyMDE0LTEyLTI3VDAzOjA2OjUzLjAwMFoiLCJ1cGRhdGVkX2F0IjoiMjAxNS0xMC0wNVQxMTo0ODo0MS4wMDBaIn0=';
+}
+}, 5000);
+});
+</script>
+
+
+
+<!--end:footer-->
+</div>
+<input type="hidden" value="" id="gender_value" />
+
+<ul class="rlist cpfopt disp-none" id="radio-list">
+<li class="gridfcolor" id="{{customId}}" data-dbVal="{{cusDbVal}}">{{customValue}}</li>
+{{newLi}}
+</ul>
+<ul class="rlist disp-none" id="other-list">
+<li class="gridfcolor" style="padding:14px" id="{{customId}}" data-dbVal="{{cusDbVal}}">{{customValue}}</li>
+{{newLi}}
+</ul>
+<div id="inputBoxDummy" class="disp-none">
+<span class="reg_wid2 fr brdr-0 fontspinp pos_abs pos1_inp" id="spanDummy" type="text">{{customValue}}</span>
+</div>
+<div id="selected-list" class="disp-none">
+<ul id="{{cusId}}-selected-list" class="rlist {{cusId}}opt">
+</ul>
+</div>
+<ul id="dobDummy" class="disp-none">
+<li id="{{cusId}}">{{customValue}}</li>
+{{newLi}}
+</ul>
+<!--start:drop down-->
+<div class="disp-none" id="gridDummy">
+<div class="pos_abs bg-white brdr-1 t1 reg-zi1 reg-wid3 showdd">
+<div class="pos_rel fullwid"> <i class="pos_abs reg-sprtie reg-droparrow test-pos3 reg-zi100"></i>
+<div class="reg-zi1 regpad2 fullwid optlist scrolla gridfcolor reg-hgt200" id="multipleUls">
+<ul class="clearfix searchUl" id="gridUlDummy">
+<li class="lh30" id="{{customId}}" data-dbVal="{{cusDbVal}}" data-style >
+<div class="pl15 textTru">{{customValue}}</div>
+</li>
+{{newLi}}
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--end:drop down-->
+<div id="alphaDiv" class="disp-none">
+<div class="fontrobbold f13 brdrb-4 pl15 pt10  isGroupheading" data-dbVal="-1">{{cusHeading}}</div>
+</div>
+<script>
+
+var dataArray = null;
+var pageId = null;
+var nextPageId = null;
+var incomplete = null;
+dataArray = {"familyType":{"0":{"1":"Joint Family"},"1":{"2":"Nuclear Family"},"2":{"3":"Others"}},"brother":{"0":{"0":"None"},"1":{"1":"1"},"2":{"2":"2"},"3":{"3":"3"},"4":{"4":"3+"}},"sister":{"0":{"0":"None"},"1":{"1":"1"},"2":{"2":"2"},"3":{"3":"3"},"4":{"4":"3+"}},"fatherOccupation":{"0":{"0":{"1":"Business\/Entrepreneur"},"1":{"2":"Service - Private"},"2":{"3":"Service - Govt.\/PSU"},"3":{"4":"Army\/Armed Forces"},"4":{"5":"Civil Services"},"5":{"6":"Retired"},"6":{"7":"Not Employed"},"7":{"8":"Expired"}}},"motherOccupation":{"0":{"0":{"1":"Housewife"},"1":{"2":"Business\/Entrepreneur"},"2":{"3":"Service-Private"},"3":{"4":"Service-Govt\/PSU"},"4":{"5":"Army\/Armed forces"},"5":{"6":"Civil Services"},"6":{"7":"Teacher"},"7":{"8":"Retired"},"8":{"9":"Expired"}}},"familyState":{"0":{"0":{"AN":"Andaman & Nicobar Islands"},"1":{"AP":"Andhra Pradesh"},"2":{"AR":"Arunachal Pradesh"},"3":{"AS":"Assam"},"4":{"BI":"Bihar"},"5":{"CH":"Chhattisgarh"},"6":{"DN":"Dadra & Nagar Haveli"},"7":{"DD":"Daman & Diu"},"8":{"DE":"Delhi"},"9":{"GO":"Goa"},"10":{"GU":"Gujarat"},"11":{"HA":"Haryana"},"12":{"HP":"Himachal Pradesh"},"13":{"JK":"Jammu & Kashmir"},"14":{"JH":"Jharkhand"},"15":{"KA":"Karnataka"},"16":{"KE":"Kerala"},"17":{"LA":"Lakshadweep"},"18":{"MP":"Madhya Pradesh"},"19":{"MH":"Maharashtra"},"20":{"MA":"Manipur"},"21":{"ME":"Meghalaya"},"22":{"MI":"Mizoram"},"23":{"NA":"Nagaland"},"24":{"OR":"Odisha"},"25":{"PO":"Pondichery"},"26":{"PU":"Punjab"},"27":{"PH":"Punjab\/Haryana"},"28":{"RA":"Rajasthan"},"29":{"SI":"Sikkim"},"30":{"TN":"Tamil Nadu"},"31":{"TR":"Tripura"},"32":{"UP":"Uttar Pradesh"},"33":{"UK":"Uttarakhand"},"34":{"WB":"West Bengal"}}},"familyCity":{"AN":{"0":{"0":{"AN01":"Port Blair"}}},"AP":{"0":{"0":{"AP12":"Adoni"},"1":{"AP13":"Amravati"},"2":{"AP14":"Anantapur"},"3":{"AP15":"Bhimavaram"},"4":{"AP16":"Chittor "},"5":{"AP01":"Cuddapah"},"6":{"AP17":"Eluru"},"7":{"AP18":"Gudivada"},"8":{"AP19":"Guntakal"},"9":{"AP02":"Guntur"},"10":{"AP20":"Hindupur"},"11":{"AP03":"Hyderabad\/Secunderabad"},"12":{"AP04":"Kakinada"},"13":{"AP21":"Karimnagar "},"14":{"AP22":"Khammam"},"15":{"AP05":"Kurnool"},"16":{"AP06":"Machilipatnam"},"17":{"AP23":"Mahbubnagar"},"18":{"AP24":"Nandyal"},"19":{"AP07":"Nellore"},"20":{"AP25":"Nizamabad"},"21":{"AP26":"Ongole"},"22":{"AP08":"Palampet"},"23":{"AP27":"Proddatur"},"24":{"AP29":"Ramagundam"},"25":{"AP33":"Rangareddy"},"26":{"AP30":"Tenali"},"27":{"AP31":"Tirupati "},"28":{"AP10":"Vijaywada"},"29":{"AP11":"Vizag\/ Vishakapatnam"},"30":{"AP32":"Vizianagaram"},"31":{"AP09":"Warangal"}}},"AR":{"0":{"0":{"AR01":"Itanagar"},"1":{"AR02":"Naharlagun"},"2":{"AR03":"Pasighat"}}},"AS":{"0":{"0":{"AS06":"Bongaigaon "},"1":{"AS08":"Dhubri"},"2":{"AS01":"Dibrugarh"},"3":{"AS09":"Diphu"},"4":{"AS02":"Dispur"},"5":{"AS03":"Guwahati"},"6":{"AS04":"Jorhat"},"7":{"AS10":"Karimganj"},"8":{"AS11":"Nawagoan"},"9":{"AS12":"North Lakhimpur"},"10":{"AS13":"Sibsagar"},"11":{"AS05":"Silchar"},"12":{"AS14":"Tezpur"},"13":{"AS07":"Tinsukia "}}},"BI":{"0":{"0":{"BI08":"Arrah"},"1":{"BI17":"Bagaha"},"2":{"BI18":"Begusarai"},"3":{"BI19":"Bettiah"},"4":{"BI09":"Bhagalpur"},"5":{"BI10":"Bihar Sharif"},"6":{"BI20":"Buxar"},"7":{"BI11":"Chapra"},"8":{"BI12":"Darbanga  "},"9":{"BI03":"Gaya"},"10":{"BI21":"Hajipur"},"11":{"BI22":"Jamalpur"},"12":{"BI23":"Jehanabad"},"13":{"BI13":"Katihar"},"14":{"BI24":"Kishanganj"},"15":{"BI25":"Motihari"},"16":{"BI14":"Munger"},"17":{"BI05":"Muzaffarpur"},"18":{"BI26":"Nawada"},"19":{"BI06":"Patna"},"20":{"BI15":"Purnia"},"21":{"BI27":"Ramnagar"},"22":{"BI28":"Saharsa"},"23":{"BI16":"Samastipur "},"24":{"BI29":"Sasaram"},"25":{"BI30":"Siwan"}}},"CH":{"0":{"0":{"CH05":"Ambikapur"},"1":{"CH06":"Bhatapara"},"2":{"CH04":"Bhilai"},"3":{"CH03":"Bilaspur"},"4":{"CH07":"Dalli-Rajhara"},"5":{"CH08":"Dhamtari"},"6":{"CH02":"Durg"},"7":{"CH09":"Jagadhalpur"},"8":{"CH10":"Korba"},"9":{"CH11":"Mahasamund"},"10":{"CH12":"Patan"},"11":{"CH13":"Raigarh"},"12":{"CH01":"Raipur"},"13":{"CH14":"Rajnandgaon"}}},"DD":{"0":{"0":{"DD01":"Daman"},"1":{"DD02":"Diu"}}},"DE":{"0":{"0":{"DE00":"New Delhi"}}},"DN":{"0":{"0":{"DN01":"Dadara"}}},"GO":{"0":{"0":{"GO01":"Mapusa"},"1":{"GO02":"Margaon"},"2":{"GO03":"Panaji"}}},"GU":{"0":{"0":{"GU01":"Ahmedabad"},"1":{"GU26":"Amreli"},"2":{"GU02":"Anand"},"3":{"GU03":"Ankleshwar"},"4":{"GU04":"Baroda\/Vadodara"},"5":{"GU13":"Bharuch "},"6":{"GU14":"Bhavnagar "},"7":{"GU15":"Bhuj "},"8":{"GU27":"Botad"},"9":{"GU28":"Deesa"},"10":{"GU29":"Dhoraji"},"11":{"GU16":"Dwarka "},"12":{"GU17":"Gandhidham"},"13":{"GU05":"Gandhinagar"},"14":{"GU18":"Godhra "},"15":{"GU30":"Gondal"},"16":{"GU19":"Jam Nagar "},"17":{"GU31":"Jetpur Navagadh"},"18":{"GU06":"Junagarh"},"19":{"GU20":"Kalol "},"20":{"GU07":"Kandla"},"21":{"GU32":"Khambhat"},"22":{"GU33":"Mahesana"},"23":{"GU21":"Morvi"},"24":{"GU22":"Nadiad"},"25":{"GU23":"Navsari"},"26":{"GU08":"Palanpur"},"27":{"GU24":"Porbandar "},"28":{"GU09":"Rajkot"},"29":{"GU10":"Surat"},"30":{"GU34":"Surendranagar"},"31":{"GU25":"Valsad"},"32":{"GU12":"Vapi"},"33":{"GU35":"Vejalpur"},"34":{"GU36":"Veraval"}}},"HA":{"0":{"0":{"HA01":"Ambala"},"1":{"HA13":"Bahadurgarh"},"2":{"HA07":"Bhiwani "},"3":{"HA02":"Faridabad"},"4":{"HA14":"Fatehabad"},"5":{"HA03":"Gurgaon"},"6":{"HA15":"Hansi"},"7":{"HA08":"Hissar "},"8":{"HA16":"Jagadhari"},"9":{"HA17":"Jind"},"10":{"HA18":"Kaithal"},"11":{"HA09":"Karnal "},"12":{"HA24":"Kurukshetra"},"13":{"HA19":"Mandi Dabwali"},"14":{"HA20":"Narnaul"},"15":{"HA21":"Narwana"},"16":{"HA22":"Palwal"},"17":{"HA06":"Panipat"},"18":{"HA10":"Rewari "},"19":{"HA04":"Rohtak"},"20":{"HA05":"Sirsa"},"21":{"HA11":"Sonepat "},"22":{"HA23":"Tohana"},"23":{"HA12":"Yamunanagar  "}}},"HP":{"0":{"0":{"HP04":"Baddi"},"1":{"HP05":"Chamba"},"2":{"HP01":"Dalhousie"},"3":{"HP06":"Dharmsala"},"4":{"HP02":"Kasauli"},"5":{"HP07":"Kullu"},"6":{"HP08":"Mandi"},"7":{"HP09":"Nahan"},"8":{"HP10":"Ponta Sahib"},"9":{"HP03":"Shimla"},"10":{"HP11":"Solan"},"11":{"HP12":"Sundernagar"}}},"JH":{"0":{"0":{"JH05":"Adityapur"},"1":{"JH04":"Bokaro"},"2":{"JH06":"Chaibasa"},"3":{"JH07":"Chass"},"4":{"JH08":"Daltonganj"},"5":{"JH09":"Deoghar"},"6":{"JH03":"Dhanbad"},"7":{"JH10":"Giridih"},"8":{"JH11":"Hazaribagh"},"9":{"JH02":"Jamshedpur"},"10":{"JH12":"Jharia"},"11":{"JH13":"Jhumri Talaiya"},"12":{"JH14":"Ramgarh Cantonment"},"13":{"JH01":"Ranchi"},"14":{"JH15":"Sahibganj"},"15":{"JH16":"Sindri"}}},"JK":{"0":{"0":{"JK05":"Anantnag"},"1":{"JK06":"Baramula"},"2":{"JK01":"Gulmarg"},"3":{"JK04":"Jammu"},"4":{"JK07":"Kathua"},"5":{"JK02":"Leh"},"6":{"JK03":"Srinagar"},"7":{"JK08":"Udhampur"}}},"KA":{"0":{"0":{"KA01":"Ankola"},"1":{"KA02":"Bangalore"},"2":{"KA03":"Belgaum"},"3":{"KA10":"Bellary"},"4":{"KA27":"Bhadravati"},"5":{"KA04":"Bidar"},"6":{"KA11":"Bijapur"},"7":{"KA12":"Chikamangalur "},"8":{"KA28":"Chitradurga"},"9":{"KA13":"Davangere"},"10":{"KA05":"Dharwad"},"11":{"KA15":"Gadag-betgeri"},"12":{"KA06":"Gulbarga"},"13":{"KA16":"Hassan"},"14":{"KA17":"Hospet"},"15":{"KA07":"Hubli"},"16":{"KA18":"Jamkhandi "},"17":{"KA19":"Kolar "},"18":{"KA29":"Krishnarajapura"},"19":{"KA20":"Madikeri "},"20":{"KA30":"Mahadevapura"},"21":{"KA21":"Mandya"},"22":{"KA08":"Mangalore"},"23":{"KA09":"Mysore"},"24":{"KA22":"Raichur"},"25":{"KA23":"Shimoga"},"26":{"KA24":"Tumkur "},"27":{"KA26":"Udipi "},"28":{"KA25":"Vishwanathapura "}}},"KE":{"0":{"0":{"KE10":"Alleppey "},"1":{"KE11":"Cannanore "},"2":{"KE12":"Cherthala"},"3":{"KE13":"Cochin\/ Kochi\/ Ernakulam"},"4":{"KE24":"Edathala"},"5":{"KE20":"Kanhangad"},"6":{"KE14":"Kannur"},"7":{"KE25":"Kayamkulam"},"8":{"KE15":"Kollam"},"9":{"KE04":"Kottayam"},"10":{"KE05":"Kovalam"},"11":{"KE06":"Kozhikhode\/ Calicut"},"12":{"KE16":"Malappuram"},"13":{"KE26":"Manjeri"},"14":{"KE07":"Palakkad"},"15":{"KE21":"Palghat  "},"16":{"KE09":"Pandalam"},"17":{"KE23":"Pathanamtitta"},"18":{"KE27":"Payyannur"},"19":{"KE28":"Ponnani"},"20":{"KE29":"Quilandy"},"21":{"KE22":"Quilon  "},"22":{"KE30":"Taliparamba"},"23":{"KE17":"Thalassery"},"24":{"KE08":"Thiruvananthapuram"},"25":{"KE18":"Thrissur"},"26":{"KE19":"Vadakara"}}},"LA":{"0":{"0":{"LA01":"Kavaratti"}}},"MA":{"0":{"0":{"MA01":"Imphal"},"1":{"MA02":"Kakching"},"2":{"MA03":"Lilong (Thoubal)"},"3":{"MA04":"Thoubal"}}},"ME":{"0":{"0":{"ME02":"Jawai"},"1":{"ME03":"Mawlai"},"2":{"ME04":"Nongstoin"},"3":{"ME01":"Shillong"},"4":{"ME05":"Tura"}}},"MH":{"0":{"0":{"MH31":"Achalpur"},"1":{"MH30":"Ahmednagar"},"2":{"MH01":"Akola"},"3":{"MH02":"Aurangabad"},"4":{"MH32":"Barshi"},"5":{"MH29":"Bhayander"},"6":{"MH14":"Bhiwandi"},"7":{"MH15":"Bhusawal"},"8":{"MH16":"Chandrapur"},"9":{"MH17":"Dhule"},"10":{"MH18":"Gondiya"},"11":{"MH19":"Ichalakaranji"},"12":{"MH20":"Jalgaon "},"13":{"MH21":"Jalna "},"14":{"MH33":"Kalyan"},"15":{"MH03":"Kolhapur"},"16":{"MH22":"Latur"},"17":{"MH23":"Malegaon"},"18":{"MH04":"Mumbai"},"19":{"MH05":"Nagpur"},"20":{"MH06":"Nanded"},"21":{"MH24":"Nashik\/ Nasik"},"22":{"MH28":"Navi Mumbai"},"23":{"MH25":"Parbhani"},"24":{"MH08":"Pune\/ Chinchwad"},"25":{"MH09":"Sangli"},"26":{"MH34":"Satara"},"27":{"MH10":"Shirdi"},"28":{"MH11":"Solapur"},"29":{"MH12":"Thane"},"30":{"MH13":"Ulhasnagar"},"31":{"MH26":"Wardha "},"32":{"MH27":"Yavatmal"}}},"MI":{"0":{"0":{"MI01":"Aizwal"},"1":{"MI02":"Champhai"},"2":{"MI03":"Lunglei"}}},"MP":{"0":{"0":{"MP27":"Banda"},"1":{"MP28":"Betul"},"2":{"MP13":"Bhind"},"3":{"MP02":"Bhopal"},"4":{"MP14":"Burhanpur"},"5":{"MP29":"Chatrapur"},"6":{"MP04":"Chhindwara"},"7":{"MP26":"Damoh"},"8":{"MP30":"Datia"},"9":{"MP05":"Deora"},"10":{"MP15":"Dewas"},"11":{"MP16":"Guna"},"12":{"MP07":"Gwalior"},"13":{"MP31":"Hosangabad"},"14":{"MP08":"Indore"},"15":{"MP32":"Ittarsi"},"16":{"MP09":"Jabalpur"},"17":{"MP33":"Katni"},"18":{"MP10":"Khajuraho"},"19":{"MP17":"Khandwa"},"20":{"MP34":"Khargone"},"21":{"MP35":"Mandsaur"},"22":{"MP36":"Mhow"},"23":{"MP18":"Morena"},"24":{"MP19":"Murwara"},"25":{"MP37":"Neemuch"},"26":{"MP38":"Ratangarh"},"27":{"MP21":"Ratlam"},"28":{"MP22":"Rewa"},"29":{"MP23":"Sagar  "},"30":{"MP24":"Satna"},"31":{"MP39":"Sehore"},"32":{"MP25":"Shivapuri"},"33":{"MP40":"Singrauli"},"34":{"MP11":"Ujjain"},"35":{"MP41":"Vidisha"}}},"NA":{"0":{"0":{"NA01":"Dimapur"},"1":{"NA02":"Kohima"},"2":{"NA03":"Mokokchung"},"3":{"NA04":"Tuensang"},"4":{"NA05":"Wokha"},"5":{"NA06":"Zunheboto"}}},"OR":{"0":{"0":{"OR10":"Balangir"},"1":{"OR05":"Baleshwar"},"2":{"OR11":"Barbil"},"3":{"OR12":"Bargarh"},"4":{"OR13":"Baripada Town"},"5":{"OR14":"Behrampur"},"6":{"OR15":"Bhadrak"},"7":{"OR16":"Bhawanipatna"},"8":{"OR01":"Bhubaneshwar"},"9":{"OR17":"Brajarajnagar"},"10":{"OR18":"Choudwar"},"11":{"OR02":"Cuttack"},"12":{"OR19":"Dhenkanal"},"13":{"OR20":"Jatni"},"14":{"OR21":"Jeypur"},"15":{"OR22":"Jharsugda"},"16":{"OR23":"Kendrapara"},"17":{"OR03":"Paradeep"},"18":{"OR24":"Parlakhemundi"},"19":{"OR07":"Puri "},"20":{"OR25":"Rajagangpur"},"21":{"OR26":"Rayagada"},"22":{"OR04":"Rourkela"},"23":{"OR09":"Sambalpur"},"24":{"OR27":"Sunabeda"}}},"PH":{"0":{"0":{"PH00":"Chandigarh"}}},"PO":{"0":{"0":{"PO00":"Pondicherry"}}},"PU":{"0":{"0":{"PU11":"Abohar  "},"1":{"RA01":"Ajmer"},"2":{"RA02":"Alwar"},"3":{"PU01":"Amritsar"},"4":{"PU18":"Barnala"},"5":{"PU12":"Batala"},"6":{"PU02":"Bathinda"},"7":{"RA05":"Bikaner"},"8":{"PU19":"Dhuri"},"9":{"PU03":"Faridkot"},"10":{"PU20":"Fazilka"},"11":{"PU14":"Ferozepur "},"12":{"PU05":"Gurdaspur"},"13":{"PU06":"Hoshiarpur"},"14":{"PU21":"Jagraon"},"15":{"PU10":"Jalandhar"},"16":{"PU22":"Kapurthala"},"17":{"PU23":"Kot Kapura"},"18":{"PU07":"Ludhiana"},"19":{"PU24":"Malerkotla"},"20":{"PU25":"Malout"},"21":{"PU26":"Mandigovindgarh"},"22":{"PU15":"Moga"},"23":{"PU27":"Mohali"},"24":{"PU28":"Muktsar"},"25":{"PU29":"Nabha"},"26":{"0":"Others"},"27":{"PU08":"Pathankot"},"28":{"PU09":"Patiala"},"29":{"PU30":"Phagawara"},"30":{"PU31":"Rajpura"},"31":{"PU17":"Ropar\/ Rupnagar\/ Roopnagar"},"32":{"PU32":"Samana"},"33":{"PU16":"Sangrur "},"34":{"PU33":"Sirhind -Fategarh"},"35":{"PU34":"Sunam"},"36":{"PU35":"Taran Taaran"}}},"RA":{"0":{"0":{"RA17":"Balotra"},"1":{"RA18":"Banswara"},"2":{"RA19":"Baran"},"3":{"RA20":"Barmer"},"4":{"RA12":"Beawar"},"5":{"RA03":"Bharatpur"},"6":{"RA04":"Bhilwara"},"7":{"RA21":"Bundi"},"8":{"RA22":"Chittorgarh"},"9":{"RA23":"Churu"},"10":{"RA24":"Dausa"},"11":{"RA25":"Dhaulpur"},"12":{"RA06":"Ganganagar"},"13":{"RA26":"Gangapur City"},"14":{"RA27":"Hanumangarh"},"15":{"RA28":"Hindaun"},"16":{"RA07":"Jaipur"},"17":{"RA11":"Jaisalmer"},"18":{"RA13":"Jalore "},"19":{"RA29":"Jhunjhunun"},"20":{"RA08":"Jodhpur"},"21":{"RA30":"Karauli"},"22":{"RA31":"Kishangarh"},"23":{"RA09":"Kota"},"24":{"RA32":"Makrana"},"25":{"RA33":"Nagore"},"26":{"RA14":"Pali"},"27":{"RA34":"Sardarshahar"},"28":{"RA35":"Sawai Madhopur"},"29":{"RA15":"Sikar"},"30":{"RA36":"Sri Ganga Nagar"},"31":{"RA37":"Sujangarh"},"32":{"RA16":"Tonk"},"33":{"RA10":"Udaipur"}}},"SI":{"0":{"0":{"SI01":"Gangtok"}}},"TN":{"0":{"0":{"TN38":"Alandurai"},"1":{"TN01":"Arcot"},"2":{"TN02":"Chennai"},"3":{"TN03":"Chidambaram"},"4":{"TN21":"Chinglepet "},"5":{"TN04":"Coimbatore"},"6":{"TN05":"Cuddalore"},"7":{"TN22":"Dindigal "},"8":{"TN06":"Erode"},"9":{"TN23":"Kalpakkam "},"10":{"TN24":"Kanchipuram "},"11":{"TN07":"Kanniyakumari"},"12":{"TN25":"Kanyakumari "},"13":{"TN08":"Kodaikanal"},"14":{"TN27":"Kumbakonam"},"15":{"TN09":"Madurai"},"16":{"TN28":"Madural Ellisnaga "},"17":{"TN29":"Mahabalipuram "},"18":{"TN30":"Nagercoil"},"19":{"TN31":"Neyveli "},"20":{"TN10":"Nilgiri"},"21":{"TN32":"Ooty  "},"22":{"TN11":"Periyar"},"23":{"TN39":"Pudukkottai"},"24":{"TN12":"Rajahmundry"},"25":{"TN33":"Rajapalayam "},"26":{"TN13":"Rameswaram"},"27":{"TN14":"Salem"},"28":{"TN34":"Sivakasi "},"29":{"TN15":"Thanjavur"},"30":{"TN40":"Thiruvetriyur"},"31":{"TN16":"Tiruchirapalli"},"32":{"TN17":"Tirunelvelli"},"33":{"TN35":"Tiruppur"},"34":{"TN37":"Tiruvannamalai"},"35":{"TN18":"Tuticorin"},"36":{"TN36":"Valparai"},"37":{"TN19":"Vellore"}}},"TR":{"0":{"0":{"TR01":"Agartala"}}},"UK":{"0":{"0":{"UK06":"Almora"},"1":{"UK05":"Dehradun"},"2":{"UK07":"Haldwani"},"3":{"UK02":"Haridwar"},"4":{"UK08":"Kashipur"},"5":{"UK09":"Kicha"},"6":{"UK01":"Mussoorie"},"7":{"UK10":"Nainital"},"8":{"UK11":"Pithoragarh"},"9":{"UK04":"Rishikesh"},"10":{"UK03":"Roorkee"},"11":{"UK12":"Tehri"}}},"UP":{"0":{"0":{"UP01":"Agra"},"1":{"UP02":"Aligarh"},"2":{"UP03":"Allahabad"},"3":{"UP04":"Amethi"},"4":{"UP32":"Amroha"},"5":{"UP05":"Ayodhya"},"6":{"UP33":"Bahraich"},"7":{"UP06":"Bareilly"},"8":{"UP34":"Budaun"},"9":{"UP35":"Bulandshahar"},"10":{"UP36":"Etah "},"11":{"UP08":"Etawah"},"12":{"UP09":"Faizabad"},"13":{"UP49":"Farokkabad"},"14":{"UP10":"Fatehpur"},"15":{"UP11":"Firozabad"},"16":{"UP12":"Ghaziabad"},"17":{"UP50":"Gonda"},"18":{"UP13":"Gorakhpur"},"19":{"UP47":"Greater Noida"},"20":{"UP14":"Hapur"},"21":{"UP37":"Hathras"},"22":{"UP51":"Jaunpur"},"23":{"UP16":"Jhansi"},"24":{"UP17":"Kannauj"},"25":{"UP18":"Kanpur"},"26":{"UP52":"Lakhimpur Kheri"},"27":{"UP19":"Lucknow"},"28":{"UP20":"Mathura"},"29":{"UP38":"Maunath Bhanjan"},"30":{"UP21":"Meerut"},"31":{"UP39":"Mirzapur"},"32":{"UP40":"Modi Nagar "},"33":{"UP22":"Moradabad"},"34":{"UP24":"Muzaffarnagar"},"35":{"UP25":"Noida"},"36":{"UP53":"Orai"},"37":{"UP41":"Pilibhit "},"38":{"UP26":"Rae Bareli"},"39":{"UP42":"Rampur"},"40":{"UP54":"Rudrapur"},"41":{"UP29":"Saharanpur"},"42":{"UP48":"Sahibabad"},"43":{"UP43":"Sambhal"},"44":{"UP44":"Shahjahanpur"},"45":{"UP45":"Sitapur"},"46":{"UP46":"Unnao "},"47":{"UP30":"Varanasi"}}},"WB":{"0":{"0":{"WB01":"Asansol"},"1":{"WB06":"Baharampur"},"2":{"WB07":"Bally"},"3":{"WB08":"Balurghat"},"4":{"WB09":"Bankura"},"5":{"WB10":"Baranagar"},"6":{"WB02":"Barddhaman\/Burdwan"},"7":{"WB11":"Barrackpore"},"8":{"WB12":"Basirhat"},"9":{"WB13":"Bhatpara"},"10":{"WB40":"Bidhan Nagar"},"11":{"WB14":"Brahmapur"},"12":{"WB16":"Burnpur "},"13":{"WB17":"Chandan Nagar"},"14":{"WB18":"Coochbehar "},"15":{"WB19":"Dabgram"},"16":{"WB20":"Darjeeling "},"17":{"WB03":"Durgapur"},"18":{"WB21":"English Bazar"},"19":{"WB22":"Habra"},"20":{"WB23":"Haldia"},"21":{"WB24":"Haora"},"22":{"WB25":"Jalpaiguri "},"23":{"WB26":"Kalimpong "},"24":{"WB04":"Kharagpur"},"25":{"WB05":"Kolkata"},"26":{"WB27":"Krishnanagar"},"27":{"WB41":"Madhyamgram"},"28":{"WB28":"Malda "},"29":{"WB29":"Medinipur"},"30":{"WB30":"Nabadwip"},"31":{"WB31":"Naihati"},"32":{"WB32":"Panihati"},"33":{"WB33":"Raiganj"},"34":{"WB42":"Rajarhat Gopalpur"},"35":{"WB34":"Raniganj"},"36":{"WB35":"Santipur"},"37":{"WB36":"Serampore"},"38":{"WB37":"Siliguri "},"39":{"WB38":"South Dum Dum"},"40":{"WB39":"Titagarh"}}}},"country":{"0":{"blank":{"0":{"7":"Australia"},"1":{"22":"Canada"},"2":{"88":"Pakistan"},"3":{"125":"United Arab Emirates"},"4":{"126":"United Kingdom"},"5":{"128":"United States"}},"A":{"0":{"1":"Afghanistan"},"1":{"2":"Albania"},"2":{"3":"Algeria"},"3":{"60":"American Samoa"},"4":{"138":"Andorra"},"5":{"4":"Angola"},"6":{"139":"Anguilla"},"7":{"140":"Antigua and Barbuda"},"8":{"5":"Argentina"},"9":{"6":"Armenia"},"10":{"7":"Australia"},"11":{"8":"Austria"},"12":{"141":"Azerbaijan"}},"B":{"13":{"9":"Bahamas"},"14":{"10":"Bahrain"},"15":{"11":"Bangladesh"},"16":{"142":"Barbados"},"17":{"143":"Belarus"},"18":{"12":"Belgium"},"19":{"144":"Belize"},"20":{"145":"Benin"},"21":{"13":"Bermuda"},"22":{"14":"Bhutan"},"23":{"15":"Bolivia"},"24":{"16":"Bosnia and Herzegovina"},"25":{"146":"Botswana"},"26":{"17":"Brazil"},"27":{"147":"British Virgin Islands"},"28":{"18":"Brunei"},"29":{"19":"Bulgaria"},"30":{"148":"Burkina Faso"},"31":{"149":"Burundi"}},"C":{"32":{"20":"Cambodia"},"33":{"21":"Cameroon"},"34":{"22":"Canada"},"35":{"23":"Canary Islands"},"36":{"150":"Cape Verde"},"37":{"151":"Cayman Islands"},"38":{"152":"Central African Republic"},"39":{"153":"Chad"},"40":{"24":"Chile"},"41":{"25":"China"},"42":{"26":"Colombia"},"43":{"154":"Comoros"},"44":{"27":"Congo"},"45":{"155":"Cook Islands"},"46":{"28":"Costa Rica"},"47":{"156":"Cote dIvoire"},"48":{"29":"Croatia"},"49":{"30":"Cuba"},"50":{"31":"Cyprus"},"51":{"32":"Czech Republic"}},"D":{"52":{"33":"Denmark"},"53":{"157":"Dominica"},"54":{"158":"Dominican Republic"}},"E":{"55":{"159":"East Timor"},"56":{"34":"Ecuador"},"57":{"35":"Egypt"},"58":{"36":"El Salvador"},"59":{"160":"Equatorial Guinea"},"60":{"161":"Eritrea"},"61":{"162":"Estonia"},"62":{"163":"Ethiopia"}},"F":{"63":{"164":"Faeroe Islands"},"64":{"37":"Falkland Islands (Islas Malvinas)"},"65":{"38":"Fiji"},"66":{"39":"Finland"},"67":{"40":"France"},"68":{"165":"French Guiana"},"69":{"166":"French Polynesia"}},"G":{"70":{"167":"Gambia"},"71":{"69":"Georgia"},"72":{"42":"Germany"},"73":{"43":"Ghana"},"74":{"44":"Gibraltar"},"75":{"45":"Greece"},"76":{"168":"Greenland"},"77":{"169":"Grenada"},"78":{"170":"Guadeloupe"},"79":{"217":"Guam"},"80":{"172":"Guatemala"},"81":{"173":"Guinea"},"82":{"174":"Guinea-Bissau"},"83":{"175":"Guyana"}},"H":{"84":{"46":"Haiti"},"85":{"47":"Holland"},"86":{"176":"Honduras"},"87":{"48":"Hong Kong"},"88":{"49":"Hungary"}},"I":{"89":{"50":"Iceland"},"90":{"52":"Indonesia"},"91":{"53":"Iran"},"92":{"54":"Iraq"},"93":{"55":"Ireland"},"94":{"177":"Isle of Man"},"95":{"56":"Israel"},"96":{"57":"Italy"}},"J":{"97":{"58":"Jamaica"},"98":{"59":"Japan"},"99":{"215":"Jordan"}},"K":{"100":{"61":"Kazakhstan"},"101":{"62":"Kenya"},"102":{"178":"Kiribati"},"103":{"63":"Kuwait"},"104":{"64":"Kyrgyzstan"}},"L":{"105":{"179":"Laos"},"106":{"65":"Latvia"},"107":{"66":"Lebanon"},"108":{"180":"Lesotho"},"109":{"181":"Liberia"},"110":{"67":"Libya"},"111":{"182":"Liechtenstein"},"112":{"68":"Lithuania"},"113":{"216":"Luxembourg"}},"M":{"114":{"183":"Macau"},"115":{"184":"Macedonia"},"116":{"185":"Madagascar"},"117":{"186":"Malawi"},"118":{"70":"Malaysia"},"119":{"71":"Maldives"},"120":{"72":"Mali"},"121":{"73":"Malta"},"122":{"187":"Martinique"},"123":{"74":"Mauritius"},"124":{"76":"Mexico"},"125":{"188":"Moldova"},"126":{"189":"Monaco"},"127":{"75":"Mongolia"},"128":{"190":"Montenegro"},"129":{"191":"Montserrat"},"130":{"77":"Morocco"},"131":{"192":"Mozambique"},"132":{"78":"Myanmar"}},"N":{"133":{"79":"Namibia"},"134":{"80":"Nepal"},"135":{"81":"Netherlands"},"136":{"193":"Netherlands Antilles"},"137":{"194":"New Caledonia"},"138":{"82":"New Zealand"},"139":{"83":"Nicaragua"},"140":{"195":"Niger"},"141":{"84":"Nigeria"},"142":{"85":"North Korea"},"143":{"86":"Norway"}},"O":{"144":{"87":"Oman"}},"P":{"145":{"88":"Pakistan"},"146":{"89":"Panama"},"147":{"196":"Papua New Guinea"},"148":{"90":"Paraguay"},"149":{"91":"Peru"},"150":{"92":"Philippines"},"151":{"93":"Poland"},"152":{"94":"Portugal"},"153":{"218":"Puerto Rico"}},"Q":{"154":{"96":"Qatar"}},"R":{"155":{"197":"Reunion"},"156":{"97":"Romania"},"157":{"98":"Russia"},"158":{"198":"Rwanda"}},"S":{"159":{"199":"Saint Kitts and Nevis"},"160":{"200":"Saint Lucia"},"161":{"201":"Saint Vincent and the Grenadines"},"162":{"202":"San Marino"},"163":{"203":"Sao Tome and Principe"},"164":{"99":"Saudi Arabia"},"165":{"100":"Senegal"},"166":{"204":"Serbia"},"167":{"101":"Seychelles"},"168":{"102":"Sierra Leone"},"169":{"103":"Singapore"},"170":{"104":"Slovakia"},"171":{"219":"Slovenia"},"172":{"205":"Solomon Islands"},"173":{"106":"Somalia"},"174":{"107":"South Africa"},"175":{"108":"South Korea"},"176":{"109":"Spain"},"177":{"110":"Sri Lanka"},"178":{"111":"Sudan"},"179":{"206":"Suriname"},"180":{"207":"Swaziland"},"181":{"112":"Sweden"},"182":{"113":"Switzerland"},"183":{"114":"Syrian Arab Republic"}},"T":{"184":{"115":"Tahiti"},"185":{"116":"Taiwan"},"186":{"117":"Tajikistan"},"187":{"118":"Tanzania"},"188":{"119":"Thailand"},"189":{"208":"Togo"},"190":{"209":"Trinidad and Tobago"},"191":{"120":"Tunisia"},"192":{"121":"Turkey"},"193":{"122":"Turkmenistan"},"194":{"210":"Turks and Caicos Islands"}},"U":{"195":{"123":"Uganda"},"196":{"124":"Ukraine"},"197":{"125":"United Arab Emirates"},"198":{"126":"United Kingdom"},"199":{"128":"United States"},"200":{"105":"United States Virgin Islands"},"201":{"127":"Uruguay"},"202":{"129":"Uzbekistan"}},"V":{"203":{"212":"Vanuatu"},"204":{"213":"Vatican City State"},"205":{"130":"Venezuela"},"206":{"131":"Vietnam"}},"W":{"207":{"214":"Wallis and Futuna"}},"Y":{"208":{"132":"Yemen"},"209":{"133":"Yugoslavia"}},"Z":{"210":{"134":"Zambia"},"211":{"135":"Zimbabwe"}},"Others":{"212":{"136":"Others"}}}},"ancestral_origin":null,"familyinfo":null};
+pageId  = "JSPCR4";
+nextPageId = "JSPCR5";
+var prefilledData = null;
+$(document).ready(function() {
+
+slider();
+});
+
+</script>
+
+
+        <script>
+        //alert("setting JSLoad 1");
+        jsLoadFlag = 1;
+	var jsLogin_layer=1;
+        </script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/helpWidget_js_7.js,/js/jspc/common/commonJspc_js_9.js,/js/jspc/login/loginLayer_js_10.js,/js/jspc/common/urlHandling_1.js,/js/jspc/common/jquery_mCustomScrollbar_1.js,/js/jspc/common/jquery_mousewheel_1.js,/js/commonExpiration_js_2.js,/js/rippleEffectCommon_js_3.js,/js/common_comscore_js_2.js"></script>
+
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/jsms/common/history_js_7.js,/js/jspc/registration/registrationJspc_js_8.js,/js/jspc/common/searchDropdown_js_2.js,/js/jspc/registration/validation_js_9.js,/js/jspc/registration/incompleteProfileJspc_js_2.js"></script>
+
+<!--Google Analytics Code-->
+</body>
+
+    <script>
+    jsb9init_fourth(0.11101293563843,1,2,"http://track.99acres.com/images/zero.gif","JSREGPAGE4URL");
+    </script>
+</html>
+<script>var SSL_SITE_URL='https://www.jeevansathi.com';
+if (window.location.protocol == "https:")
+window.location.href = "http:" + window.location.href.substring(window.location.protocol.length);
+
+</script>
+

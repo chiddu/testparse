@@ -218,7 +218,7 @@ class Html2Text {
 				$output = trim($output);
 
 				// remove double [[ ]] s from linking images
-				if (substr($output, 0, 1) == "[" && substr($output, -1) == "]") {
+				if (substr($output, 0, 1) == "" && substr($output, -1) == "]") {
 					$output = substr($output, 1, strlen($output) - 2);
 
 					// for linking images, the title of the <a> overrides the title of the <img>
@@ -235,7 +235,7 @@ class Html2Text {
 				if ($href == null) {
 					// it doesn't link anywhere
 					if ($node->getAttribute("name") != null) {
-						$output = "[$output]";
+						$output = "$output";
 					}
 				} else {
 					if ($href == $output || $href == "mailto:$output" || $href == "http://$output" || $href == "https://$output") {
@@ -244,7 +244,7 @@ class Html2Text {
 					} else {
 						// replace it
 						if ($output) {
-							$output = "[$output]($href)";
+							$output = "$output";
 						} else {
 							// empty string
 							$output = $href;
@@ -262,9 +262,9 @@ class Html2Text {
 
 			case "img":
 				if ($node->getAttribute("title")) {
-					$output = "[" . $node->getAttribute("title") . "]";
+					$output = "" . $node->getAttribute("title") . "";
 				} elseif ($node->getAttribute("alt")) {
-					$output = "[" . $node->getAttribute("alt") . "]";
+					$output = "" . $node->getAttribute("alt") . "";
 				} else {
 					$output = "";
 				}

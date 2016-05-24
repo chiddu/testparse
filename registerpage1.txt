@@ -1,0 +1,776 @@
+
+<!DOCTYPE html>
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="/favicon1.ico" />
+<link rel="stylesheet" async=true type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link rel="canonical" href="http://www.jeevansathi.com/register/page1" />
+
+<title>Profile Registration - Register Free - Jeevansathi.com</title>
+
+<meta name="description" content="Register Free at Jeevansathi.com and choose from lakhs of genuine profiles from your community, profession, location   etc." />
+<meta name="keywords" content="Jeevansathi Registration, Matrimony Registration, Matrimonial Registration, Jeevansathi.com Registration, Register    free Jeevansathi.com, Jeevansathi matrimony Registration, jeevansathi matrimonial Registration, Free matrimonial, add profile, search profiles" />
+<meta name="google" content="notranslate" />
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/common/commonJspc_css_4.css,/css/jspc/common/fontsJspc_css_1.css,/css/jspc/common/headerFooterJspc_css_5.css,/css/helpWidget_css_4.css,/css/jspc/common/mCustomScrollBar_css_1.css,/css/rippleEffectCommon_css_2.css" />
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/registration/registrationJspc_css_1.css" />
+
+<script type="text/javascript" language="Javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/tracking_js_6.js,/js/jspc/common/AjaxWrapper_3.js"></script>
+
+
+<script>
+var domainCode={};
+domainCode[".hindijeevansathi.in"]="UA-20942264-1";
+domainCode[".jeevansathi.co.in"]="UA-20941176-1";
+domainCode[".marathijeevansathi.in"]="UA-20941180-1";
+domainCode[".punjabijeevansathi.com"]="UA-20941670-1";
+domainCode[".punjabijeevansathi.in"]="UA-20941669-1";
+domainCode[".jeevansathi.com"]="UA-179986-1";
+var host_url="http://"+window.location.host;
+var j_domain=host_url.match(/:\/\/[\w]{0,10}(.[^/]+)/)[1];
+j_domain=j_domain.toLowerCase();
+var ucode=domainCode[j_domain];
+if(ucode)
+{
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', ucode]);
+_gaq.push(['_setDomainName', j_domain]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+}
+function trackJsEventGA(category, action, label){
+if(ucode){
+_gaq.push(['_trackEvent', category, action, label]);
+} else {
+return false;
+}
+}
+var loggedInJspcUser="13344083";
+</script>
+</head>
+
+        <script>
+    jsb9init_first();
+    </script>
+<noscript>
+<div class="bg_pink lh46 f18 txtc colrw fontreg boxshadow" style="font-weight: 300;">
+You have not enabled Javascript on your browser, please enable it to use the website
+</div>
+</noscript>
+<body >
+<div id="clickHolderCE" onclick="javascript:updateClickHolderCE(false,event)" style="height:0px;width:0px">&nbsp;</div>
+<div id="clickHolder" onclick="javascript:updateClickHolder(false,event)" style="height:0px;width:0px" >&nbsp;</div><div id="commonOverlay" class="jspcOverlay js-overlay overlayZ disp-none"></div>
+<!--start:error layer-->
+<div class="pos_fix fullwid z6" style="background-color:#fdfdfd; display:none;" id="commonError">
+<div class="container errwid2 pt10 pb10">
+<div class="fl">
+<i class="sprite2 erric1"></i>
+</div>
+<div class="fl f20 fontlig color11 pt10 pl20" id="js-commonErrorMsg">
+Something went wrong. Please try again after some time.
+</div>
+</div>
+</div>
+<!--end:error layer-->
+<input type="hidden" name="leadid" id ="leadid" value="">
+<input type="hidden" name="groupname" id="groupname" value="UNKNOWN">
+<div class="fullwid bg_1" id="mainRegContent">
+<!--start:overlay-->
+<div class="pos_fix fullwid layersZ reg1pos1 js-regOverlayMsg disp-none">
+<div class="wid36p mauto reg1bg1" >
+<div class="padall-10">
+<div class="txtr fontreg">
+<i class="sprite2 reg1close cursp js-regOverlayClose"></i>
+<p class="txtc color2 f15 regMsgPad">You may access and update previous information after registration is complete</p>
+</div>
+</div>
+</div>
+</div>
+<!--end:overlay-->
+<!--start:header-->
+
+
+
+<!--r_num is variable number whose value is fetched from Auth filter in case of JSPC and assigned to script to be accessed in commonExpiration_js.js-->
+<!--start:header-->
+<header>
+<div class="mem-coverimg pt35">
+<div class="container mainwid mem-pad1 fontreg">
+<!--start:top navigation bar-->
+<div id="topNavigationBar" class="pos_rel fullwid color-block clearfix">
+<!--start:logo-->
+<div id="jeevansathiLogo" class="fl hpwid1 logop1 hpwhite txtc disp-tbl">
+<p class="lgo" itemtype="http://schema.org/Organization" itemscope="">
+<a class="disp-cell vmid pl10" href="/myjs/jspcPerform" itemprop="url"> <img class="brdr-0 vmid" alt="Indian Matrimonials - We Match Better" src="http://www.jeevansathi.com/images/jspc/commonimg/logo1.png" itemprop="logo"> </a>
+</p>
+</div>
+<!--end:logo-->
+<!--start:nav-->
+<div class="fr mr20 mt23 toplink f14">
+<nav>
+<span id="liveChatLinkHeader" class="cursp ml30">LIVE CHAT</span>
+<span id="helplineNoHeader" style="color:#fff" class="ml30">1-800-419-6299 (Toll Free)</span>
+</nav>
+</div>
+<!--end:nav-->
+<!--start:image-->
+<!--end:image-->
+</div>
+<!--end:top navigation bar-->
+<div class="reg_pad1 fontreg">
+<div class="brdrb_1">
+<div class="fullwid txtc f15 tabone clearfix">
+<a class="sin_opt reg_active">Account details</a>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</header>
+<script type="text/javascript">
+var r_n_u_m = 10;
+if(typeof(bindEscapeKey) != 'function'){
+$(document).keyup(function(e) {
+if (e.keyCode == 27) {
+if ($(".overlay1").length) {
+$(".overlay1").remove();
+$("#topNavigationBar").removeClass('pos-rel').removeClass('z999');
+$("#headerRequestCallback").removeClass('js-reqcallbck').removeClass('opa50');
+$("#headerRequestCallbackLogout").hide();
+$("#headerRequestCallbackLogin").hide();
+}
+}
+});
+}
+if($('#topNavigationBar').hasClass('stickyTopNavBar')){
+var stickyTopNavBar = 1;
+} else {
+var stickyTopNavBar = 0;
+}
+var stickyHeader = $("#topNavigationBar").offset().top;
+$(window).load(function() {
+if(stickyTopNavBar){
+$(window).scroll(function () {
+if ($(this).scrollTop() > stickyHeader) {
+$("#topNavigationBar").addClass("pos_fix");
+$("#topNavigationBar").removeClass("pos_rel");
+} else {
+$("#topNavigationBar").addClass("pos_rel");
+$("#topNavigationBar").removeClass("pos_fix");
+}
+});
+}
+else{
+$("#topNavigationBar").removeClass("pos_fix");
+}
+});
+
+//This fucntion returns the revision number and is called in commonExpiration_js.js
+function getR_N_U_M(){
+return(r_n_u_m);
+}
+</script>
+<!--end:header-->
+
+
+
+<!--end:header-->
+<!--start:body-->
+<div>
+<div class="container reg_wid1" >
+<!--start: registration Forms-->
+<!--start:text-->
+<div class="fontlig f22 txtc colr1 pt30">Welcome! Let's start your partner search with this Sign up.</div>
+<div class="clr pt30"></div>
+<!--end:text-->
+<!--start:div.1-->
+<!--start:form div-->
+<div class="fl wid80p">
+<div class="txtr fontlig f12 required">mandatory</div>
+<!--start:form-->
+<div class="fr clearfix pt5 fontlig f15 fullwid formreg">
+<input type="text" name="username" style="display: none">
+<input type="password" name="password" style="display: none">
+<!--start:Your email-->
+<div>
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="email_error"></div>
+</div>
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5 visHid disp-none" id="email_autoC"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none" tabindex="0" id="email_box">
+<label class="lblreg pos_abs js-email js-list pos1_lbl1 required" id="email_label" data-attr="email">Your Email</label>
+<input autocomplete="off" class="js-tBox reg_wid2 fr brdr-0 f15 fontlig toValidate" id="email_value" maxlength="100" data-type="text" type="text" data-toSave ="email" value="" data-required=true data-validate=true tabindex="-1" data-fieldtype="email"/>
+</div>
+</div>
+</div>
+<!--end:Your email-->
+<!--start:Password-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="password_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none" tabindex="0" id="password_box">
+<label class="lblreg pos_abs js-password js-list pos1_lbl1 required" id="password_label" data-attr="password">Password</label>
+<input class="js-tBox reg_wid2 fr brdr-0 f15 fontlig toValidate" id="password_value" maxlength="40" data-type="text" type="password" maxlength="40" tabindex="-1" data-toSave ="password" data-required=true data-validate=true data-fieldtype="password"/>
+<div class="pos-abs disp-none" id="strength-text" style="top: 33px;right: 45px;z-index:10;font-size: 10px;color: rgb(84, 76, 76);">Strength</div>
+<div class="strength-mtr disp-none pos_rel" id="strengthBar">
+<span id="strength-span" class="strength-span" style="width:0px"></span>
+
+</div>
+<i id="passShow" class="reg-sprtie reg-eye pos_abs reg-pos2 cursp disp-none"></i> </div>
+</div>
+</div>
+<!--end:Password-->
+<!--start:Create profile for-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="cpf_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="cpf_box">
+<label class="lblreg pos_abs js-cpf js-list pos1_lbl1 required" id="cpf_label" data-attr="cpf">Create profile for</label>
+<!--start:option div-->
+<div class="js-tBox reg-mainlist jsdd-cpf" id='cpf_value' data-number="8" data-type="radio" data-max-no-element="6" data-toSave ="relationship" data-required=true data-validate=true data-fieldtype="cpf">
+<div id="cpf-inputBox_set"></div>
+<ul class="rlist cpfopt" id="cpf-list_set">
+</ul>
+</div>
+<!--end:option div-->
+<!--start:other drop down-->
+<div class="js-other sub-mainlist pos_abs reg-pos4 reg-zi1 regdropbox boxshadow">
+<ul class="rlist cpf-otheropt" id="cpf-other-list_set">
+</ul>
+</div>
+<!--end:other drop down-->
+</div>
+</div>
+</div>
+<!--endt:Create profile for-->
+<!--start:gender-->
+<div class="mt7 disp-none" id = "genderBox">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="gender_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="gender_box">
+<label class="lblreg pos_abs js-gender js-list pos1_lbl1 required" id="gender_label" data-attr="gender">Gender</label>
+<!--start:option div-->
+<div class="js-tBox reg-mainlist jsdd-gender showdd" id='gender_value' data-number="2" data-type="radio" data-required=true data-toSave ="gender" data-validate=true data-fieldtype="gender">
+<div id="gender-inputBox_set"></div>
+<ul class="rlist genderopt" id="gender-list_set">
+</ul>
+</div>
+<!--end:option div-->
+</div>
+</div>
+</div>
+<!--end:gender-->
+<!--start:Full Name-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="name_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="name_box">
+<label class="lblreg pos_abs js-name js-list pos1_lbl1" id="name_label" data-attr="name">Full Name&nbsp;&nbsp;&nbsp;</label>
+<input autocomplete="off" class="js-tBox reg_wid2 fr brdr-0 f15 fontlig " id="name_value" maxlength="40" data-type="text" type="text" data-toSave ="name_of_user" data-required=false data-characters-only="1" data-validate=true tabindex="-1" data-fieldtype="name"/>
+</div>
+</div>
+</div>
+<!--end:Full Name-->
+<!--start:Date of Birth-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="dob_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix" id="dob_selector">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none toValidate" tabindex="0" id="dob_box">
+<label class="lblreg pos_abs js-dob js-list pos1_lbl1 required" id="dob_label" data-attr="dob">Date of Birth</label>
+<!--start:option div-->
+<div class="js-tBox reg-mainlist jsdd-dob showdd" id="dob_value" data-type="dobSpecial" data-required=true data-toSave ="dtofbirth" data-validate=true data-fieldtype="dob">
+<div id="dob-inputBox_set"></div>
+<ul class="rlist dobopt disp-none" id="dob-list_set">
+<li id="li_dob1"><span id="date_value">Date</span><i id="dateArrow1" class="reg-sprtie reg-droparrow pos_abs reg-pos12 reg-zi100"></i><i id="dateArrow2" class="icons rarrwdob reg-pos11 pos_abs disp-none"></i></li>
+<li id="li_dob2"><span class="disp_ib fullwid pos-rel" id="month_value">Month</span><i id="monthArrow1" class="reg-sprtie reg-droparrow pos_abs reg-pos12 reg-zi100 disp-none"></i><i id="monthArrow2" class="icons rarrwdob reg-pos11 pos_abs disp-none"></i></li>
+<li id="li_dob3"><span class="disp_ib fullwid pos-rel" id="year_value">Year</span><i id="yearArrow1" class="reg-sprtie reg-droparrow pos_abs reg-pos12 reg-zi100 disp-none"></i><i id="yearArrow2" class="icons rarrwdob reg-pos11 pos_abs disp-none"></i></li>
+</ul>
+</div>
+<!--end:option div-->
+<!--start:date div-->
+<div class="js-date sub-mainlist pos_abs reg-pos5 reg-zi1 regdropbox boxshadow reg-wid12">
+<ul id="datesub">
+</ul>
+</div>
+<!--end:date div-->
+<!--start:month div-->
+<div class="js-month sub-mainlist pos_abs reg-pos10 reg-zi1 regdropbox boxshadow reg-wid6">
+<ul id="monthsub">
+</ul>
+</div>
+<!--end:month div-->
+<!--start:year div-->
+<div class="js-year sub-mainlist pos_abs reg-pos10 reg-zi1 regdropbox boxshadow reg-wid6 scrolla reg-hgt200">
+<ul id="yearsub">
+</ul>
+</div>
+<!--end:month div-->
+</div>
+</div>
+</div>
+<!--start:Date of Birth-->
+<!--start:phone number-->
+<div class="mt7">
+<!--start:error div-->
+<div class="clearfix f11 fontlig">
+<div class="reg-wid3 fr colr5  visHid" id="phone_error"></div>
+</div>
+<!--end:error div-->
+<div class="fullwid pos_rel clearfix">
+<div class="reg-wid3 fr reg-divselc bg-white outl-none" tabindex="0" id="phone_box">
+<label class="lblreg pos_abs js-phone js-list pos1_lbl1 required" id="phone_label" data-attr="phone">Mobile No.</label>
+<!--start:option div-->
+<div class="js-tBox reg-mainlist jsdd-phone showdd" id="phone_value" data-type="text" data-required=true data-validate=true data-fieldtype="phone" data-toSave ="phone_mob">
+<div class="fullwid clearfix lh41">
+<div class="fl txtc brdrr-1 disp-none" style="width:60px"><input autocomplete="off" type="text" tabindex="-1" maxlength="6" id="isd_value" class="fullwid txtc toValidate" value="+91"/></div>
+<div class="fl disp-none">
+<input autocomplete="off" class="wid380 fr brdr-0 f15 fontlig toValidate" tabindex="-1" maxlength="10" id="mobile_value" type="text"/>
+</div>
+<div class="fl pos_rel helpicon disp-none" id="phone_help"> <i class="reg-sprtie inforeg mt10 help" data-attr="phone"></i>
+<!--start:help box-->
+<div class="helpbox">
+<div class="pos_abs reg-pos7 help">
+<div class="pos_rel brdr-1 bg-white wid280">
+<div class="padall-10 txtc">
+<div class="colr5 f15 lh16">100% Phone verified profiles</div>
+<div class="f13 pt10 fontlig lh16">To have a secure user experience & genuine members, phone verification is mandatory for all. You can change phone privacy settings to show your phone number to select members.</div>
+<i class="pos_abs reg-sprtie reg-help-arow reg-pos8"></i> </div>
+</div>
+</div>
+</div>
+<!--end:help box-->
+</div>
+
+</div>
+</div>
+<!--end:option div-->
+</div>
+
+</div>
+<div class="fullwid clearfix disp-none jsdd-phone" id="dropHelp">
+<div class="fullwid bg-white reg-wid3 fr">
+<div class="padall-10 fontreg f14 colr4 lh20">
+<div class="f13">Jeevansathi members who like your profile will contact you on this phone number.</div>
+<div class="f13"><span class="fontrobbold">Verification</span> of this number is compulsory after your registration.</div>
+</div>
+</div>
+</div>
+</div>
+<!--end:phone number-->
+<!--start:registration button-->
+<div class="fullwid mt30">
+<div class="reg-marl1">
+<!--start:button-->
+<div class="reg-btn">
+<div class="wid200 scrollhid pos_rel">
+<button class="padalla fontreg f20 colrw wid200 buttonSub pinkRipple hoverPink" id="regPage1Submit" type="submit"> Register me </button>
+</div>
+</div>
+<!--end:button-->
+<!--start:text-->
+<div class="mt10 f13 colr4 fontreg lh20"> By clicking on <span class="fontrobbold">'Register me'</span>, you confirm<br/>
+that you accept the <a target="_blank" href="/static/page/disclaimer" class="fontrobbold colr5 cursp">Terms of Use</a> and <a target="_blank" href="/static/page/privacypolicy" class="fontrobbold colr5 cursp">Privacy Policy</a></div>
+<!--end:text-->
+</div>
+</div>
+<!--end:registration button-->
+</div>
+<!--end:form-->
+<div id="hiddenParams" style="display: none">
+<input type="hidden" name="tieup_source" value="">
+<input type="hidden" name="hit_source" value="">
+<input type="hidden" name="adnetwork" value="">
+<input type="hidden" name="adnetwork1" value="" >
+<input type="hidden" name="fname" value="" >
+<input type="hidden" name="newip" value="" >
+<input type="hidden" name="account" value="" >
+<input type="hidden" name="campaign" value="" >
+<input type="hidden" name="adgroup" value="" >
+<input type="hidden" name="keyword" value="">
+<input type="hidden" name="match" value="">
+<input type="hidden" name="lmd" value="">
+<input type="hidden" name="showlogin" value="" >
+<input type="hidden" name="frommarriagebureau" value="" >
+<input type="hidden" name="groupname" value="" >
+<input type="hidden" name="affiliateid" value=""/>
+<input type="hidden" name="id" value="" >
+<input type="hidden" name="leadid" id ="leadid" value=""  >
+<input type="hidden" name="secondary_source" value="" >
+<input type="hidden" name="email_is_ok" id="email_is_ok" value="" >
+<input type="hidden" name="source" value="unknown" id="reg_source">
+<input type="hidden" name="record_id" id="reg_record_id" />
+<input type="hidden" name="_csrf_token" value="9be2bb7d7764889c2d0bf19d93d1a848" id="registrationData__csrf_token" />
+<input type="hidden" name="submitPage" value="1" />
+</div>
+</div>
+<!--end:form div-->
+<!--start:why register div-->
+<div class="fr txtc fontlig f13 colr3 wid15p pt30">
+<div class="f17 fontrobbold colr2 allcaps brdrb-3 pb10 mb30"> why register </div>
+<!--start:div left 1-->
+<div> <i class="reg-sprtie icon1"></i>
+<div class="pt5 lh19">Lakhs of Genuine Profiles</div>
+</div>
+<!--end:div left 1-->
+<!--start:div left 2-->
+<div class="pt30"> <i class="reg-sprtie icon2"></i>
+<div class="pt5 lh19">Many Verified by Personal Visit</div>
+</div>
+<!--end:div left 2-->
+<!--start:div left 3-->
+<div class="pt30"> <i class="reg-sprtie icon3"></i>
+<div class="pt5 lh19">Secure & <br/>
+Family Friendly</div>
+</div>
+<!--end:div left 3-->
+<!--start:div left 4-->
+<div class="pt30"> <i class="reg-sprtie icon4"></i>
+<div class="pt5 lh19">Strict <br/>
+Privacy Control</div>
+</div>
+<!--end:div left 4-->
+</div>
+
+<!--end:why register div-->
+
+
+
+<!--end: registration Forms-->
+</div>
+</div>
+<!--end:body-->
+<!--start:gapping div-->
+<div class="clr hgt200"></div>
+<!--end:gapping div-->
+<!--start:footer-->
+
+<!--start:help widget-->
+<!--start:overlay-->
+<div class="js-requestCallBackOverlay dspN fontlig">
+<div class="overlay"></div>
+<div class="modal fontlig">
+<!--start:close button-->
+<div class="posabs Widgicon Widicon4 js-requestCallBackClose"></div>
+<!--end:close button-->
+<div class="formpadt2 fontlig" id="requestForm">
+<form id="Widget" action="javascript:void(0)" novalidate>
+<div class="fontlig f15 txtc pb18">We will call you at the earliest after you submit the request</div>
+<!--start:name-->
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="email" tabindex="1" name="email" id="rq_email" placeholder="Email" value="deepak.madhyastha@reverieinc.com" />
+</div>
+<span id="emailError" class="errorPad dspN fontlig"> </span>
+<!--end:name-->
+<!--start:mobile no-->
+<div class="formpadt1">
+<div class="Widgetbox1 fontlig">
+<input class="fontlig" type="tel" tabindex="2" name="phone" id="rq_phone" placeholder="Mobile number" value="" />
+</div>
+</div>
+<span id="phoneError" class="errorPad dspN fontlig"> </span>
+<!--end:mobile no-->
+<!--start:product-->
+<div class="formpadt1 fontlig">
+<dl id="sample4" class="dropdown">
+<dt class="js-dt">
+<span  id="typeOfQuery" tabindex="3" >What type of query do you have?</span>
+<div class="posabs pos1 sideicon"></div>
+</dt>
+<dd class="js-dd">
+<ul>
+<li value="P">Questions or feedback regarding jeevansathi profile</li>
+<li value="M">Query regarding jeevansathi membership plans</li>
+</ul>
+</dd>
+</dl>
+<input id="rq_query" type="hidden" name="query_type"/>
+</div>
+<span id="querryError" class="errorPad dspN"> </span>
+<!--end:product-->
+<!--start:button-->
+<div class="formpadt1">
+<div style="overflow: hidden;position: relative;">
+<button type="submit" id="sidebarReqCallbackBtn" tabindex="4" class="cursp pinkRipple hoverPink bg_pink">Submit Request</button>
+</div>
+</div>
+<!--end:button-->
+</form>
+</div>
+<div id="requestLoader" class="formpadt3 dspN">
+<img src="http://static.jeevansathi.com/images/colorbox/loader_big.gif"> </img>
+</div>
+<div id="requestSuccessMsg" class="formpadt4 dspN"> </div>
+</div>
+</div>
+<!--end:overlay-->
+<!--start:helpwidget-->
+<div id="js-helpWidget" class="dspN pos_fix hlpwhite fontreg hlppos1 wid200" style="right: -171px;">
+<div class="pos-rel clearfix">
+<div class="Widposabs hlpcl1 js-helpCollapses l0">
+<div class="vertical-text f12">HELP</div>
+</div>
+<div class="fr js-helpWidgetContent" style="width:171px">
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20"> <i class="sprite2 helpic1 fl"></i>
+<div class="fl color11 f14 pl9">1-800-419-6299</div>
+</div>
+<div class="clearfix padalls wid80p brdrb-8 pt20 pb20 js-openRequestCallBack"> <a href="#"><i class="sprite2 helpic2 fl"></i>
+<div class="fl color11 f14 pl10">Request callback</div>
+</a> </div>
+</div>
+</div>
+</div>
+<!--end:helpwidget-->
+<script> var showExpandMode = "0"
+</script>
+
+
+<!--end:help widget-->
+
+<!--start:banner-->
+<div class="txtc bg-4 pt20 pb20" id="zt_616105_bottom"> </div>
+<!--end:banner-->
+
+<!--start:footer-->
+<footer>
+<!--pixelcode for register page-->
+<div id="js-footer">
+<div class="bg_2">
+<div class="container mainwid clearfix fontreg f15">
+<div class="fl link wid500">
+<ul class="lh50">
+<li id="helplineNoFooter">1-800-419-6299 (Toll Free)</li>
+<li>|</li>
+<li id="liveChatLinkFooter" class="cursp">Live Chat</li>
+</ul>
+</div>
+<div class="fl cards mt3">
+<ul class="mt8">
+<li><i class="headfootsprtie visa"></i></li>
+<li><i class="headfootsprtie mcard"></i></li>
+</ul>
+</div>
+<div class="fr socialicons">
+<ul class="mt8">
+<li><a itemprop="sameAs" href="http://www.facebook.com/jeevansathi" target="_blank" class="disp_b headfootsprtie facebooksmall"></a></li>
+<li><a itemprop="sameAs" href="http://www.twitter.com/jeevansathi_com" target="_blank" class="disp_b headfootsprtie twittersmall"></a></li>
+<li><a itemprop="sameAs" href="https://www.linkedin.com/company/info-edge-india-ltd" target="_blank" class="disp_b headfootsprtie linkedinsmall"></a></li>
+<li><a itemprop="sameAs" href="https://plus.google.com/117800057348280296221" target="_blank" class="disp_b headfootsprtie gplussmall"></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--start:partner site-->
+<div class="bg-white">
+<div class="container mainwid">
+<div class="pb10 pt10 wid800 clearfix txtc pl128">
+<div class="f12 color6 fl pt30 pr36 fontreg">Partner Sites</div>
+<!--start:slider-->
+<div class="fl" style="width:600px;height:80px">
+<div id="slider">
+<div id="images">
+<div class="basic">
+<ul>
+<li class="pl17"><a href="http://www.99acres.com" target="_blank" title="99acres.com"><i class="headfootsprtie acre"></i></a></li>
+<li class="pl17"><a href="http://www.naukri.com" target="_blank" title="naukri.com"><i class="headfootsprtie nc"></i></a></li>
+<li class="pl17"><a href="http://www.naukrigulf.com" target="_blank" title="naukrigulf"><i class="headfootsprtie ng"></i></a></li>
+<li class="pl30"><a href="http://www.shiksha.com" target="_blank" title="shiksha"><i class="headfootsprtie shiksha"></i></a></li>
+</ul>
+</div>
+<div class="basic">
+<div>
+<ul>
+<li class="pl17"><a href="http://www.mydala.com" target="_blank" title="mydala"><i class="headfootsprtie mydala"></i></a></li>
+<li class="pl30"><a href="http://www.policybazar.com" target="_blank" title="policybazar"><i class="headfootsprtie pb"></i></a></li>
+<li class="pl40"><a href="http://www.zomato.com" target="_blank" title="zomato"><i class="headfootsprtie zomato"></i></a></li>
+<li class="pl20"><a href="http://www.meritnation.com" target="_blank" title="meritnation"><i class="headfootsprtie meritn"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+<a id="prev" href="javascript:void(0);"> <i class="headfootsprtie leftslide"></i> </a> <a id="next" href="javascript:void(0);"> <i class="headfootsprtie rightsmall"></i> </a> </div>
+</div>
+<!--endt:slider-->
+</div>
+<div class="txtc pb15">
+<ul class="hor_list clearfix f13 fontlig disp_ib">
+<li class="pl5"><a href="/?mobile_view=Y" class="color11">View Mobile Version</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--end:partner site-->
+<div class="bg_3">
+<div class="padall-10 txtc f12 fontreg colr2"> All rights reserved © 2016 Jeevansathi Internet Services. </div>
+</div>
+</div>
+</footer>
+<!--end:footer-->
+<script type="text/javascript">
+$(window).load(function(){
+var udObj = '{"username":"ZVUR4103","email":"deepak.madhyastha@reverieinc.com"}';
+var userDetails = $.parseJSON(udObj);
+populateFreshDeskGlobal(userDetails['username'], userDetails['email']);
+slider();
+});
+</script>
+<script type = 'text/javascript'>
+$(window).load(function(){
+setTimeout(function(){
+var len = $('script[src*="js/visitor.js"]').length;
+if(len === 0) {
+var isSecured = (window.location && window.location.protocol == 'https:');
+var fc_CSS = document.createElement('link');
+fc_CSS.setAttribute('rel', 'stylesheet');
+var rtlSuffix = ((document.getElementsByTagName('html')[0].getAttribute('lang')) === 'ar') ? '-rtl' : '';
+fc_CSS.setAttribute('type', 'text/css');
+fc_CSS.setAttribute('href', ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets1.chat.freshdesk.com') + '/css/visitor' + rtlSuffix + '.css');
+document.getElementsByTagName('head')[0].appendChild(fc_CSS);
+var fc_JS = document.createElement('script');
+fc_JS.type = 'text/javascript';
+fc_JS.src = ((isSecured) ? 'https://d36mpcpuzc4ztk.cloudfront.net' : 'http://assets.chat.freshdesk.com') + '/js/visitor.js';
+nativeReduce = undefined;
+(document.body ? document.body : document.getElementsByTagName('head')[0]).appendChild(fc_JS);
+window.freshchat_setting = 'eyJ3aWRnZXRfc2l0ZV91cmwiOiJqZWV2YW5zYXRoaS5mcmVzaGRlc2suY29tIiwicHJvZHVjdF9pZCI6bnVsbCwibmFtZSI6IkluZm8gRWRnZSBJbmRpYSBMdGQuIiwid2lkZ2V0X2V4dGVybmFsX2lkIjpudWxsLCJ3aWRnZXRfaWQiOiIwYmJiNTU3OS1hYzQ0LTQ5ZTktOTQ1OS03NWZjY2JkOWQ3MjYiLCJzaG93X29uX3BvcnRhbCI6dHJ1ZSwicG9ydGFsX2xvZ2luX3JlcXVpcmVkIjpmYWxzZSwiaWQiOjUwMDAwNTM1NzYsIm1haW5fd2lkZ2V0Ijp0cnVlLCJmY19pZCI6ImE3MDI5YTQ5N2MzN2E4YzUwZGRiODVjZTM5OWIxM2JjIiwic2hvdyI6MSwicmVxdWlyZWQiOjIsImhlbHBkZXNrbmFtZSI6IkluZm8gRWRnZSBJbmRpYSBMdGQuIiwibmFtZV9sYWJlbCI6Ik5hbWUiLCJtYWlsX2xhYmVsIjoiRW1haWwiLCJtZXNzYWdlX2xhYmVsIjoiTWVzc2FnZSIsInBob25lX2xhYmVsIjoiUGhvbmUgTnVtYmVyIiwidGV4dGZpZWxkX2xhYmVsIjoiVGV4dGZpZWxkIiwiZHJvcGRvd25fbGFiZWwiOiJEcm9wZG93biIsIndlYnVybCI6ImplZXZhbnNhdGhpLmZyZXNoZGVzay5jb20iLCJub2RldXJsIjoiY2hhdC5mcmVzaGRlc2suY29tIiwiZGVidWciOjEsIm1lIjoiTWUiLCJleHBpcnkiOjE0NDU4NTIwNjEwMDAsImVudmlyb25tZW50IjoicHJvZHVjdGlvbiIsImRlZmF1bHRfd2luZG93X29mZnNldCI6MzAsImRlZmF1bHRfbWF4aW1pemVkX3RpdGxlIjoiQ2hhdCBpbiBwcm9ncmVzcyIsImRlZmF1bHRfbWluaW1pemVkX3RpdGxlIjoiTGV0J3MgdGFsayEiLCJkZWZhdWx0X3RleHRfcGxhY2UiOiJZb3VyIE1lc3NhZ2UiLCJkZWZhdWx0X2Nvbm5lY3RpbmdfbXNnIjoiV2FpdGluZyBmb3IgYW4gYWdlbnQiLCJkZWZhdWx0X3dlbGNvbWVfbWVzc2FnZSI6IkhpISBIb3cgY2FuIHdlIGhlbHAgeW91IHRvZGF5PyIsImRlZmF1bHRfd2FpdF9tZXNzYWdlIjoiT25lIG9mIHVzIHdpbGwgYmUgd2l0aCB5b3UgcmlnaHQgYXdheSwgcGxlYXNlIHdhaXQuIiwiZGVmYXVsdF9hZ2VudF9qb2luZWRfbXNnIjoie3thZ2VudF9uYW1lfX0gaGFzIGpvaW5lZCB0aGUgY2hhdCIsImRlZmF1bHRfYWdlbnRfbGVmdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgbGVmdCB0aGUgY2hhdCIsImRlZmF1bHRfYWdlbnRfdHJhbnNmZXJfbXNnX3RvX3Zpc2l0b3IiOiJZb3VyIGNoYXQgaGFzIGJlZW4gdHJhbnNmZXJyZWQgdG8ge3thZ2VudF9uYW1lfX0iLCJkZWZhdWx0X3RoYW5rX21lc3NhZ2UiOiJUaGFuayB5b3UgZm9yIGNoYXR0aW5nIHdpdGggdXMuIElmIHlvdSBoYXZlIGFkZGl0aW9uYWwgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcGluZyB1cyEiLCJkZWZhdWx0X25vbl9hdmFpbGFiaWxpdHlfbWVzc2FnZSI6Ik91ciBhZ2VudHMgYXJlIHVuYXZhaWxhYmxlIHJpZ2h0IG5vdy4gU29ycnkgYWJvdXQgdGhhdCwgYnV0IHBsZWFzZSBsZWF2ZSB1cyBhIG1lc3NhZ2UgYW5kIHdlJ2xsIGdldCByaWdodCBiYWNrLiIsImRlZmF1bHRfcHJlY2hhdF9tZXNzYWdlIjoiV2UgY2FuJ3Qgd2FpdCB0byB0YWxrIHRvIHlvdS4gQnV0IGZpcnN0LCBwbGVhc2UgdGVsbCB1cyBhIGJpdCBhYm91dCB5b3Vyc2VsZi4iLCJhZ2VudF90cmFuc2ZlcmVkX21zZyI6IllvdXIgY2hhdCBoYXMgYmVlbiB0cmFuc2ZlcnJlZCB0byB7e2FnZW50X25hbWV9fSIsImFnZW50X3Jlb3Blbl9jaGF0X21zZyI6Int7YWdlbnRfbmFtZX19IHJlb3BlbmVkIHRoZSBjaGF0IiwidmlzaXRvcl9zaWRlX2luYWN0aXZlX21zZyI6IlRoaXMgY2hhdCBoYXMgYmVlbiBpbmFjdGl2ZSBmb3IgdGhlIHBhc3QgMjAgbWludXRlcy4iLCJhZ2VudF9kaXNjb25uZWN0X21zZyI6Int7YWdlbnRfbmFtZX19IGhhcyBiZWVuIGRpc2Nvbm5lY3RlZCIsInNpdGVfaWQiOiJhNzAyOWE0OTdjMzdhOGM1MGRkYjg1Y2UzOTliMTNiYyIsImFjdGl2ZSI6dHJ1ZSwid2lkZ2V0X3ByZWZlcmVuY2VzIjp7IndpbmRvd19jb2xvciI6IiM3Nzc3NzciLCJ3aW5kb3dfcG9zaXRpb24iOiJCb3R0b20gUmlnaHQiLCJ3aW5kb3dfb2Zmc2V0IjoiMzAiLCJtaW5pbWl6ZWRfdGl0bGUiOiJMZXQncyB0YWxrISIsIm1heGltaXplZF90aXRsZSI6IkNoYXQgaW4gcHJvZ3Jlc3MiLCJ0ZXh0X3BsYWNlIjoiWW91ciB0ZXh0IGdvZXMgaGVyZSIsIndlbGNvbWVfbWVzc2FnZSI6IkhpISBIb3cgY2FuIHdlIGhlbHAgeW91IHRvZGF5PyIsInRoYW5rX21lc3NhZ2UiOiJUaGFuayB5b3UgZm9yIGNoYXR0aW5nIHdpdGggdXMuIElmIHlvdSBoYXZlIGFkZGl0aW9uYWwgcXVlc3Rpb25zLCBmZWVsIGZyZWUgdG8gcGluZyB1cyEiLCJ3YWl0X21lc3NhZ2UiOiJPbmUgb2YgdXMgd2lsbCBiZSB3aXRoIHlvdSByaWdodCBhd2F5LCBwbGVhc2Ugd2FpdC4iLCJjb25uZWN0aW5nX21zZyI6IndhaXRpbmcgZm9yIGFnZW50IiwiYWdlbnRfbGVmdF9tc2ciOiJ7e2FnZW50X25hbWV9fSBoYXMgbGVmdCB0aGUgY2hhdCAiLCJhZ2VudF9qb2luZWRfbXNnIjoie3thZ2VudF9uYW1lfX0gb2Yge3toZWxwZGVza19uYW1lfX0gaGFzIGpvaW5lZCB0aGUgY2hhdCJ9LCJyb3V0aW5nIjp7ImRyb3Bkb3duX2Jhc2VkIjoiZmFsc2UiLCJjaG9pY2VzIjp7Imxpc3QxIjpbIjAiXSwibGlzdDIiOlsiMCJdLCJsaXN0MyI6WyIwIl0sImRlZmF1bHQiOlsiMCJdfX0sInByZWNoYXRfZm9ybSI6dHJ1ZSwicHJlY2hhdF9tZXNzYWdlIjoiV2UgY2FuJ3Qgd2FpdCB0byB0YWxrIHRvIHlvdS4gQnV0IGZpcnN0LCBwbGVhc2UgdGFrZSBhIGNvdXBsZSBvZiBtb21lbnRzIHRvIHRlbGwgdXMgYSBiaXQgYWJvdXQgeW91cnNlbGYuIiwicHJlY2hhdF9maWVsZHMiOnsibmFtZSI6eyJ0aXRsZSI6Ik5hbWUiLCJzaG93IjoiMiJ9LCJlbWFpbCI6eyJ0aXRsZSI6IkVtYWlsIEFkZHJlc3MiLCJzaG93IjoiMSJ9LCJwaG9uZSI6eyJ0aXRsZSI6IlBob25lIE51bWJlciIsInNob3ciOiIxIn0sInRleHRmaWVsZCI6eyJ0aXRsZSI6Ik1lc3NhZ2UiLCJzaG93IjoiMCJ9LCJkcm9wZG93biI6eyJ0aXRsZSI6IkRyb3BEb3duIiwic2hvdyI6IjAiLCJvcHRpb25zIjpbImxpc3QxIiwibGlzdDIiLCJsaXN0MyJdfX0sImJ1c2luZXNzX2NhbGVuZGFyIjpudWxsLCJub25fYXZhaWxhYmlsaXR5X21lc3NhZ2UiOm51bGwsInByb2FjdGl2ZV9jaGF0Ijp0cnVlLCJwcm9hY3RpdmVfdGltZSI6MTUsInNpdGVfdXJsIjoiamVldmFuc2F0aGkuZnJlc2hkZXNrLmNvbSIsImV4dGVybmFsX2lkIjpudWxsLCJkZWxldGVkIjpmYWxzZSwib2ZmbGluZV9jaGF0Ijp7InNob3ciOiIxIiwiZm9ybSI6eyJuYW1lIjoiTmFtZSIsImVtYWlsIjoiRW1haWwiLCJtZXNzYWdlIjoiTWVzc2FnZSJ9LCJtZXNzYWdlcyI6eyJ0aXRsZSI6IkxlYXZlIHVzIGEgbWVzc2FnZSEiLCJ0aGFuayI6IlRoYW5rIHlvdSBmb3Igd3JpdGluZyB0byB1cy4gV2Ugd2lsbCBnZXQgYmFjayB0byB5b3Ugc2hvcnRseS4iLCJ0aGFua19oZWFkZXIiOiJUaGFuayB5b3UhIn19LCJtb2JpbGUiOnRydWUsImNyZWF0ZWRfYXQiOiIyMDE0LTEyLTI3VDAzOjA2OjUzLjAwMFoiLCJ1cGRhdGVkX2F0IjoiMjAxNS0xMC0wNVQxMTo0ODo0MS4wMDBaIn0=';
+}
+}, 5000);
+});
+</script>
+
+
+
+<!--end:footer-->
+</div>
+<input type="hidden" value="" id="gender_value" />
+
+<ul class="rlist cpfopt disp-none" id="radio-list">
+<li class="gridfcolor" id="{{customId}}" data-dbVal="{{cusDbVal}}">{{customValue}}</li>
+{{newLi}}
+</ul>
+<ul class="rlist disp-none" id="other-list">
+<li class="gridfcolor" style="padding:14px" id="{{customId}}" data-dbVal="{{cusDbVal}}">{{customValue}}</li>
+{{newLi}}
+</ul>
+<div id="inputBoxDummy" class="disp-none">
+<span class="reg_wid2 fr brdr-0 fontspinp pos_abs pos1_inp" id="spanDummy" type="text">{{customValue}}</span>
+</div>
+<div id="selected-list" class="disp-none">
+<ul id="{{cusId}}-selected-list" class="rlist {{cusId}}opt">
+</ul>
+</div>
+<ul id="dobDummy" class="disp-none">
+<li id="{{cusId}}">{{customValue}}</li>
+{{newLi}}
+</ul>
+<!--start:drop down-->
+<div class="disp-none" id="gridDummy">
+<div class="pos_abs bg-white brdr-1 t1 reg-zi1 reg-wid3 showdd">
+<div class="pos_rel fullwid"> <i class="pos_abs reg-sprtie reg-droparrow test-pos3 reg-zi100"></i>
+<div class="reg-zi1 regpad2 fullwid optlist scrolla gridfcolor reg-hgt200" id="multipleUls">
+<ul class="clearfix searchUl" id="gridUlDummy">
+<li class="lh30" id="{{customId}}" data-dbVal="{{cusDbVal}}" data-style >
+<div class="pl15 textTru">{{customValue}}</div>
+</li>
+{{newLi}}
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--end:drop down-->
+<div id="alphaDiv" class="disp-none">
+<div class="fontrobbold f13 brdrb-4 pl15 pt10  isGroupheading" data-dbVal="-1">{{cusHeading}}</div>
+</div>
+<script>
+
+var dataArray = null;
+var pageId = null;
+var nextPageId = null;
+var incomplete = null;
+dataArray = {"gender":{"0":{"M":"Male"},"1":{"F":"Female"}},"cpf":{"0":{"1":"Self"},"1":{"2":"Son"},"2":{"2D":"Daughter"},"3":{"6":"Brother"},"4":{"6D":"Sister"},"5":{"4":"Other"},"6":{"4":"Relative\/Friend"},"7":{"5":"Client-Marriage Bureau"}},"dob":{"1":"date","2":"month","3":"year"},"month":{"1":"Jan","2":"Feb","3":"Mar","4":"April","5":"May","6":"Jun","7":"Jul","8":"Aug","9":"Sep","10":"Oct","11":"Nov","12":"Dec"}};
+pageId  = "JSPCR1";
+nextPageId = "JSPCR2";
+var prefilledData = null;
+$(document).ready(function() {
+
+slider();
+});
+
+</script>
+
+
+        <script>
+        //alert("setting JSLoad 1");
+        jsLoadFlag = 1;
+	var jsLogin_layer=1;
+        </script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/helpWidget_js_7.js,/js/jspc/common/commonJspc_js_9.js,/js/jspc/login/loginLayer_js_10.js,/js/jspc/common/urlHandling_1.js,/js/jspc/common/jquery_mCustomScrollbar_1.js,/js/jspc/common/jquery_mousewheel_1.js,/js/commonExpiration_js_2.js,/js/rippleEffectCommon_js_3.js,/js/common_comscore_js_2.js"></script>
+
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/jsms/common/history_js_7.js,/js/jspc/registration/registrationJspc_js_8.js,/js/jspc/common/searchDropdown_js_2.js,/js/jspc/registration/validation_js_9.js,/js/jspc/registration/incompleteProfileJspc_js_2.js"></script>
+
+<!--Google Analytics Code-->
+</body>
+
+    <script>
+    jsb9init_fourth(0.19113087654114,1,2,"http://track.99acres.com/images/zero.gif","JSREGPAGE1URL");
+    </script>
+</html>
+<script>var SSL_SITE_URL='https://www.jeevansathi.com';
+if (window.location.protocol == "https:")
+window.location.href = "http:" + window.location.href.substring(window.location.protocol.length);
+
+</script>
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+_fbq.push(['addPixelId', '569447716516417']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=569447716516417&amp;ev=PixelInitialized" /></noscript>
+

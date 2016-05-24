@@ -1,0 +1,60 @@
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta http-equiv="content-language" content="en">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="/favicon1.ico">
+<link rel="stylesheet" async="true" type="text/css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-Ua-Compatible" content="IE=edge">
+
+
+
+<title>My Desired Partner - Jeevansathi.com</title>
+
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/common/commonJspc_css_4.css,/css/jspc/common/fontsJspc_css_1.css,/css/jspc/common/headerFooterJspc_css_5.css,/css/helpWidget_css_4.css,/css/jspc/common/mCustomScrollBar_css_1.css,/css/rippleEffectCommon_css_2.css">
+
+<link rel="stylesheet" type="text/css" href="http://static.jeevansathi.com/min/?f=/css/jspc/profile/edit/dpp/dppEdit_css_4.css,/css/jspc/utility/chosen/chosen_css_1.css">
+
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" language="Javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/tracking_js_6.js,/js/jspc/common/AjaxWrapper_3.js"></script>
+
+<script type="text/javascript" src="http://static.jeevansathi.com/min/?f=/js/jsms/common/history_js_7.js"></script>
+
+<script>
+var domainCode={};
+domainCode[".hindijeevansathi.in"]="UA-20942264-1";
+domainCode[".jeevansathi.co.in"]="UA-20941176-1";
+domainCode[".marathijeevansathi.in"]="UA-20941180-1";
+domainCode[".punjabijeevansathi.com"]="UA-20941670-1";
+domainCode[".punjabijeevansathi.in"]="UA-20941669-1";
+domainCode[".jeevansathi.com"]="UA-179986-1";
+var host_url="http://"+window.location.host;
+var j_domain=host_url.match(/:\/\/[\w]{0,10}(.[^/]+)/)[1];
+j_domain=j_domain.toLowerCase();
+var ucode=domainCode[j_domain];
+if(ucode)
+{
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', ucode]);
+_gaq.push(['_setDomainName', j_domain]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+}
+function trackJsEventGA(category, action, label){
+if(ucode){
+_gaq.push(['_trackEvent', category, action, label]);
+} else {
+return false;
+}
+}
+var loggedInJspcUser="13341375";
+</script>
+<script>
+    jsb9init_first();
+    </script><div id="jsb9Div"><iframe border="0" height="0" widht="0" style="visibility: hidden" src="http://track.99acres.com/images/zero.gif?data=http//www.jeevansathi.com/register/page6?groupname=google_customdpp|-1|-1|1464008608491|1464008609201|1464008609468|0.20028519630432|JSREGPAGE6URL"></iframe></div><link rel="stylesheet" type="text/css" href="http://assets1.chat.freshdesk.com/css/visitor.css"><style type="text/css">#fc_chat_layout{right:10px}#fc_chat_layout #fc_chat_header{color:#FFFFFF}#fc_chat_layout #fc_chat_header{background-color:#34495e}#fc_chat_layout #fc_chat_container{border-color:rgba(52,73,94,0.3)}}</style></head>
